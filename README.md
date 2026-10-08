@@ -6,7 +6,11 @@
 
 手机优先的静态旅行手册已经完成。网页运行时没有第三方依赖，不用登录，无外部字体、脚本、图片、地图嵌入、追踪器或本地勾选状态。外部链接仅在点击后打开。支持系统自动深浅色、首尔时区秒级倒计时、SVG 示意图、逐日展开路线与 Google Maps 多点地址串联。
 
-**研究进展：**已核对 NOL 当届票务页、SBS／Xportsnews 正文：CDF 于 2026-12-31 在高阳 KINTEX 第 2 展馆 7–8 厅举办，HYUKOH 在首轮阵容；2026-10-13 18:00 KST（中国 17:00）开票，一日票 ₩121,000。海外购票、取票细则与 timetable 尚未公布。已读取指定日期的 Trip.com 双床房列表含税总价、Visit Seoul 延南洞／益善洞／咖啡店资料，以及 KINTEX 官网地址电话。机票动态搜索未取得有效报价，航班卡片仍只是筛选方案和期望窗口；2027 元旦放假安排、签证和假期营业仍需核对。初始网络访问曾被代理 403 拦截，部分域名后续恢复。Chromium 动态网页查询的 TLS 信任仍受阻，未关闭证书验证。详细证据见 RESEARCH.md。
+**研究进展：**已核对 NOL 当届票务页、SBS／Xportsnews 正文：CDF 于 2026-12-31 在高阳 KINTEX 第 2 展馆 7–8 厅举办，HYUKOH 在首轮阵容；2026-10-13 18:00 KST（中国 17:00）开票，一日票 ₩121,000。海外购票、取票细则与 timetable 尚未公布。已读取指定日期的 Trip.com 双床房列表含税总价、Visit Seoul 延南洞／益善洞／咖啡店资料，以及 KINTEX 官网地址电话。机票动态搜索未取得有效报价，航班卡片仍只是筛选方案和期望窗口；2027 元旦放假安排、签证和假期营业仍需核对。初始网络访问曾被代理 403 拦截，部分域名后续恢复。用户授权代理证书信任后，Chromium 的 HTTPS 已能正常读取部分动态页，全程保留证书验证；航班网站仍存在访问拦截或必要接口加载失败。详细证据见 RESEARCH.md。
+
+**发布进展（2026-10-09，中国 UTC+8）：**用户提供的生产地址为 [打开旅行手册](https://ring-in-the-new-year-2627.ddjyace.workers.dev/)，Cloudflare 截图显示首次部署成功。云环境访问该域名的 CONNECT 请求仍被联网规则返回 403，尚未从本环境验证公网页面、匿名访问或是否发布最新提交；已把确切域名追加到环境配置草稿，草稿保存不等于运行环境已应用。
+
+GitHub `main` 已收到首次 `Daily Seoul leads` 自动提交 `71ebf4d`，采集时间为北京时间 2026-10-09 00:14:07。六个活动新闻／官方页面来源成功，Trip.com 酒店来源读取超时，数据正确标为 `partial`；这验证了监测数据写回仓库，尚不能证明定时触发或 Cloudflare 自动发布已成功。机票自动报价仍未接通。
 
 ## 本地使用
 
@@ -47,7 +51,7 @@ npm start
 
 Cloudflare 免费计划受其当期额度限制；这是小型静态站，不需要付费产品。GitHub 私有仓库 Actions 也可能受免费分钟额度限制。不在网页公开任何密钥或个人订单。
 
-官方参考：[Workers Builds](https://developers.cloudflare.com/workers/ci-cd/builds/) 与 [Wrangler 配置](https://developers.cloudflare.com/workers/wrangler/configuration/)。本次通过 Cloudflare 官方文档仓库核对了 Git 导入流程、名称必须匹配和纯静态资源 Worker 配置，并完成 Wrangler dry-run；尚未执行真实 Cloudflare 发布。
+官方参考：[Workers Builds](https://developers.cloudflare.com/workers/ci-cd/builds/) 与 [Wrangler 配置](https://developers.cloudflare.com/workers/wrangler/configuration/)。本次通过 Cloudflare 官方文档仓库核对了 Git 导入流程、名称必须匹配和纯静态资源 Worker 配置，并完成 Wrangler dry-run；用户随后在 Cloudflare 控制台完成首次成功部署，公网及后续自动发布仍待验证。
 
 ### Git 连接无法使用时的备用发布
 
