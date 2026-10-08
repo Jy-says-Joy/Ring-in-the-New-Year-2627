@@ -1,7 +1,7 @@
 {
-  "status": "ok",
-  "lastAttempt": "2026-10-08T16:00:48+00:00",
-  "lastSuccess": "2026-10-08T16:00:48+00:00",
+  "status": "partial",
+  "lastAttempt": "2026-10-08T16:14:07+00:00",
+  "lastSuccess": "2026-10-08T16:14:07+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
@@ -191,46 +191,46 @@
       "count": 0
     },
     {
-      "name": "首尔市英文首页变化（不等于跨年公告） · 已记录页面指纹",
+      "name": "首尔市英文首页变化（不等于跨年公告） · 页面有变化，请人工核实",
       "url": "https://english.seoul.go.kr/",
       "status": "ok",
       "count": 0
     },
     {
-      "name": "NOL 当届票务页变化（可能含倒计时等动态变化） · 已记录页面指纹",
+      "name": "NOL 当届票务页变化（可能含倒计时等动态变化） · 页面有变化，请人工核实",
       "url": "https://nol.yanolja.com/ticket/products/26014480",
       "status": "ok",
       "count": 0
     },
     {
-      "name": "Trip.com 所选日期酒店双床房列表快照（非订单确认）",
+      "name": "Trip.com 所选日期酒店双床房列表快照",
       "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "status": "ok",
-      "count": 0
+      "status": "error",
+      "error": "The read operation timed out"
     }
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "15603031dc23a4c90cd62001e39deac3ba12f00a9aa008095054949c0aeac4f6",
-      "checkedAt": "2026-10-08T16:00:48+00:00",
-      "changed": false
+      "sha256": "74fc9673d6d1444675db8b7c2a55665fd2a74524c8d5b86fdb29ed3592c5768d",
+      "checkedAt": "2026-10-08T16:14:07+00:00",
+      "changed": true
     },
     "https://www.mintpaper.co.kr/": {
       "sha256": "68b1ef38a7a420eba84eeb63d7402c3ef0984a569d6d49112386f2e5f0d4ea4a",
-      "checkedAt": "2026-10-08T16:00:48+00:00",
+      "checkedAt": "2026-10-08T16:14:07+00:00",
       "changed": false
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "e3602f59396dd239452d846ccae06f6eeb1b1060ceb36df5671f5e88739af189",
-      "checkedAt": "2026-10-08T16:00:48+00:00",
-      "changed": false
+      "sha256": "d629808d23e9917c2eb96c7df48076a57129d967dfc8385651fb85f4bebfd81a",
+      "checkedAt": "2026-10-08T16:14:07+00:00",
+      "changed": true
     }
   },
   "observedHotelRates": [],
   "priceMonitoring": {
     "status": "hotel_list_observation_only",
     "flights": "not_connected",
-    "hotels": "ok",
+    "hotels": "error",
     "flightDates": [
       "2026-12-31",
       "2027-01-03"
