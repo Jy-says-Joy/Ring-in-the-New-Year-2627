@@ -1,0 +1,628 @@
+{
+  "updatedAt": "2026-10-08T23:56:36+08:00",
+  "researchStatus": "已读取 SBS／Xportsnews 当届阵容报道、Visit Seoul 检索页和指定日期 Trip.com 酒店列表。机票动态报价、票务完整规则与假期营业仍未核实。",
+  "travelers": "两位女生 · 中国大陆普通护照 · 经济舱 · 双床房",
+  "hotelBudget": "每间每晚 ≤ ¥2,000；3 晚含税总价目标 ≤ ¥6,000",
+  "flights": [
+    {
+      "id": "A",
+      "title": "深圳直飞 · 少一次跨境",
+      "tag": "条件首选 · 需早到",
+      "airport": "SZX ↔ ICN",
+      "outbound": "12/31 上午或中午出发（中国 UTC+8）",
+      "inbound": "1/3 下午或晚间起飞（韩国 UTC+9）",
+      "text": "深圳出发减少跨境接驳，但要按仁川到高阳 KINTEX 的路线倒推，而非只按到首尔市中心计算。若 12/31 上午航班能赶上目标节目，优先省心直飞。",
+      "tradeoff": "CDF 在高阳市。没有实际航班／上台时间前，不能保证当日抵达能看到 HYUKOH；若需要完整参加，应考虑 12/30 晚出发。"
+    },
+    {
+      "id": "B",
+      "title": "香港直飞 · 多一些选择",
+      "tag": "对比含接驳总价",
+      "airport": "HKG ↔ ICN",
+      "outbound": "12/31 中午前后出发（香港 UTC+8）",
+      "inbound": "1/3 午后起飞（韩国 UTC+9），尽量晚间前抵港",
+      "text": "只在票价、航班时间或行李政策明显更合适时选香港。把深圳到香港机场的往返交通费和口岸时间算进总成本。",
+      "tradeoff": "元旦口岸和机场可能拥挤；回港后仍需赶回深圳，避免末班接驳依赖。"
+    },
+    {
+      "id": "C",
+      "title": "12/30 晚走 · 演出更从容",
+      "tag": "看 HYUKOH 的优先备选",
+      "airport": "SZX / HKG ↔ ICN",
+      "outbound": "12/30 下班后出发（中国／香港 UTC+8）",
+      "inbound": "1/3 午后或晚间起飞（韩国 UTC+9）",
+      "text": "只有查到下班后赶得上的航班才成立。若 12/31 活动较早，这个方案可以留出机场到酒店、寄存行李和休息的时间。",
+      "tradeoff": "可能需要第 4 晚酒店；拒绝为了节省一晚住宿而熬通宵。所有航班与时刻待核实。"
+    }
+  ],
+  "flightPlatforms": [
+    [
+      "携程 · 查往返",
+      "https://flights.ctrip.com/"
+    ],
+    [
+      "Trip.com · 查往返",
+      "https://www.trip.com/flights/"
+    ],
+    [
+      "Skyscanner · 深圳日期筛选",
+      "https://www.skyscanner.com.hk/transport/flights/szx/sela/261231/270103/"
+    ],
+    [
+      "Skyscanner · 香港日期筛选",
+      "https://www.skyscanner.com.hk/transport/flights/hkg/sela/261231/270103/"
+    ],
+    [
+      "Google Flights",
+      "https://www.google.com/travel/flights"
+    ]
+  ],
+  "airlines": [
+    [
+      "深圳航空",
+      "https://www.shenzhenair.com/"
+    ],
+    [
+      "南方航空",
+      "https://www.csair.com/"
+    ],
+    [
+      "大韩航空",
+      "https://www.koreanair.com/"
+    ],
+    [
+      "韩亚航空",
+      "https://www.asiana.com/"
+    ],
+    [
+      "国泰航空",
+      "https://www.cathaypacific.com/"
+    ],
+    [
+      "香港航空",
+      "https://www.hongkongairlines.com/"
+    ],
+    [
+      "香港快运",
+      "https://www.hkexpress.com/"
+    ],
+    [
+      "济州航空",
+      "https://www.jejuair.net/"
+    ],
+    [
+      "德威航空",
+      "https://www.twayair.com/"
+    ]
+  ],
+  "flightQuotes": [],
+  "hotelQuotes": [
+    {
+      "name": "NINE TREE BY PARNAS SEOUL MYEONGDONG 2",
+      "room": "Standard Twin Room",
+      "totalPrice": "US$811 / 3 晚 / 1 间 / 含税费",
+      "averagePrice": "约 US$270.33 / 间 / 晚；RMB 预算需按结算汇率复核",
+      "conditions": "列表标注 4-hour Cancellation Window；不能理解成入住前任意免费取消。会员价与最终库存待订单确认。",
+      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1",
+      "checkedAt": "2026-10-08T23:45:10+08:00"
+    },
+    {
+      "name": "Friendly DH Naissance Hotel by Mindrum Group",
+      "room": "Budget Twin Room",
+      "totalPrice": "CNY 2,404 / 3 晚 / 1 间 / 含税费",
+      "averagePrice": "约 ¥801.33 / 间 / 晚；在预算内的列表快照",
+      "conditions": "列表显示含早餐、Free Cancellation、会员价；取消截止日／库存／最终结算须确认。地点在诚信女大方向，距本行程主街区更远。",
+      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY&keyword=NINE%20TREE%20BY%20PARNAS%20SEOUL%20MYEONGDONG%202",
+      "checkedAt": "2026-10-08T23:49:13+08:00"
+    }
+  ],
+  "events": [
+    {
+      "name": "COUNTDOWN FANTASY × HYUKOH",
+      "status": "NOL 当届商品页已核对 · 细则待公布",
+      "text": "已核对当届 NOL 商品页和 SBS／Xportsnews 报道：2026/12/31 举办，HYUKOH、Silica Gel、FTISLAND 等列入首轮 12 组阵容，共 3 个舞台。全场不对号入座一日票，具体上台时间、入场与结束时间仍待公布。",
+      "time": "2026-12-31（周四），韩国 KST / UTC+9；具体演出时段待官方 timetable",
+      "location": "高阳市一山 KINTEX 第 2 展馆 7–8 厅。场馆官网地址：217-60 Kintex-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do；总机 +82-31-995-8114（不是活动票务热线），具体入场门待活动公告。",
+      "booking": "NOL 商品页：2026-10-13 18:00 KST（北京时间 17:00）开票；₩121,000 / 人一日票，两人票面合计 ₩242,000，服务费另核。其他渠道：YES24、Naver、2TM（SBS 报道）。海外支付、实名证件、取票及退改细则待公布；韩国票务客服 1544-1555，09:00–18:00 KST，海外拨打适用性待查。",
+      "links": [
+        [
+          "SBS：当届日期／场馆／阵容／售票渠道",
+          "https://ent.sbs.co.kr/amp/article.do?article_id=E10010322954"
+        ],
+        [
+          "Xportsnews：当届 12 组阵容报道",
+          "https://www.xportsnews.com/article/2204942"
+        ],
+        [
+          "MINT PAPER 官方入口",
+          "https://www.mintpaper.co.kr/"
+        ],
+        [
+          "NOL 当届官方购票页",
+          "https://nol.yanolja.com/ticket/products/26014480"
+        ],
+        [
+          "YES24 官方票务入口",
+          "https://ticket.yes24.com/"
+        ],
+        [
+          "Naver 开票时间／票价线索，待复核",
+          "https://search.naver.com/search.naver?query=카운트다운+판타지+2026-2027+티켓+오픈+예매+가격"
+        ],
+        [
+          "KINTEX 官网／交通入口",
+          "https://www.kintex.com/web/en/index.do"
+        ]
+      ],
+      "place": "KINTEX Exhibition Center 2 Goyang"
+    },
+    {
+      "name": "普信阁 · 城市迎新观察",
+      "status": "历史传统 · 当届安排待公布",
+      "text": "可作为城市跨年备选，关注首尔市政府的敲钟、周边交通管制与入场说明。不要在音乐节结束后默认还能赶到。",
+      "time": "12/31 夜间跨年候选，具体时间待核实（KST）",
+      "location": "候选地点：普信阁 Bosingak，钟路；当届地点以市政府为准",
+      "place": "Bosingak Seoul",
+      "booking": "是否需预约、现场容量、地铁延时：待当届公告",
+      "links": [
+        [
+          "首尔市官方英文网站",
+          "https://english.seoul.go.kr/"
+        ],
+        [
+          "Visit Seoul",
+          "https://english.visitseoul.net/"
+        ]
+      ]
+    },
+    {
+      "name": "酒店附近 · 轻松备用夜",
+      "status": "自拟备选 · 无活动承诺",
+      "text": "若音乐节日期不合适或门票售罄，在酒店附近吃晚饭、找一家营业时间已确认的室内店迎新。不奔波，不排很久的露天队。",
+      "time": "12/31 晚餐后自由安排（KST）",
+      "location": "以最终住宿片区为中心，步行优先",
+      "booking": "餐厅节日营业与预订需确认；不假定咖啡店营业至午夜",
+      "links": [
+        [
+          "弘大夜间店铺检索",
+          "https://search.naver.com/search.naver?query=홍대+연말+카페+영업시간"
+        ]
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "title": "弘大 / Hongdae",
+      "badge": "机场铁路方便 · 咖啡与逛街",
+      "name": "候选：Mercure Ambassador Seoul Hongdae / L7 HONGDAE",
+      "place": "Mercure Ambassador Seoul Hongdae",
+      "text": "弘大入口站方便机场铁路和延南洞轻逛。若三晚固定住弘大，必须单独确认 KINTEX 跨年散场后的返回接送，不能默认末班地铁还在运行。",
+      "budget": "≤ ¥2,000 / 间 / 晚；实际含税报价待查",
+      "address": "精确地址、电话、入住时间：订房前按官网核实",
+      "links": [
+        [
+          "Mercure 官方检索",
+          "https://all.accor.com/"
+        ],
+        [
+          "L7 官网",
+          "https://www.lottehotel.com/"
+        ]
+      ]
+    },
+    {
+      "title": "钟路 / 仁寺洞",
+      "badge": "适合古城街区 · 城市跨年备选",
+      "name": "候选：NINE TREE BY PARNAS Seoul Insadong",
+      "place": "NINE TREE BY PARNAS Seoul Insadong",
+      "text": "益善洞、仁寺洞、安国方向更顺路。若选择普信阁跨年，可优先比较这个片区的步行和夜间返回路线。",
+      "budget": "≤ ¥2,000 / 间 / 晚；实际含税报价待查",
+      "address": "精确地址、电话、入住时间：订房前按官网核实",
+      "links": [
+        [
+          "NINE TREE 官网",
+          "https://www.ninetreehotels.com/"
+        ]
+      ]
+    },
+    {
+      "title": "高阳 / KINTEX 附近",
+      "badge": "演出优先 · 可考虑只住首晚",
+      "name": "候选：Sono Calm Goyang（未查库存／价格）",
+      "text": "CDF 场馆位于高阳，首晚住附近能减少跨年散场奔波；再搬到首尔住 2 晚，代价是换一次房。另一种方案是首尔住 3 晚但提前落实散场接送。",
+      "budget": "≤ ¥2,000 / 间 / 晚；三晚不换房优先",
+      "address": "距场馆路线、精确地址、电话、入住时间：订房前按官网核实",
+      "links": [
+        [
+          "Booking.com",
+          "https://www.booking.com/"
+        ],
+        [
+          "Agoda",
+          "https://www.agoda.com/"
+        ]
+      ],
+      "place": "Sono Calm Goyang"
+    }
+  ],
+  "hotelPlatforms": [
+    [
+      "携程酒店",
+      "https://hotels.ctrip.com/"
+    ],
+    [
+      "Trip.com 酒店",
+      "https://www.trip.com/hotels/"
+    ],
+    [
+      "Booking.com",
+      "https://www.booking.com/"
+    ],
+    [
+      "Agoda",
+      "https://www.agoda.com/"
+    ]
+  ],
+  "days": [
+    {
+      "date": "2026-12-31",
+      "label": "THU",
+      "title": "抵达，把今晚留给现场。",
+      "color": "#b3543d",
+      "sleep": "首晚高阳附近，或弘大 + 已安排散场接送 · 未预订",
+      "route": [
+        "Hongik University Station Seoul",
+        "KINTEX Exhibition Center 2 Goyang"
+      ],
+      "routeNote": "示意：弘大住宿候选 → 高阳 KINTEX 第 2 展馆。实际可从机场直去高阳；酒店、行李寄存和演出时段确认后再定交通，不默认午夜有地铁。",
+      "items": [
+        [
+          "抵达后",
+          "仁川 → 住宿基地，先安顿行李",
+          "优先按 KINTEX 场馆倒推。若只赶得上午后抵达，可能错过部分节目；不要为了追现场省掉通关、交通与休息缓冲。",
+          "Incheon International Airport",
+          "交通／航班待定"
+        ],
+        [
+          "活动前 · 弹性",
+          "酒店附近午饭，短暂休息",
+          "不再安排延南洞额外绕路。先确认入场时间、行李寄存和返程接送，再决定什么时候去场馆。",
+          null,
+          "可删减"
+        ],
+        [
+          "按官方 timetable",
+          "COUNTDOWN FANTASY / HYUKOH",
+          "12/31 于高阳 KINTEX 第 2 展馆 7–8 厅举办，HYUKOH 在首轮阵容。上台时段和完整票务规则待公布，不承诺能赶上具体节目。",
+          "KINTEX Exhibition Center 2 Goyang",
+          "需提前购票 · timetable 待公布"
+        ],
+        [
+          "00:00 · 跨入 1/1",
+          "新年好，回酒店休息",
+          "此时是 2027-01-01 00:00 KST，中国／香港为 2026-12-31 23:00 UTC+8。不要安排早起项目。",
+          null,
+          "首尔 KST / UTC+9"
+        ]
+      ]
+    },
+    {
+      "date": "2027-01-01",
+      "label": "FRI",
+      "title": "睡到自然醒，咖啡续一杯。",
+      "color": "#537a69",
+      "sleep": "同一家酒店 · 第 2 晚 · 未预订",
+      "route": [
+        "Yeonnam-dong Seoul",
+        "Gyeongui Line Forest Park Seoul",
+        "Hongik University Station Seoul"
+      ],
+      "routeNote": "延南洞 → 京义线林荫道 → 弘大。元旦营业时间待确认；户外冷就缩短步行。",
+      "items": [
+        [
+          "11:30",
+          "延南洞慢慢吃 brunch",
+          "只选一家确认营业的店，尽量不排长队。跨年散场晚的话，午后出门也完全可以。 若首晚住高阳，今天中午再换到首尔，保留下午咖啡即可。",
+          "Yeonnam-dong Seoul",
+          "假期营业待查"
+        ],
+        [
+          "13:00",
+          "京义线林荫道 + 咖啡",
+          "走一小段就找室内咖啡店坐下，不把公园整段当任务。雨雪天改为室内。 可选 Folv Yeonnam，常规 10:00–21:30 KST，地址和电话见轻体验卡片；元旦是否营业待确认。",
+          "Gyeongui Line Forest Park Seoul",
+          "轻步行"
+        ],
+        [
+          "15:00",
+          "弘大小店 / 人生四格",
+          "看看衣服、文创店，想拍照再拍。这个时段也可留给已预约的妆造体验。",
+          "Hongik University Station Seoul",
+          "妆造需提前预约"
+        ],
+        [
+          "18:00",
+          "热汤晚饭，早点回酒店",
+          "尽量在住宿附近用餐，保留一个自由晚上。",
+          "Hongik University Station Seoul",
+          "不赶场"
+        ]
+      ]
+    },
+    {
+      "date": "2027-01-02",
+      "label": "SAT",
+      "title": "老街、暖咖啡，一点点体验。",
+      "color": "#8272a1",
+      "sleep": "同一家酒店 · 第 3 晚 · 未预订",
+      "route": [
+        "Anguk Station Seoul",
+        "Insadong Seoul",
+        "Ikseon-dong Hanok Street Seoul"
+      ],
+      "routeNote": "安国 → 仁寺洞 → 益善洞。均为街区示意，避开居民区打扰；具体店铺后续补齐。",
+      "items": [
+        [
+          "11:00",
+          "安国集合，找一家暖暖的咖啡店",
+          "先吃再逛，热门店排队超过 20 分钟就换店。",
+          "Anguk Station Seoul",
+          "营业待核实"
+        ],
+        [
+          "13:00",
+          "仁寺洞：纸品、茶与小物",
+          "看展、买文创或喝茶都可以，不需要安排满。",
+          "Insadong Seoul",
+          "轻逛街"
+        ],
+        [
+          "14:30",
+          "轻体验二选一",
+          "妆造／个人色彩咨询，或戒指／香氛手作。看中文或英文服务、总价、耗时与是否含照片；只订一个项目。",
+          "Insadong Seoul",
+          "需提前预约"
+        ],
+        [
+          "16:30",
+          "益善洞，坐到天色慢慢暗",
+          "找室内店喝咖啡、晚饭。热门周末街区可以随时放弃，回酒店附近也很好。 可选 Dongbaek Bakery；不要把旅游局文章里已标为 Closed 的 Changhwadang 当成可去餐厅。",
+          "Ikseon-dong Hanok Street Seoul",
+          "自由选择"
+        ]
+      ]
+    },
+    {
+      "date": "2027-01-03",
+      "label": "SUN",
+      "title": "买点小东西，留够时间回家。",
+      "color": "#af873c",
+      "sleep": "返深 · 无住宿",
+      "route": [
+        "Hongik University Station Seoul",
+        "Incheon International Airport"
+      ],
+      "routeNote": "返程示意。Google 多点导航在韩国可能无法给出完整线路，机场铁路／大巴以当日信息为准。",
+      "items": [
+        [
+          "10:00",
+          "早餐、退房、寄存行李",
+          "如果回程早，直接去机场；不为最后一顿咖啡冒险。退房时间按酒店订单。",
+          null,
+          "按航班调整"
+        ],
+        [
+          "上午 · 可删减",
+          "酒店附近补货",
+          "买护肤品、伴手礼，把购物压在一个小区域；留好收据并确认机场退税所需时间。",
+          "Hongik University Station Seoul",
+          "低优先级"
+        ],
+        [
+          "起飞前倒推",
+          "取行李，前往仁川机场",
+          "按航司要求抵达机场，规划通常至少起飞前 3 小时到达，再额外计算市区交通和冬季缓冲。T1／T2 以航司确认。",
+          "Incheon International Airport",
+          "必须留缓冲"
+        ],
+        [
+          "按最终航班",
+          "落地深圳 / 香港后回深圳",
+          "抵港航班还要考虑入境、行李、口岸营业与末班接驳。所有时间在订票后改为实际航班时刻。",
+          null,
+          "中国／香港 UTC+8"
+        ]
+      ]
+    }
+  ],
+  "ideas": [
+    {
+      "title": "韩式妆造 + 自拍",
+      "text": "最贴合这趟旅行的小体验。选明确提供所需语言服务的工作室，确认是否包含发型、睫毛、拍照与卸妆用品；避免演出当天安排太紧。",
+      "duration": "预留约 2–3 小时，商家实际时长待确认",
+      "links": [
+        [
+          "Klook · 妆造检索",
+          "https://www.klook.com/search/result/?query=Seoul%20makeup"
+        ],
+        [
+          "小红书检索词",
+          "https://www.xiaohongshu.com/search_result?keyword=首尔妆造%20中文%20预约"
+        ]
+      ]
+    },
+    {
+      "title": "个人色彩咨询",
+      "text": "坐着做的小体验，适合一起参加。预约前问清是否可双人同场、翻译费用、报告语言、是否要求素颜。",
+      "duration": "预留约 1–2 小时，具体套餐待确认",
+      "links": [
+        [
+          "Klook · 色彩咨询检索",
+          "https://www.klook.com/search/result/?query=Seoul%20personal%20color"
+        ],
+        [
+          "KKday",
+          "https://www.kkday.com/"
+        ]
+      ]
+    },
+    {
+      "title": "戒指 / 香氛手作",
+      "text": "为新年带回一个小物件。确认课程语言、作品是否当场带走、香氛携带规定与总价；预算不合适就改成免费逛店。",
+      "duration": "预留约 1–2 小时，具体店铺待选择",
+      "links": [
+        [
+          "Naver 手作检索",
+          "https://search.naver.com/search.naver?query=서울+반지+향수+공방"
+        ],
+        [
+          "B站旅行检索",
+          "https://search.bilibili.com/all?keyword=首尔%20手作%20旅行"
+        ]
+      ]
+    },
+    {
+      "title": "两家咖啡，挑一家就好",
+      "text": "Folv Yeonnam：32 Donggyo-ro 41-gil, Mapo-gu，一层；+82-70-8722-1067；旅游局资料显示 10:00–21:30 KST，手冲约 ₩8,000、派约 ₩8,000–9,000。益善洞 Dongbaek Bakery：17-24 Supyo-ro 28-gil, Jongno-gu；+82-507-1318-0468；资料显示 09:00–22:00 KST。均为常规资料，元旦营业、价格和排队情况需再核实。",
+      "duration": "坐 45–90 分钟，喜欢就多待一会儿",
+      "links": [
+        [
+          "Folv：Visit Seoul 2026 年资料",
+          "https://english.visitseoul.net/restaurants/PolvYeonnam/ENPoym5k2"
+        ],
+        [
+          "Folv 导航",
+          "https://www.google.com/maps/search/?api=1&query=Folv%20Yeonnam%20Seoul"
+        ],
+        [
+          "Dongbaek：Visit Seoul 资料",
+          "https://english.visitseoul.net/editorspicks/SeouliteinIkseondong/ENN032625"
+        ],
+        [
+          "Dongbaek 导航",
+          "https://www.google.com/maps/search/?api=1&query=Dongbaek%20Bakery%20Ikseon%20Seoul"
+        ]
+      ]
+    }
+  ],
+  "guideLinks": [
+    [
+      "Visit Seoul：延南洞建筑散步",
+      "https://english.visitseoul.net/editorspicks/A-Tour-of-Seouls-Streetside-Architecture-4-Yeonnam-ro/ENN039022"
+    ],
+    [
+      "Visit Seoul：益善洞轻松吃喝",
+      "https://english.visitseoul.net/editorspicks/SeouliteinIkseondong/ENN032625"
+    ],
+    [
+      "Visit Seoul 官方攻略",
+      "https://english.visitseoul.net/"
+    ],
+    [
+      "韩国旅游发展局",
+      "https://english.visitkorea.or.kr/"
+    ],
+    [
+      "小红书 · 冬日咖啡",
+      "https://www.xiaohongshu.com/search_result?keyword=首尔%20冬季%20延南洞%20咖啡"
+    ],
+    [
+      "B站 · 首尔轻旅行",
+      "https://search.bilibili.com/all?keyword=首尔%20冬季%20咖啡%20自由行"
+    ],
+    [
+      "Naver · 元旦营业",
+      "https://search.naver.com/search.naver?query=서울+카페+1월1일+영업"
+    ]
+  ],
+  "todos": [
+    [
+      "10/13 17:00 中国时间",
+      "准备 COUNTDOWN FANTASY 开票",
+      "NOL 官方商品页已核对开票时刻、₩121,000 一日票及 HYUKOH 阵容。开票前确认海外购买与付款、取票规则；HYUKOH timetable 未公布。"
+    ],
+    [
+      "先做",
+      "核实证件与入境要求",
+      "按两位中国大陆普通护照持有人核对韩国签证、护照有效期、入境申报要求；走香港时核对往返过境所需材料。"
+    ],
+    [
+      "先做",
+      "确认请假与假期",
+      "按 12/31 请假、1/1–1/3 休息规划；2027 放假安排与单位制度仍需核对。"
+    ],
+    [
+      "待报价",
+      "同条件比较深圳 / 香港机票",
+      "记录每人往返含税总价、每段时区、行李、退改、付款币种与查询时刻。"
+    ],
+    [
+      "待预订",
+      "锁定 3 晚可取消双床房",
+      "每间每晚含税 ≤ ¥2,000；比较首晚高阳 + 2 晚首尔，或三晚首尔但已落实散场接送。避免仅为不搬家而跨年深夜长途返程。"
+    ],
+    [
+      "开票后",
+      "购买活动票，核对取票方式",
+      "海外付款是否支持、实名证件一致、是否允许再入场、储物与相机规定。"
+    ],
+    [
+      "可选",
+      "预约一项轻体验",
+      "妆造、色彩咨询或手作三选一，提前确认语言、价格、假期开门与取消政策。"
+    ],
+    [
+      "出发前",
+      "准备保暖、网络、支付与散场回程",
+      "防滑鞋、羽绒服、移动网络、银行卡／现金；确认酒店前台与夜间交通。"
+    ]
+  ],
+  "tips": [
+    [
+      "时间别看错",
+      "首尔全年 KST（UTC+9），深圳／香港 UTC+8。网页倒计时使用带偏移量的绝对时刻；每日建议时间均是韩国当地时间。"
+    ],
+    [
+      "地图与交通",
+      "点击地点打开 Google Maps；韩国境内导航能力可能受限。公交与步行可同时参考 Naver Map／Kakao Map。整日多点链接提供地址串联，未承诺能生成公交线路。"
+    ],
+    [
+      "不建议租车",
+      "市区短途、三晚固定酒店，用地铁／机场铁路和必要的正规出租车即可。冬季路况、停车与跨年管制会增加负担。"
+    ],
+    [
+      "韩国签证",
+      "暂按中国大陆普通护照做规划。不要把团队免签、济州政策或旧攻略套到首尔个人自由行；请以使领馆和韩国官方最新要求为准。"
+    ],
+    [
+      "香港出发",
+      "往返香港的证件、机票与口岸规定按本人情况核实，不默认需要或不需要港澳通行证；机票便宜也要算接驳总价。"
+    ],
+    [
+      "冬天的留白",
+      "12 月末至 1 月初可能严寒和结冰，具体天气临近查。每天保留室内咖啡时间，少走长距离；跨年户外候场要特别保暖。"
+    ],
+    [
+      "住宿与夜间返回",
+      "优先有前台、评价充分且靠近公共交通的住宿。提前存好酒店韩文名称和返回路线；若演出在市外，单独确认散场交通。"
+    ],
+    [
+      "公开手册",
+      "只公开候选行程与公开来源。不要上传护照、订单二维码、私人电话或精确个人定位；最新票价和政策以外部平台最终确认。"
+    ]
+  ],
+  "countdowns": [
+    {
+      "at": "2026-10-13T18:00:00+09:00",
+      "title": "COUNTDOWN FANTASY 开票",
+      "description": "2026.10.13 18:00 · 韩国 KST / UTC+9 = 北京时间 17:00 UTC+8；NOL 商品页已核对。",
+      "note": "一日票 ₩121,000 / 人；两人合计 ₩242,000，手续费另核。先准备账号与付款，海外购买／取票细则待公布。"
+    },
+    {
+      "at": "2027-01-01T00:00:00+09:00",
+      "title": "首尔新年倒计时",
+      "description": "2027.01.01 00:00 · 首尔 KST / UTC+9 = 中国 2026.12.31 23:00 UTC+8",
+      "note": "COUNTDOWN FANTASY 在高阳 KINTEX；HYUKOH 具体上台时间和散场交通待公布。"
+    }
+  ]
+}
