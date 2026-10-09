@@ -1,7 +1,7 @@
 {
-  "status": "partial",
-  "lastAttempt": "2026-10-08T16:14:07+00:00",
-  "lastSuccess": "2026-10-08T16:14:07+00:00",
+  "status": "ok",
+  "lastAttempt": "2026-10-09T07:06:36+00:00",
+  "lastSuccess": "2026-10-09T07:06:36+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
@@ -117,6 +117,14 @@
       "status": "unverified"
     },
     {
+      "title": "'2026 특별생방송 새날마중' MC 김대호 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XajZyX2lDaUx6YmZrMm41WnpueXBqYlFndFpDYUh1a0lmMGNuZU84c3BBMTJFUWIxTDRTc29LaU52anNQa3c?oc=5",
+      "source": "Daum",
+      "publishedAt": "2025-12-31T08:00:00+00:00",
+      "discoveredAt": "2026-10-09T07:06:36+00:00",
+      "status": "unverified"
+    },
+    {
       "title": "현장 콘텐츠에 진심인 페스티벌 ‘카운트다운 판타지 2025-2026’ 12월 30일 개막! - 스포츠경향",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ESm1YZldPWXFiX0txODZOaUFuemJ5aDR3bzZpYjVSUUt6TlEwN21MSWc1SURqX2xXOVM5T2JzSWxUa1hKeVJrM1gyMEg2ZF9pSUJfUlEzTi02dGE3OXfSAWNBVV95cUxNVkVmZUl4RXFlN0Z4c3FFaGJ4aFFVQmFxSDZoY1BFV1FCcUR2UVduSHlrQk0zX2xIQmlXNFV0cEJmSlFwTTZtTmIteWFjNHgtVFFtV2dYcmhGSmEyc1lIcGFsMGs?oc=5",
       "source": "스포츠경향",
@@ -176,13 +184,13 @@
       "name": "카운트다운 판타지",
       "url": "https://news.google.com/rss/search?q=%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4+%ED%8C%90%ED%83%80%EC%A7%80+%282026+OR+2027%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 32
+      "count": 34
     },
     {
       "name": "首尔官方跨年线索",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8+2026+2027+%EC%A0%9C%EC%95%BC%EC%9D%98+%EC%A2%85+%EB%B3%B4%EC%8B%A0%EA%B0%81&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     {
       "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 已记录页面指纹",
@@ -203,34 +211,71 @@
       "count": 0
     },
     {
-      "name": "Trip.com 所选日期酒店双床房列表快照",
+      "name": "Trip.com 所选日期酒店双床房列表快照（非订单确认）",
       "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "status": "error",
-      "error": "The read operation timed out"
+      "status": "ok",
+      "count": 2
     }
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "74fc9673d6d1444675db8b7c2a55665fd2a74524c8d5b86fdb29ed3592c5768d",
-      "checkedAt": "2026-10-08T16:14:07+00:00",
+      "sha256": "3de045e12fb0a9c25e334b043458de35a80fac9edb5945c07656fcbe06849da2",
+      "checkedAt": "2026-10-09T07:06:36+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
       "sha256": "68b1ef38a7a420eba84eeb63d7402c3ef0984a569d6d49112386f2e5f0d4ea4a",
-      "checkedAt": "2026-10-08T16:14:07+00:00",
+      "checkedAt": "2026-10-09T07:06:36+00:00",
       "changed": false
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "d629808d23e9917c2eb96c7df48076a57129d967dfc8385651fb85f4bebfd81a",
-      "checkedAt": "2026-10-08T16:14:07+00:00",
+      "sha256": "51d2ca8a95f70deea1f9b2a92a86800b0f3a9db7e0f567e557a0ebb699321fd8",
+      "checkedAt": "2026-10-09T07:06:36+00:00",
       "changed": true
     }
   },
-  "observedHotelRates": [],
+  "observedHotelRates": [
+    {
+      "name": "Myeongdong Merlin Hotel",
+      "room": "Deluxe Twin Loft Room",
+      "totalPrice": "CNY 2,966",
+      "averageNightly": 988.67,
+      "currency": "CNY",
+      "conditions": "列表显示 Free Cancellation；截止日期和完整条款待订单页核实",
+      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
+      "checkedAt": "2026-10-09T07:06:36+00:00",
+      "dates": [
+        "2026-12-31",
+        "2027-01-03"
+      ],
+      "adults": 2,
+      "rooms": 1,
+      "status": "listing_observation",
+      "withinBudget": true
+    },
+    {
+      "name": "NINE TREE BY PARNAS SEOUL MYEONGDONG 2",
+      "room": "Standard Twin Room",
+      "totalPrice": "CNY 5,518",
+      "averageNightly": 1839.33,
+      "currency": "CNY",
+      "conditions": "列表显示 4-hour Cancellation Window；不能视为入住前可免费取消",
+      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
+      "checkedAt": "2026-10-09T07:06:36+00:00",
+      "dates": [
+        "2026-12-31",
+        "2027-01-03"
+      ],
+      "adults": 2,
+      "rooms": 1,
+      "status": "listing_observation",
+      "withinBudget": true
+    }
+  ],
   "priceMonitoring": {
     "status": "hotel_list_observation_only",
     "flights": "not_connected",
-    "hotels": "error",
+    "hotels": "ok",
     "flightDates": [
       "2026-12-31",
       "2027-01-03"
