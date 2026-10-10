@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "lastAttempt": "2026-10-09T07:06:36+00:00",
-  "lastSuccess": "2026-10-09T07:06:36+00:00",
+  "lastAttempt": "2026-10-10T06:39:35+00:00",
+  "lastSuccess": "2026-10-10T06:39:35+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
@@ -10,6 +10,14 @@
       "source": "RNX뉴스",
       "publishedAt": "2026-10-08T02:37:26+00:00",
       "discoveredAt": "2026-10-08T15:41:03+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "‘FNC 신인 밴드’ AxMxP, 2년 연속 ‘카운트다운 판타지 2026-2027’ 출격.. 페스티벌 신흥 강자 존재감 ‘신예 밴드’ - 도민연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01anpOT0s1MW1VZUhIMHplU0IxWEZPUWd6VTBnUmR3NFcweTBzVzRNLWlYSkxkcnZhZ1VtLUdDa19JNjhmdUV2NjUyU1Q3ajlUUDExVHpRemFkc1ptb0cwRHV6Z25wVmh6X3c?oc=5",
+      "source": "도민연합뉴스",
+      "publishedAt": "2026-10-07T22:13:42+00:00",
+      "discoveredAt": "2026-10-10T06:39:35+00:00",
       "status": "unverified"
     },
     {
@@ -66,6 +74,14 @@
       "source": "SBS연예뉴스",
       "publishedAt": "2026-10-07T03:53:51+00:00",
       "discoveredAt": "2026-10-08T15:41:03+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "혁오·실리카겔·FTISLAND 등 라인업...2026년 마지막 페스티벌 '카운트다운 판타지' - SBS연예뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVZFlYTmRfMWhwaGFJbHYtdUpYVnQtLW10MFBmRlBraG5odGZvOUJFbUZVR3MwSFNCWEFDQzZRUmtLYWJ1a3Nxam5uWGoxWE94MGJsUVJReDBQY1FnSTA1aEVfNEFCR05oeHg4R3Z30gFsQVVfeXFMT0xBUTB3X2ZXQXZsNkVrZ2MtNTJrQ3BBb2pQNzhhcEZHRWx5M1pkaW1NX0l0U2ViTTA4WDJSZ2toZ0pxc0paZzRxWEtIQmtyUG11aWFydERNMDh1a3RfNUVPeFpSYmF1cF82amY0?oc=5",
+      "source": "SBS연예뉴스",
+      "publishedAt": "2026-10-07T03:53:51+00:00",
+      "discoveredAt": "2026-10-10T06:39:35+00:00",
       "status": "unverified"
     },
     {
@@ -184,7 +200,7 @@
       "name": "카운트다운 판타지",
       "url": "https://news.google.com/rss/search?q=%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4+%ED%8C%90%ED%83%80%EC%A7%80+%282026+OR+2027%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 34
+      "count": 35
     },
     {
       "name": "首尔官方跨年线索",
@@ -214,23 +230,23 @@
       "name": "Trip.com 所选日期酒店双床房列表快照（非订单确认）",
       "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
       "status": "ok",
-      "count": 2
+      "count": 1
     }
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "3de045e12fb0a9c25e334b043458de35a80fac9edb5945c07656fcbe06849da2",
-      "checkedAt": "2026-10-09T07:06:36+00:00",
+      "sha256": "93defbc5f10ae6541b31b4be60fc85810b1f3435df0b7487aa77fde5980bee3e",
+      "checkedAt": "2026-10-10T06:39:35+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
       "sha256": "68b1ef38a7a420eba84eeb63d7402c3ef0984a569d6d49112386f2e5f0d4ea4a",
-      "checkedAt": "2026-10-09T07:06:36+00:00",
+      "checkedAt": "2026-10-10T06:39:35+00:00",
       "changed": false
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "51d2ca8a95f70deea1f9b2a92a86800b0f3a9db7e0f567e557a0ebb699321fd8",
-      "checkedAt": "2026-10-09T07:06:36+00:00",
+      "sha256": "cab72786db1bc97287199a3e779b67bf881ce856e3bf7561bc37d5e7b289096a",
+      "checkedAt": "2026-10-10T06:39:35+00:00",
       "changed": true
     }
   },
@@ -238,30 +254,12 @@
     {
       "name": "Myeongdong Merlin Hotel",
       "room": "Deluxe Twin Loft Room",
-      "totalPrice": "CNY 2,966",
-      "averageNightly": 988.67,
+      "totalPrice": "CNY 2,898",
+      "averageNightly": 966.0,
       "currency": "CNY",
       "conditions": "列表显示 Free Cancellation；截止日期和完整条款待订单页核实",
       "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "checkedAt": "2026-10-09T07:06:36+00:00",
-      "dates": [
-        "2026-12-31",
-        "2027-01-03"
-      ],
-      "adults": 2,
-      "rooms": 1,
-      "status": "listing_observation",
-      "withinBudget": true
-    },
-    {
-      "name": "NINE TREE BY PARNAS SEOUL MYEONGDONG 2",
-      "room": "Standard Twin Room",
-      "totalPrice": "CNY 5,518",
-      "averageNightly": 1839.33,
-      "currency": "CNY",
-      "conditions": "列表显示 4-hour Cancellation Window；不能视为入住前可免费取消",
-      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "checkedAt": "2026-10-09T07:06:36+00:00",
+      "checkedAt": "2026-10-10T06:39:35+00:00",
       "dates": [
         "2026-12-31",
         "2027-01-03"
