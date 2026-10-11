@@ -1,9 +1,17 @@
 {
   "status": "ok",
-  "lastAttempt": "2026-10-10T06:39:35+00:00",
-  "lastSuccess": "2026-10-10T06:39:35+00:00",
+  "lastAttempt": "2026-10-11T06:46:41+00:00",
+  "lastSuccess": "2026-10-11T06:46:41+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
+    {
+      "title": "‘FNC 신인 밴드’ AxMxP, 뜨겁게 달린다…페스티벌 신흥 강자 존재감 - 뉴스엔",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xV3VybUxjWS1xMExoLXREaGJ2VFNzNzZnRUlXR0JQRFNzaFBab1hqdWRUWUNBMUM4VE5VVXVzWUdXWXBFbk1aTERoU0U5ck9OYTd5MGVMTkR6R2VSU1JkdEdObkJhNVpC?oc=5",
+      "source": "뉴스엔",
+      "publishedAt": "2026-10-08T07:51:32+00:00",
+      "discoveredAt": "2026-10-11T06:46:41+00:00",
+      "status": "unverified"
+    },
     {
       "title": "AxMxP, 2년 연속 '카운트다운 판타지 2026-2027' 출격…페스티벌 신흥 강자 존재감 - RNX뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13ekJ6aXlEekFRdTd1WmVmVzJnTlByWm80NkN0OENtZlJWMXBCOGJwT256NndnSHJkMVI1b3drR3VTSjJlLVJUcE1Qby1heVA5V3RsbkN3NmN3VmgwYW5JQnZOTQ?oc=5",
@@ -37,9 +45,9 @@
       "status": "unverified"
     },
     {
-      "title": "AxMxP, 연말까지 페스티벌·해외 콘서트 잇는 밴드 행보 - TopStarNews",
+      "title": "AxMxP, 연말까지 페스티벌·해외 콘서트 잇는 밴드 행보 - 톱스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VNGdUZnZhREtpcEZjcVJfUF90S1ZqNnl1MDMyMmRDQUdESUUzTkN6bThhZ2d1TmdmSWNOMzdiTTJVeFFFS2pfSWJVdUVmcE9KRzJSNXVfdWN0d2lsZzlsV1hmbDN0MnY1MWl1Slk1UnJjQQ?oc=5",
-      "source": "TopStarNews",
+      "source": "톱스타뉴스",
       "publishedAt": "2026-10-07T22:07:33+00:00",
       "discoveredAt": "2026-10-08T15:41:03+00:00",
       "status": "unverified"
@@ -194,13 +202,13 @@
       "name": "COUNTDOWN FANTASY / HYUKOH",
       "url": "https://news.google.com/rss/search?q=COUNTDOWN+FANTASY+%282026+OR+2027%29+%28HYUKOH+OR+%ED%98%81%EC%98%A4%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     {
       "name": "카운트다운 판타지",
       "url": "https://news.google.com/rss/search?q=%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4+%ED%8C%90%ED%83%80%EC%A7%80+%282026+OR+2027%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 35
+      "count": 36
     },
     {
       "name": "首尔官方跨年线索",
@@ -230,23 +238,23 @@
       "name": "Trip.com 所选日期酒店双床房列表快照（非订单确认）",
       "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
       "status": "ok",
-      "count": 1
+      "count": 2
     }
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "93defbc5f10ae6541b31b4be60fc85810b1f3435df0b7487aa77fde5980bee3e",
-      "checkedAt": "2026-10-10T06:39:35+00:00",
+      "sha256": "8a34dc9fa194f4e9bd09de4400e1c42b8f020668699bbeaf1135279e7d4aeb94",
+      "checkedAt": "2026-10-11T06:46:41+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
       "sha256": "68b1ef38a7a420eba84eeb63d7402c3ef0984a569d6d49112386f2e5f0d4ea4a",
-      "checkedAt": "2026-10-10T06:39:35+00:00",
+      "checkedAt": "2026-10-11T06:46:41+00:00",
       "changed": false
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "cab72786db1bc97287199a3e779b67bf881ce856e3bf7561bc37d5e7b289096a",
-      "checkedAt": "2026-10-10T06:39:35+00:00",
+      "sha256": "af70dccef52dc2f83535cae1e05524e122e2f36c8101ea2f6687f7ac3b39133d",
+      "checkedAt": "2026-10-11T06:46:41+00:00",
       "changed": true
     }
   },
@@ -259,7 +267,25 @@
       "currency": "CNY",
       "conditions": "列表显示 Free Cancellation；截止日期和完整条款待订单页核实",
       "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "checkedAt": "2026-10-10T06:39:35+00:00",
+      "checkedAt": "2026-10-11T06:46:41+00:00",
+      "dates": [
+        "2026-12-31",
+        "2027-01-03"
+      ],
+      "adults": 2,
+      "rooms": 1,
+      "status": "listing_observation",
+      "withinBudget": true
+    },
+    {
+      "name": "Hotel Kukdo",
+      "room": "Standard Twin Room",
+      "totalPrice": "CNY 4,183",
+      "averageNightly": 1394.33,
+      "currency": "CNY",
+      "conditions": "取消与付款条款待订单页核实",
+      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
+      "checkedAt": "2026-10-11T06:46:41+00:00",
       "dates": [
         "2026-12-31",
         "2027-01-03"
