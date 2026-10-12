@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "lastAttempt": "2026-10-11T06:46:41+00:00",
-  "lastSuccess": "2026-10-11T06:46:41+00:00",
+  "lastAttempt": "2026-10-12T06:55:05+00:00",
+  "lastSuccess": "2026-10-12T06:55:05+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
@@ -93,6 +93,14 @@
       "status": "unverified"
     },
     {
+      "title": "FT아일랜드·원위·혁오 한자리에…'카운트다운 판타지 2026-2027' 1차 라인업 공개 - www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12MklybU5PdkFFaFloYjZHWDFkMTNDbnJLa05jeDFHWWRldk5XS0hnb0djU2J4akQ2cndFZnk5aVEta0NrX0dGWkp6NFZUZU56M3lPTQ?oc=5",
+      "source": "www.xportsnews.com",
+      "publishedAt": "2026-10-07T02:55:22+00:00",
+      "discoveredAt": "2026-10-12T06:55:05+00:00",
+      "status": "unverified"
+    },
+    {
       "title": "Final festival of the year: first lineup for ‘Countdown Fantasy 2026-2027’ revealed to ring in the New Year - 스포츠경향",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pU0VKTy1wY1pVUmZ0bWpFTUMtcVk5azQyRUE4MWJiVGhYOUc2YVhDVXFaS0pYc294Mm5hWURPZXN0cHlkQ0t5cTlnZzBRQzRMOGV0em40ZGZURjFheE5LeVRB?oc=5",
       "source": "스포츠경향",
@@ -138,6 +146,14 @@
       "source": "싱글리스트",
       "publishedAt": "2026-10-06T23:09:45+00:00",
       "discoveredAt": "2026-10-08T15:41:03+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "제야의 종으로 '붉은 말의 해' 시작…\"행복 오는 2026년 되길\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82Z2I5OS1mcVNUTEZNY3BKWWVFNlZPendCWjAzTkJOVGY1UE5GSTg5cy1HQTJpaVpuVTRRTmRsM2ZDOXA1TndSMDhHZ1FCWWJWeF9qMU92cEI1ZGvSAWBBVV95cUxOa3FrTm5RZy1xSUs5RzdzbHMtZWtMMndLVVl5cXppTmVtem13YTJLMGhHZDlvcnlXOGRfQWxma2FqYmgwMjlkTXlZbVh4N2RaaHlzOVFEbVdRX3JYcGdqVTA?oc=5",
+      "source": "연합뉴스",
+      "publishedAt": "2026-01-01T08:00:00+00:00",
+      "discoveredAt": "2026-10-12T06:55:05+00:00",
       "status": "unverified"
     },
     {
@@ -202,7 +218,7 @@
       "name": "COUNTDOWN FANTASY / HYUKOH",
       "url": "https://news.google.com/rss/search?q=COUNTDOWN+FANTASY+%282026+OR+2027%29+%28HYUKOH+OR+%ED%98%81%EC%98%A4%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     {
       "name": "카운트다운 판타지",
@@ -217,7 +233,7 @@
       "count": 4
     },
     {
-      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 已记录页面指纹",
+      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 页面有变化，请人工核实",
       "url": "https://www.mintpaper.co.kr/",
       "status": "ok",
       "count": 0
@@ -238,23 +254,23 @@
       "name": "Trip.com 所选日期酒店双床房列表快照（非订单确认）",
       "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
       "status": "ok",
-      "count": 2
+      "count": 1
     }
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "8a34dc9fa194f4e9bd09de4400e1c42b8f020668699bbeaf1135279e7d4aeb94",
-      "checkedAt": "2026-10-11T06:46:41+00:00",
+      "sha256": "fe666077a4f979e9ef66f4fd1082655b8b3f6631fa6888ae82e71f28b5bf7f22",
+      "checkedAt": "2026-10-12T06:55:05+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
-      "sha256": "68b1ef38a7a420eba84eeb63d7402c3ef0984a569d6d49112386f2e5f0d4ea4a",
-      "checkedAt": "2026-10-11T06:46:41+00:00",
-      "changed": false
+      "sha256": "d7e6cfe2cf42b2433e6ea306e928e937cef538aa6b0a3e68bce5de7048dd3f66",
+      "checkedAt": "2026-10-12T06:55:05+00:00",
+      "changed": true
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "af70dccef52dc2f83535cae1e05524e122e2f36c8101ea2f6687f7ac3b39133d",
-      "checkedAt": "2026-10-11T06:46:41+00:00",
+      "sha256": "62b92d0a6769b4083fe83dd76d7d4ed13e71dda9b78966099af841935538fea2",
+      "checkedAt": "2026-10-12T06:55:05+00:00",
       "changed": true
     }
   },
@@ -262,30 +278,12 @@
     {
       "name": "Myeongdong Merlin Hotel",
       "room": "Deluxe Twin Loft Room",
-      "totalPrice": "CNY 2,898",
-      "averageNightly": 966.0,
+      "totalPrice": "CNY 2,912",
+      "averageNightly": 970.67,
       "currency": "CNY",
       "conditions": "列表显示 Free Cancellation；截止日期和完整条款待订单页核实",
       "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "checkedAt": "2026-10-11T06:46:41+00:00",
-      "dates": [
-        "2026-12-31",
-        "2027-01-03"
-      ],
-      "adults": 2,
-      "rooms": 1,
-      "status": "listing_observation",
-      "withinBudget": true
-    },
-    {
-      "name": "Hotel Kukdo",
-      "room": "Standard Twin Room",
-      "totalPrice": "CNY 4,183",
-      "averageNightly": 1394.33,
-      "currency": "CNY",
-      "conditions": "取消与付款条款待订单页核实",
-      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "checkedAt": "2026-10-11T06:46:41+00:00",
+      "checkedAt": "2026-10-12T06:55:05+00:00",
       "dates": [
         "2026-12-31",
         "2027-01-03"
