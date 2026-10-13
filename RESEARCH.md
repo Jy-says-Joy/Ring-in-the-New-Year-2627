@@ -50,3 +50,34 @@
 - 小红书检索返回页面壳，没有可读取笔记；B站检索返回验证码。只保留灵感检索入口，不声称已经阅读笔记或视频。
 
 妆造、个人色彩、戒指／香氛手作是符合用户偏好的体验类别候选，尚未选择商家、核实报价／语言服务或预订。网页时长只是规划预留，并非已确认商品套餐。
+
+## 2026-10-13 第二版：首尔市内与成年人的购物咖啡路线
+
+用户改为首尔市内跨年优先；CDF 降为高阳备选，不进入主行程。机票不再联网查价，仅整理提供的四张携程截图。网页移除过程说明和原始新闻墙，改为活动分类、日期和替代路线切换。以下资料已读取正文：
+
+- [首尔市 2025 Winter Festa 日程](https://english.seoul.go.kr/2025-seoul-winter-festa/)（2025-12-04）：逐项列出 2025 年末至 2026 年初的普信阁、光化门、DDP、SEOULCon、灯节和市集。只是往届日程，不能写成 2026 年末已公布。
+- [2025 季官方结项与各项目统计](https://english.seoul.go.kr/2025-seoul-winter-festa-draws-10-million-visitors-poised-to-grow-as-koreas-premier-winter-festival/)（2026-01-13）：整体 24 天累计约 1,098 万人次；光化门灯光约 315 万、市集约 357 万、灯节约 326 万、DDP 约 79.8 万、SEOULCon 约 9.4 万，普信阁当晚约 3.2 万。不同统计口径已分别表述，不能把整个季节的累计人次写成跨年当晚人数。原文统计表 2024 季结束年份有明显笔误，未照抄。
+- [2024 季官方开幕公告](https://english.seoul.go.kr/seoul-winter-festa-2024-begins-on-dec-13-brightly-lighting-up-winter-nights-for-24-days/)（2024-12-16）：证明冬季灯光 / 市集 / 灯节连续两季计划与品牌延续。它是开幕前公告，不能证明后续所有午夜项目原样执行，因此不宣称 2024 年末烟花、演出均已实际举办。
+- [DDP 2023 冬季结项与满意度](https://english.seoul.go.kr/seoul-light-ddp-winter-attracts-approx-630000-visitors-for-new-years-celebrations/)（2024-01-09）：约 62.8 万季节累计人次，现场满意度 91.2%、愿再访 95.9%。用来说明体验口碑，非本次体验承诺。
+- [SEOULCon 2023→2024 跨年演出结项](https://english.seoul.go.kr/new-year-countdown-celebration-at-seoulcon-with-3000-global-influencers/)：跨年演出约 4,000 人，与整体约 10 万参与者分开说明。收费演出与 DDP 户外活动不合并为一个购票项目。
+- [Visit Seoul 圣水 2026 街区路线](https://english.visitseoul.net/editorspicks/2026-Seongsu/ENNky3epf)（2026-08-28 修订）：CaféCité（71 Seongsui-ro）、AMORE（7 Achasan-ro 11-gil；定制体验建议预约）、Gentle Monster（433 Ttukseom-ro）及各地点资料。未照搬整条长路线，也没有假定元旦按常规营业。
+- [Visit Seoul The Hyundai 美食](https://english.visitseoul.net/editorspicks/The-Hyundai-Seoul-Food-Tour/ENN037990)（2026-08-13 修订）：Cafe Layered、Richemont 可作购物间歇选择；文中 Tongin Sweet、Le Petit Four 标为 Business closed，已排除。
+- [Visit Seoul 汉南洞](https://english.visitseoul.net/editorspicks/Hallyu-Hannam/ENNgyk0ja)（2026-10-08 修订）：Gourmet 494（91 Hannam-daero）、SOUNDS（35 Daesagwan-ro）、Leeum。按成人购物、家居、餐饮和咖啡筛选；看展可删，不为了明星同款追店。
+
+Naver 已搜索当前 2026 年末与 2027 跨年、各场馆往届活动、公开博客和短视频。搜索中出现了提前写出的“2026 年末日程”博客，未找到对应官方正文时没有采用。三个用户提供的小红书分享链接已尝试含正常分享参数的访问，返回网页壳，未读到笔记正文；B站仍返回验证码，公开 Naver 博客正文受环境域名规则阻挡。没有绕过验证，也不声称已读这些帖子。
+
+### JourneyPilot
+
+已克隆用户指定 [Lagom-TA/JourneyPilot](https://github.com/Lagom-TA/JourneyPilot)，读取提交 `20a79d5f27f9366b77970ba1741ed0b0dba97f7f` 的 README、配置示例、行程 composition 结构和 `mcp_servers/search/free_search.py`。实际调用该免费搜索模块查询首尔跨年与圣水 / 汉南购物；其 DDGS 上游 Yahoo / DuckDuckGo 域名被云环境 CONNECT 403 阻挡，没有可用结果。完整服务需要模型等凭据，当前没有相应绑定，因此没有假称调用完整规划 / 地图服务。采用了它的“地点顺序 + 相邻交通连接 + 门到门分钟 + 住宿”结构；路线时间均是注明的规划估计，非地图接口实测。该依赖仅装在 `/tmp` 的研究目录，网页和 GitHub 监测仍零 npm / Python 第三方依赖。
+
+### 截图机票
+
+四张截图分别整理为：深圳 12/31 日间直飞 ¥3,088；香港 12/31 日间快运 ¥2,442；香港 12/30 晚快运 ¥2,434；香港 12/30 晚国泰 ¥3,923。使用截图底部往返显示价与选中回程加价交叉核对，没有把其他去程的基础价直接当成对应已选往返总价。部分返程航司只显示 logo，未可靠辨认时标为以订单为准，没有编造航班号。
+
+香港 12/31 快运截图的 10:30 与 16:40 去程显示同一基础价，优先列更有机会在市区安顿的 10:30，并说明同价另一个时刻。12/30 晚出发均跨入 12/31 凌晨抵达，通常酒店需要从 12/30 开始订；21:05 KST 回程 23:40 抵港的方案可能到 1/4 才返深。截图没有完整税费、行李和退改详情，未声称实时可购。
+
+### 本次验证与公告更新
+
+公开生产网站经保留 TLS 验证的 Chromium 新匿名上下文返回 200；Python 默认 User-Agent 被网站返回 403 / 1010，不能再误报为云环境域名 CONNECT 拦截。沿用用户此前授权的代理根证书信任，授予已有 NSS 数据库写权限后 Chromium 正常验证 HTTPS，未禁用证书校验。
+
+本次实时监测 10 / 10 来源成功，酒店返回 2 条双床列表参考。首尔官方英文 RSS 与 Naver 官方站点正文没有满足本季完整日期条件的已确认活动，`eventBriefs` 为空，六项保持往年分类。网页不会直接展示 RSS 标题。原始线索保留在数据供进一步研究；中文简报只自动识别已有六个市内项目，新项目仍需人工审核整理。源失败保留旧简报和原核查日期，取消 / 调整通知单独显示。

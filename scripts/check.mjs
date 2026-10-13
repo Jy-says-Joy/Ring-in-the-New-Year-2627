@@ -11,8 +11,18 @@ assert.deepEqual(guide.days.map(d=>d.date),['2026-12-31','2027-01-01','2027-01-0
 assert.ok(Number.isFinite(Date.parse(guide.updatedAt)));
 assert.match(guide.updatedAt,/(Z|[+-]\d\d:\d\d)$/);
 for(const event of guide.countdowns||[]){assert.ok(Number.isFinite(Date.parse(event.at)));assert.match(event.at,/(Z|[+-]\d\d:\d\d)$/);}
-for(const quote of [...guide.flightQuotes,...guide.hotelQuotes]){assert.ok(Number.isFinite(Date.parse(quote.checkedAt)));assert.match(quote.checkedAt,/(Z|[+-]\d\d:\d\d)$/);}
-for(const day of guide.days){assert.ok(day.route.length>=2);assert.match(day.color,/^#[a-f\d]{6}$/i);assert.ok(day.items.length);assert.ok(day.sleep);}
+for(const quote of guide.hotelQuotes){assert.ok(Number.isFinite(Date.parse(quote.checkedAt)));assert.match(quote.checkedAt,/(Z|[+-]\d\d:\d\d)$/);}
+for(const day of guide.days){
+ assert.match(day.color,/^#[a-f\d]{6}$/i);assert.ok(day.sleep);assert.ok(day.plans.length>=2);
+ assert.equal(new Set(day.plans.map(p=>p.id)).size,day.plans.length);
+ for(const plan of day.plans){assert.ok(plan.stops.length>=2);assert.equal(plan.legs.length,plan.stops.length-1);for(const stop of plan.stops){assert.ok(stop.place&&stop.time&&stop.name);}for(const leg of plan.legs){assert.ok(leg.duration&&leg.mode&&leg.note);}}
+}
+assert.equal(guide.flightScreenshots.length,4);
+for(const flight of guide.flightScreenshots){assert.ok(Number.isFinite(flight.price)&&flight.price>0);assert.match(flight.outbound,/UTC\+8/);assert.match(flight.outbound,/UTC\+9/);assert.match(flight.inbound,/UTC\+8/);assert.match(flight.inbound,/UTC\+9/);}
+assert.equal(guide.events.filter(e=>e.category==='past').length,6);
+assert.equal(guide.events.find(e=>e.id==='cdf').category,'confirmed');
+assert.ok(!guide.days.some(d=>JSON.stringify(d.plans).includes('KINTEX')),'CDF is optional, outside the main Seoul route');
+for(const brief of updates.eventBriefs||[]){assert.equal(brief.sourceVerified,true);assert.equal(brief.season,'2026-2027');assert.equal(new URL(brief.links[0][1]).hostname,'english.seoul.go.kr');}
 function walk(value){if(Array.isArray(value)){for(const v of value)walk(v);}else if(value&&typeof value==='object'){for(const v of Object.values(value))walk(v);}else if(typeof value==='string'&&value.startsWith('http')){assert.equal(new URL(value).protocol,'https:');}}
 walk(guide);walk(updates);
 assert.ok(Array.isArray(updates.items));

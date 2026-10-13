@@ -21,7 +21,7 @@ class MonitorBehavior(unittest.TestCase):
             self.assertEqual(result['status'], 'error')
             self.assertEqual(result['lastSuccess'], old['lastSuccess'])
             self.assertEqual(result['items'], old['items'])
-            self.assertEqual(result['priceMonitoring']['flights'], 'not_connected')
+            self.assertEqual(result['priceMonitoring']['flights'], 'disabled_by_user')
             self.assertEqual(result['priceMonitoring']['hotels'], 'error')
 
     def test_search_results_stay_unverified_and_non_https_links_are_rejected(self):
@@ -44,6 +44,49 @@ class MonitorBehavior(unittest.TestCase):
         self.assertTrue(rates[0]['withinBudget'])
         with self.assertRaises(ValueError):
             monitor.hotel_rates(body.replace(b'20270103', b'20260103'), '2026-10-08T01:00:00Z')
+
+    def test_only_current_season_official_body_is_promoted(self):
+        body = '<p>Date: December 31, 2026 – January 1, 2027</p><p>Bosingak new year countdown.</p>'
+        args = ('Bosingak new year countdown', body, 'https://english.seoul.go.kr/example-announcement/', '2026-10-12T00:00:00Z', '2026-10-13T09:00:00Z')
+        briefs = monitor.summarize_official(*args)
+        self.assertEqual([b['id'] for b in briefs], ['bosingak'])
+        self.assertTrue(briefs[0]['sourceVerified'])
+        self.assertEqual(briefs[0]['category'], 'confirmed')
+        self.assertEqual(briefs[0]['state'], 'active')
+        self.assertIn('普信阁', briefs[0]['name'])
+        self.assertEqual(monitor.summarize_official(*[args[0], body, 'https://blog.naver.com/example', *args[3:]]), [])
+        self.assertEqual(monitor.summarize_official(*[args[0], body, 'http://english.seoul.go.kr/example-announcement/', *args[3:]]), [])
+        self.assertEqual(monitor.summarize_official(*[args[0], body, args[2], '2026-12-01T00:00:00Z', args[4]]), [])
+
+    def test_previous_new_year_and_copyright_do_not_supply_this_season(self):
+        body = '<p>Bosingak countdown, December 31, 2025 – January 1, 2026.</p><p>Copyright 2026</p>'
+        self.assertEqual(monitor.summarize_official('Welcome 2026', body, 'https://english.seoul.go.kr/archive/', '2026-10-12T00:00:00Z', '2026-10-13T09:00:00Z'), [])
+        self.assertEqual(monitor.summarize_official('Bosingak countdown', '<p>December 31, 2026</p>', 'https://english.seoul.go.kr/archive/', '2026-01-01T00:00:00Z', '2026-10-13T09:00:00Z'), [])
+
+    def test_article_excludes_footer_and_widget_dates(self):
+        page = '<div id="ct"><p>Bosingak countdown December 31, 2025</p><img src="poster.svg"><p>Old event</p></div><footer>December 31, 2026</footer><div>2027</div>'
+        parser = monitor.CityArticle(); parser.feed(page)
+        article = ''.join(parser.fragments)
+        self.assertNotIn('December 31, 2026', article)
+        self.assertEqual(monitor.summarize_official('Bosingak countdown', article, 'https://english.seoul.go.kr/archive/', '2026-10-12T00:00:00Z', '2026-10-13T09:00:00Z'), [])
+
+    def test_cancellation_is_not_applied_to_neighboring_events(self):
+        body = '<p>December 31, 2026: Seoul Light DDP countdown.</p><p>Bosingak is another new year venue.</p>'
+        briefs = monitor.summarize_official('Seoul Light DDP countdown cancelled', body, 'https://english.seoul.go.kr/change/', '2026-10-12T00:00:00Z', '2026-10-13T09:00:00Z')
+        self.assertEqual([b['id'] for b in briefs], ['ddp'])
+        self.assertEqual(briefs[0]['state'], 'cancelled')
+
+    def test_official_failure_retains_brief_and_original_verification_time(self):
+        with tempfile.TemporaryDirectory() as temp:
+            output = pathlib.Path(temp) / 'updates.json'
+            brief = {'id': 'bosingak', 'sourceVerified': True, 'season': '2026-2027', 'checkedAt': '2026-10-10T00:00:00Z'}
+            output.write_text(json.dumps({'items': [], 'eventBriefs': [brief], 'lastOfficialSuccess': '2026-10-10T00:00:00Z'}))
+            with patch.object(monitor, 'read', side_effect=OSError('offline')):
+                monitor.collect(output)
+            result = json.loads(output.read_text())
+            self.assertEqual(result['eventBriefs'], [brief])
+            self.assertEqual(result['lastOfficialSuccess'], '2026-10-10T00:00:00Z')
+            self.assertEqual(result['officialStatus'], 'error')
 
 if __name__ == '__main__':
     unittest.main()
