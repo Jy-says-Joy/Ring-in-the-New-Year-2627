@@ -47,6 +47,21 @@ SEASON_DATE = re.compile(
     r'|2026[,\s]*(?:dec(?:ember)?\.?\s+\d{1,2})'
     r'|2026\s*[./-]\s*12\s*[./-]\s*\d{1,2}'
     r'|2026년\s*12월\s*\d{1,2})\b', re.I)
+DECEMBER_DATE = re.compile(SEASON_DATE.pattern.replace('2026', r'20\d{2}'), re.I)
+
+def current_event_date(text, aliases):
+    """Associate an event name with the nearest full date, not another season."""
+    dates = list(DECEMBER_DATE.finditer(text))
+    for alias in aliases:
+        for mention in re.finditer(re.escape(alias), text, re.I):
+            if not dates:
+                continue
+            def distance(date):
+                return max(date.start() - mention.end(), mention.start() - date.end(), 0)
+            nearest = min(dates, key=distance)
+            if distance(nearest) <= 500 and SEASON_DATE.fullmatch(nearest.group()):
+                return True
+    return False
 
 class Text(HTMLParser):
     def __init__(self):
@@ -89,7 +104,7 @@ def summarize_official(title, body, url, published_at, checked_at):
     catalog = {event['id']: event for event in json.loads((ROOT / 'public' / 'guide.json').read_text())['events']}
     cards = []
     for event_id, aliases in ALIASES.items():
-        if event_id not in catalog or not any(alias in combined for alias in aliases):
+        if event_id not in catalog or not current_event_date(combined, aliases):
             continue
         old = catalog[event_id]
         cancelled = bool(re.search(r'cancel(?:led|ed|lation)|postpon(?:ed|ement)', title, re.I))

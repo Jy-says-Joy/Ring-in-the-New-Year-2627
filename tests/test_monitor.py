@@ -63,6 +63,11 @@ class MonitorBehavior(unittest.TestCase):
         self.assertNotIn('December 31, 2026', article)
         self.assertEqual(monitor.summarize_official('Bosingak countdown', article, 'https://english.seoul.go.kr/archive/', '2026-10-12T00:00:00Z', '2026-10-13T09:00:00Z'), [])
 
+    def test_current_announcement_does_not_promote_another_events_retrospective(self):
+        body = '<p>Seoul Light Gwanghwamun: December 12, 2026.</p><p>Last year: Bosingak countdown December 31, 2025.</p>'
+        briefs = monitor.summarize_official('Winter Festa update', body, 'https://english.seoul.go.kr/update/', '2026-10-12T00:00:00Z', '2026-10-13T09:00:00Z')
+        self.assertEqual([brief['id'] for brief in briefs], ['gwanghwamun'])
+
     def test_cancellation_is_not_applied_to_neighboring_events(self):
         body = '<p>December 31, 2026: Seoul Light DDP countdown.</p><p>Bosingak is another new year venue.</p>'
         briefs = monitor.summarize_official('Seoul Light DDP countdown cancelled', body, 'https://english.seoul.go.kr/change/', '2026-10-12T00:00:00Z', '2026-10-13T09:00:00Z')

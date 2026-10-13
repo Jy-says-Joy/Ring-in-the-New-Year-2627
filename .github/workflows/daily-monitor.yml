@@ -41,7 +41,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add public/updates.json
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh Seoul activity summaries and hotel snapshots"
+            git commit -m "chore: refresh Seoul city and nightlife activity summaries"
             git push origin HEAD:main
           fi
       - name: Surface total collection failure
