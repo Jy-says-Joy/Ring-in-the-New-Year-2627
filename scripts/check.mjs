@@ -11,7 +11,10 @@ assert.deepEqual(guide.days.map(d=>d.date),['2026-12-31','2027-01-01','2027-01-0
 assert.ok(Number.isFinite(Date.parse(guide.updatedAt)));
 assert.match(guide.updatedAt,/(Z|[+-]\d\d:\d\d)$/);
 for(const event of guide.countdowns||[]){assert.ok(Number.isFinite(Date.parse(event.at)));assert.match(event.at,/(Z|[+-]\d\d:\d\d)$/);}
-for(const quote of guide.hotelQuotes){assert.ok(Number.isFinite(Date.parse(quote.checkedAt)));assert.match(quote.checkedAt,/(Z|[+-]\d\d:\d\d)$/);}
+assert.ok(!('hotelQuotes' in guide));
+assert.ok(guide.hotels.every(h=>!('budget' in h)));
+assert.ok(guide.nightlife.length>=4);
+for(const day of guide.days)for(const plan of day.plans){assert.ok(plan.foodChoices.length>=3);for(const choice of plan.foodChoices)assert.ok(guide.foodPlaces[choice.id],`Missing food choice ${choice.id}`);}
 for(const day of guide.days){
  assert.match(day.color,/^#[a-f\d]{6}$/i);assert.ok(day.sleep);assert.ok(day.plans.length>=2);
  assert.equal(new Set(day.plans.map(p=>p.id)).size,day.plans.length);
@@ -22,7 +25,7 @@ for(const flight of guide.flightScreenshots){assert.ok(Number.isFinite(flight.pr
 assert.equal(guide.events.filter(e=>e.category==='past').length,6);
 assert.equal(guide.events.find(e=>e.id==='cdf').category,'confirmed');
 assert.ok(!guide.days.some(d=>JSON.stringify(d.plans).includes('KINTEX')),'CDF is optional, outside the main Seoul route');
-for(const brief of updates.eventBriefs||[]){assert.equal(brief.sourceVerified,true);assert.equal(brief.season,'2026-2027');assert.equal(new URL(brief.links[0][1]).hostname,'english.seoul.go.kr');}
+for(const brief of updates.eventBriefs||[]){assert.equal(brief.sourceVerified,true);assert.equal(brief.season,'2026-2027');assert.ok(['english.seoul.go.kr','ra.co','nol.yanolja.com','ticket.yes24.com','faustseoul.com','www.faustseoul.com','cakeshopseoul.com','www.cakeshopseoul.com','www.fourseasons.com'].includes(new URL(brief.links[0][1]).hostname));}
 function walk(value){if(Array.isArray(value)){for(const v of value)walk(v);}else if(value&&typeof value==='object'){for(const v of Object.values(value))walk(v);}else if(typeof value==='string'&&value.startsWith('http')){assert.equal(new URL(value).protocol,'https:');}}
 walk(guide);walk(updates);
 assert.ok(Array.isArray(updates.items));

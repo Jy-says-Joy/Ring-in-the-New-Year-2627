@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T09:06:26+00:00",
+  "updatedAt": "2026-10-13T10:09:42+00:00",
   "events": [
     {
       "id": "bosingak",
@@ -237,6 +237,33 @@
               "往届活动日程",
               "https://english.seoul.go.kr/2025-seoul-winter-festa/"
             ]
+          ],
+          "foodChoices": [
+            {
+              "id": "kyoja",
+              "near": "明洞午饭 / 晚饭",
+              "walk": "明洞站附近约 5–10 分钟"
+            },
+            {
+              "id": "coin",
+              "near": "明洞逛街后",
+              "walk": "明洞主街附近约 5–10 分钟"
+            },
+            {
+              "id": "molto",
+              "near": "明洞圣堂附近",
+              "walk": "明洞站约 10–15 分钟"
+            },
+            {
+              "id": "mijin",
+              "near": "清溪广场 / 普信阁前后",
+              "walk": "广场 / 钟阁一带约 5–10 分钟"
+            },
+            {
+              "id": "cheongjin",
+              "near": "清溪广场 / 钟路",
+              "walk": "广场附近约 5–10 分钟"
+            }
           ]
         },
         {
@@ -285,6 +312,28 @@
               "往届官方介绍",
               "https://english.seoul.go.kr/2025-seoul-winter-festa/"
             ]
+          ],
+          "foodChoices": [
+            {
+              "id": "mijin",
+              "near": "光化门附近晚饭",
+              "walk": "广场南侧约 5–10 分钟"
+            },
+            {
+              "id": "cheongjin",
+              "near": "看灯光前吃热汤",
+              "walk": "广场南侧约 5–10 分钟"
+            },
+            {
+              "id": "terarosa-gw",
+              "near": "广场行程中的室内休息",
+              "walk": "广场一带约 5–10 分钟"
+            },
+            {
+              "id": "charles",
+              "near": "想把晚上换成小酌",
+              "walk": "广场南侧约 5–15 分钟"
+            }
           ]
         },
         {
@@ -333,6 +382,28 @@
               "往届 DDP 安排",
               "https://english.seoul.go.kr/2025-seoul-winter-festa/"
             ]
+          ],
+          "foodChoices": [
+            {
+              "id": "dak",
+              "near": "先吃晚饭，再去 DDP",
+              "walk": "DDP 约 15–25 分钟；另走鸡一条街"
+            },
+            {
+              "id": "pyeongyang",
+              "near": "DDP → 奖忠洞方向",
+              "walk": "DDP 约 10–20 分钟"
+            },
+            {
+              "id": "paul-ddp",
+              "near": "现代奥莱休息",
+              "walk": "商场内"
+            },
+            {
+              "id": "jean",
+              "near": "不留户外跨年时的小酌备选",
+              "walk": "DDP 约 10–15 分钟"
+            }
           ]
         }
       ]
@@ -391,6 +462,43 @@
               "现代百货美食推荐",
               "https://english.visitseoul.net/editorspicks/The-Hyundai-Seoul-Food-Tour/ENN037990"
             ]
+          ],
+          "foodChoices": [
+            {
+              "id": "gaya",
+              "near": "The Hyundai 午饭",
+              "walk": "6F，同一栋"
+            },
+            {
+              "id": "sangchun",
+              "near": "The Hyundai 午饭另一选",
+              "walk": "6F，同一栋"
+            },
+            {
+              "id": "eataly",
+              "near": "想换一顿意餐",
+              "walk": "6F，同一栋"
+            },
+            {
+              "id": "layered",
+              "near": "购物中间的甜点",
+              "walk": "B1，同一栋"
+            },
+            {
+              "id": "richemont",
+              "near": "买面包带回酒店",
+              "walk": "B1，同一栋"
+            },
+            {
+              "id": "border-ifc",
+              "near": "IFC 晚饭",
+              "walk": "IFC L3；与现代百货步行约 10–15 分钟"
+            },
+            {
+              "id": "mamas",
+              "near": "IFC 轻食 / 咖啡",
+              "walk": "IFC 内"
+            }
           ]
         },
         {
@@ -439,6 +547,33 @@
               "汉南洞购物、咖啡与展览",
               "https://english.visitseoul.net/editorspicks/Hallyu-Hannam/ENNgyk0ja"
             ]
+          ],
+          "foodChoices": [
+            {
+              "id": "ilhosik",
+              "near": "SOUNDS 午饭",
+              "walk": "园区内"
+            },
+            {
+              "id": "parc",
+              "near": "Leeum 附近吃家常饭",
+              "walk": "Leeum 附近约 5–10 分钟"
+            },
+            {
+              "id": "our",
+              "near": "Gourmet 494 购物前后",
+              "walk": "同一区域"
+            },
+            {
+              "id": "blue",
+              "near": "Gourmet 494 / 汉南咖啡",
+              "walk": "汉南商圈约 5–15 分钟"
+            },
+            {
+              "id": "anthracite",
+              "near": "汉南街区咖啡备选",
+              "walk": "按所逛店铺约 10–20 分钟"
+            }
           ]
         }
       ]
@@ -509,6 +644,28 @@
               "圣水官方街区路线",
               "https://english.visitseoul.net/editorspicks/2026-Seongsu/ENNky3epf"
             ]
+          ],
+          "foodChoices": [
+            {
+              "id": "gamja",
+              "near": "延武场街午饭",
+              "walk": "主街内约 5–10 分钟"
+            },
+            {
+              "id": "grandma",
+              "near": "想吃家常饭",
+              "walk": "首尔林方向；额外约 15–25 分钟"
+            },
+            {
+              "id": "cite",
+              "near": "圣水开始时喝咖啡",
+              "walk": "主路线第一站"
+            },
+            {
+              "id": "center",
+              "near": "Gentle Monster 之后休息",
+              "walk": "首尔林方向约 10–20 分钟"
+            }
           ]
         },
         {
@@ -557,6 +714,28 @@
               "首尔购物路线",
               "https://english.visitseoul.net/mvp/SeoulShoppingCourse/ENN034901"
             ]
+          ],
+          "foodChoices": [
+            {
+              "id": "jungang",
+              "near": "想吃韩式热汤",
+              "walk": "三星站外约 5–15 分钟"
+            },
+            {
+              "id": "soondubu-coex",
+              "near": "商场内午饭 / 晚饭",
+              "walk": "COEX 内"
+            },
+            {
+              "id": "paul-coex",
+              "near": "商场内坐一下",
+              "walk": "COEX 内"
+            },
+            {
+              "id": "terarosa-coex",
+              "near": "咖啡另一选择",
+              "walk": "COEX 内，按所在区域走"
+            }
           ]
         }
       ]
@@ -615,6 +794,23 @@
               "韩国交通信息",
               "https://english.visitseoul.net/transportation"
             ]
+          ],
+          "foodChoices": [
+            {
+              "id": "isaac",
+              "near": "离开明洞前的早餐",
+              "walk": "酒店附近有店才选"
+            },
+            {
+              "id": "taeguk",
+              "near": "首尔站转车时带走",
+              "walk": "站内 / 广场，按分店"
+            },
+            {
+              "id": "dunkin",
+              "near": "首尔站快速咖啡",
+              "walk": "站内，转车前顺路"
+            }
           ]
         },
         {
@@ -675,6 +871,28 @@
               "韩国交通信息",
               "https://english.visitseoul.net/transportation"
             ]
+          ],
+          "foodChoices": [
+            {
+              "id": "kyoja",
+              "near": "酒店附近午饭",
+              "walk": "明洞主街"
+            },
+            {
+              "id": "coin",
+              "near": "午饭后坐一下",
+              "walk": "明洞主街"
+            },
+            {
+              "id": "taeguk",
+              "near": "首尔站补货时",
+              "walk": "站内 / 广场，按分店"
+            },
+            {
+              "id": "yongsangamja",
+              "near": "首尔站附近午饭备选",
+              "walk": "站西侧约 5–10 分钟"
+            }
           ]
         }
       ]
@@ -730,26 +948,6 @@
       "note": "截图基础方案 ¥3,244 + 返程 ¥679 = ¥3,923。凌晨酒店和接送仍需另安排；行李额度、退改以所选票种为准。"
     }
   ],
-  "hotelQuotes": [
-    {
-      "name": "NINE TREE BY PARNAS SEOUL MYEONGDONG 2",
-      "room": "Standard Twin Room",
-      "totalPrice": "US$811 / 3 晚 / 1 间 / 含税费",
-      "averagePrice": "约 US$270.33 / 间 / 晚；RMB 预算需按结算汇率复核",
-      "conditions": "列表标注 4-hour Cancellation Window；不能理解成入住前任意免费取消。会员价与最终库存待订单确认。",
-      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1",
-      "checkedAt": "2026-10-08T23:45:10+08:00"
-    },
-    {
-      "name": "Friendly DH Naissance Hotel by Mindrum Group",
-      "room": "Budget Twin Room",
-      "totalPrice": "CNY 2,404 / 3 晚 / 1 间 / 含税费",
-      "averagePrice": "约 ¥801.33 / 间 / 晚；在预算内的列表快照",
-      "conditions": "列表显示含早餐、Free Cancellation、会员价；取消截止日／库存／最终结算须确认。地点在诚信女大方向，距本行程主街区更远。",
-      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY&keyword=NINE%20TREE%20BY%20PARNAS%20SEOUL%20MYEONGDONG%202",
-      "checkedAt": "2026-10-08T23:49:13+08:00"
-    }
-  ],
   "hotels": [
     {
       "title": "钟路 / 仁寺洞",
@@ -757,7 +955,6 @@
       "name": "NINE TREE BY PARNAS Seoul Insadong",
       "place": "NINE TREE BY PARNAS Seoul Insadong",
       "text": "普信阁、仁寺洞、益善洞比较顺路，优先比较散场步行回酒店的路线。三晚住同一家，减少搬行李。",
-      "budget": "双床房 · 每间每晚目标 ≤ ¥2,000",
       "links": [
         [
           "酒店官网",
@@ -771,7 +968,6 @@
       "name": "NINE TREE BY PARNAS Seoul Myeongdong 2",
       "place": "NINE TREE BY PARNAS Seoul Myeongdong 2",
       "text": "百货、餐饮和市中心交通方便。若最终选 DDP 或钟路跨年，单独确认午夜返回方式，不默认普通地铁仍在运营。",
-      "budget": "双床房 · 三晚含税目标 ≤ ¥6,000",
       "links": [
         [
           "酒店官网",
@@ -785,7 +981,6 @@
       "name": "Mercure Ambassador Seoul Hongdae / L7 HONGDAE",
       "place": "Mercure Ambassador Seoul Hongdae",
       "text": "适合机场铁路、延南洞咖啡和小店。去市中心跨年需要多一次夜间交通，优先选钟路 / 明洞，再把弘大作住宿备选。",
-      "budget": "双床房 · 含税总价和取消时间一起比",
       "links": [
         [
           "Mercure 官网",
@@ -867,7 +1062,7 @@
     [
       "可先订",
       "三晚双床酒店",
-      "钟路 / 明洞优先，含税每晚 ≤ ¥2,000；保留合适的取消条件。12/30 凌晨到达需额外一晚。"
+      "钟路 / 明洞优先，三晚固定住同一家；看双床房、取消条件与从跨年主场返回的路线。12/30 凌晨到达需额外一晚。"
     ],
     [
       "等公告",
@@ -912,6 +1107,652 @@
       "at": "2027-01-01T00:00:00+09:00",
       "description": "2027.01.01 00:00 · 首尔 KST / UTC+9",
       "note": "城市跨年先选一个主场，其他时间留给咖啡和购物。"
+    }
+  ],
+  "foodPlaces": {
+    "kyoja": {
+      "name": "明洞饺子 · Myeongdong Kyoja",
+      "kind": "正餐",
+      "what": "鸡汤刀切面 + 饺子，适合吃一顿热乎、相对简单的饭。",
+      "place": "Myeongdong Kyoja, 29 Myeongdong 10-gil, Seoul",
+      "naverQuery": "명동교자 본점",
+      "note": "热门店常排队；不在返程赶时间时硬等。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/restaurants/Myeongdong-Kyoja-EN/ENP008570"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EB%AA%85%EB%8F%99%EA%B5%90%EC%9E%90+%EB%B3%B8%EC%A0%90"
+        ]
+      ]
+    },
+    "coin": {
+      "name": "Cafe Coin 明洞 1 号店",
+      "kind": "咖啡甜点",
+      "what": "老派咖啡馆，点咖啡与蛋糕，适合坐下来聊天。",
+      "place": "Cafe Coin Myeongdong 1 Seoul",
+      "naverQuery": "카페코인 명동1호점",
+      "note": "确认是明洞 1 号店；甜点与座位以到店为准。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EC%B9%B4%ED%8E%98%EC%BD%94%EC%9D%B8+%EB%AA%85%EB%8F%991%ED%98%B8%EC%A0%90"
+        ]
+      ]
+    },
+    "molto": {
+      "name": "MOLTO Espresso Bar",
+      "kind": "咖啡甜点",
+      "what": "意式浓缩与小甜点，顺便看明洞圣堂。",
+      "place": "MOLTO Italian Espresso Bar Myeongdong Seoul",
+      "naverQuery": "몰또 명동",
+      "note": "露台看天气；冬天不适合久坐吹风。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/editorspicks/Seoul-Espresso-Bar/ENNch89g2"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EB%AA%B0%EB%98%90+%EB%AA%85%EB%8F%99"
+        ]
+      ]
+    },
+    "mijin": {
+      "name": "光化门美进 · Mijin",
+      "kind": "正餐",
+      "what": "荞麦面老店，喜欢面食可以和热汤饭二选一。",
+      "place": "Mijin, 19 Jong-ro, Jongno-gu, Seoul",
+      "naverQuery": "광화문 미진 본점",
+      "note": "招牌偏凉荞麦面；很冷时优先下方热汤。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/restaurants/Mijin1/ENP010868"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EA%B4%91%ED%99%94%EB%AC%B8+%EB%AF%B8%EC%A7%84+%EB%B3%B8%EC%A0%90"
+        ]
+      ]
+    },
+    "cheongjin": {
+      "name": "清进屋 · Cheongjinok",
+      "kind": "正餐",
+      "what": "牛骨汤、内脏与血豆腐解酒汤，适合冬天暖身。",
+      "place": "Cheongjinok Gwanghwamun Seoul",
+      "naverQuery": "청진옥 광화문",
+      "note": "不喜欢内脏或血豆腐的话，换别家；具体位置按商家地图。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/restaurants/Cheongjinok/ENP004537"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EC%B2%AD%EC%A7%84%EC%98%A5+%EA%B4%91%ED%99%94%EB%AC%B8"
+        ]
+      ]
+    },
+    "terarosa-gw": {
+      "name": "TERAROSA 光化门店",
+      "kind": "咖啡甜点",
+      "what": "手冲或拿铁，广场行程中找一段室内咖啡时间。",
+      "place": "Terarosa Coffee Gwanghwamun Seoul",
+      "naverQuery": "테라로사 광화문점",
+      "note": "常规咖啡店，不能默认跨年夜开到午夜。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%ED%85%8C%EB%9D%BC%EB%A1%9C%EC%82%AC+%EA%B4%91%ED%99%94%EB%AC%B8%EC%A0%90"
+        ]
+      ]
+    },
+    "charles": {
+      "name": "Charles H. · 坐着喝一杯",
+      "kind": "小酌",
+      "what": "四季酒店地下的隐蔽式鸡尾酒吧，适合想聊天、慢慢喝的晚上。",
+      "place": "Charles H, 97 Saemunan-ro, Seoul",
+      "naverQuery": "찰스H 포시즌스 서울",
+      "note": "提前问座位、预约和入场条件；今年跨年套餐 / 活动另等公告。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/restaurants/CharlesHseoul/ENP8f9it6"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EC%B0%B0%EC%8A%A4H+%ED%8F%AC%EC%8B%9C%EC%A6%8C%EC%8A%A4+%EC%84%9C%EC%9A%B8"
+        ]
+      ]
+    },
+    "dak": {
+      "name": "陈玉华奶奶元祖一只鸡",
+      "kind": "正餐",
+      "what": "一锅鸡汤、鸡肉与面，适合两个人分享。",
+      "place": "Jinokhwa Halmae Wonjo Dakhanmari Seoul",
+      "naverQuery": "진옥화할매원조닭한마리",
+      "note": "在鸡一条街；热门时段排队，赶演出就换商场内餐厅。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EC%A7%84%EC%98%A5%ED%99%94%ED%95%A0%EB%A7%A4%EC%9B%90%EC%A1%B0%EB%8B%AD%ED%95%9C%EB%A7%88%EB%A6%AC"
+        ]
+      ]
+    },
+    "pyeongyang": {
+      "name": "平壤面屋 · Pyeongyang Myeonok",
+      "kind": "正餐",
+      "what": "平壤冷面与饺子，口味清淡，想换一顿不同风格可以选。",
+      "place": "Pyeongyang Myeonok Jangchung Seoul",
+      "naverQuery": "평양면옥 장충동",
+      "note": "冷面不是冬季暖身餐；需从 DDP 往奖忠洞方向多走一段。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%ED%8F%89%EC%96%91%EB%A9%B4%EC%98%A5+%EC%9E%A5%EC%B6%A9%EB%8F%99"
+        ]
+      ]
+    },
+    "paul-ddp": {
+      "name": "Paul Bassett 东大门奥莱店",
+      "kind": "咖啡甜点",
+      "what": "商场里坐一会儿，拿铁与甜点是省心的休息选择。",
+      "place": "Paul Bassett Hyundai City Outlets Dongdaemun Seoul",
+      "naverQuery": "폴바셋 현대시티아울렛 동대문점",
+      "note": "商场内店铺按当月楼层 / 营业公告确认。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%ED%8F%B4%EB%B0%94%EC%85%8B+%ED%98%84%EB%8C%80%EC%8B%9C%ED%8B%B0%EC%95%84%EC%9A%B8%EB%A0%9B+%EB%8F%99%EB%8C%80%EB%AC%B8%EC%A0%90"
+        ]
+      ]
+    },
+    "jean": {
+      "name": "Jean Frigo · 水果鸡尾酒",
+      "kind": "小酌",
+      "what": "东大门附近的隐蔽式酒吧，水果风味鸡尾酒与小食。",
+      "place": "Jean Frigo, 9-8 Toegye-ro 62-gil, Seoul",
+      "naverQuery": "장프리고 동대문",
+      "note": "座位、预约与节日菜单先问店家；常规酒吧不等于已公布跨年派对。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EC%9E%A5%ED%94%84%EB%A6%AC%EA%B3%A0+%EB%8F%99%EB%8C%80%EB%AC%B8"
+        ]
+      ]
+    },
+    "gaya": {
+      "name": "Na Ui Gaya · 韩式热锅",
+      "kind": "正餐",
+      "what": "牛肉烤肉锅、面条火锅；购物中间坐下来吃一顿热食。",
+      "place": "Na Ui Gaya The Hyundai Seoul",
+      "naverQuery": "더현대서울 나의가야",
+      "note": "现代百货 6F；具体营业以商场元旦安排为准。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://www.ehyundai.com/newPortal/DP/DN/DN000000_V.do?branchCd=B00140000"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EB%8D%94%ED%98%84%EB%8C%80%EC%84%9C%EC%9A%B8+%EB%82%98%EC%9D%98%EA%B0%80%EC%95%BC"
+        ]
+      ]
+    },
+    "sangchun": {
+      "name": "Sangchunjae · 韩式套餐",
+      "kind": "正餐",
+      "what": "海鲜锅、烤鱼与鲍鱼锅饭等济州风味套餐。",
+      "place": "Sangchunjae The Hyundai Seoul",
+      "naverQuery": "더현대서울 상춘재",
+      "note": "现代百货 6F；看当天菜单再挑两人喜欢的套餐。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://www.ehyundai.com/newPortal/DP/DN/DN000000_V.do?branchCd=B00140000"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EB%8D%94%ED%98%84%EB%8C%80%EC%84%9C%EC%9A%B8+%EC%83%81%EC%B6%98%EC%9E%AC"
+        ]
+      ]
+    },
+    "eataly": {
+      "name": "Eataly · 意餐换口味",
+      "kind": "正餐",
+      "what": "披萨、意面与意大利食材区，吃腻韩餐时换一顿。",
+      "place": "Eataly The Hyundai Seoul",
+      "naverQuery": "더현대서울 이탈리",
+      "note": "现代百货 6F；不默认元旦按平日开放。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://www.ehyundai.com/newPortal/DP/DN/DN000000_V.do?branchCd=B00140000"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EB%8D%94%ED%98%84%EB%8C%80%EC%84%9C%EC%9A%B8+%EC%9D%B4%ED%83%88%EB%A6%AC"
+        ]
+      ]
+    },
+    "layered": {
+      "name": "Cafe Layered · 司康与蛋糕",
+      "kind": "咖啡甜点",
+      "what": "司康或蛋糕二选一，逛街中间吃甜点。",
+      "place": "Cafe Layered The Hyundai Seoul",
+      "naverQuery": "카페레이어드 더현대서울",
+      "note": "B1；热门时段可改买了带走，不为了它长时间排队。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/editorspicks/The-Hyundai-Seoul-Food-Tour/ENN037990"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EC%B9%B4%ED%8E%98%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C+%EB%8D%94%ED%98%84%EB%8C%80%EC%84%9C%EC%9A%B8"
+        ]
+      ]
+    },
+    "richemont": {
+      "name": "Richemont · 栗子派",
+      "kind": "咖啡甜点",
+      "what": "栗子派和面包，适合买一点带回酒店当早餐。",
+      "place": "Richemont Bakery The Hyundai Seoul",
+      "naverQuery": "리치몬드 더현대서울",
+      "note": "B1；这是面包店选择，不保证有适合久坐的座位。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/editorspicks/The-Hyundai-Seoul-Food-Tour/ENN037990"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EB%A6%AC%EC%B9%98%EB%AA%AC%EB%93%9C+%EB%8D%94%ED%98%84%EB%8C%80%EC%84%9C%EC%9A%B8"
+        ]
+      ]
+    },
+    "border-ifc": {
+      "name": "On The Border · IFC 店",
+      "kind": "正餐",
+      "what": "墨西哥卷饼、塔可与分享小食，商场晚餐另一种选择。",
+      "place": "On The Border IFC Mall Seoul",
+      "naverQuery": "온더보더 IFC몰",
+      "note": "IFC L3；官网有 2026 重装开业信息，元旦营业另查。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://www.ifcmallseoul.com/kr/now/view/20000000742"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EC%98%A8%EB%8D%94%EB%B3%B4%EB%8D%94+IFC%EB%AA%B0"
+        ]
+      ]
+    },
+    "mamas": {
+      "name": "Cafe Mamas · IFC 店",
+      "kind": "咖啡甜点",
+      "what": "三明治、沙拉与饮品，想吃轻一点可选。",
+      "place": "Cafe Mamas IFC Mall Seoul",
+      "naverQuery": "카페마마스 IFC몰",
+      "note": "IFC 店，和其他分店区分；具体出餐和座位按当天。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://www.ifcmallseoul.com/kr/tenant/fnb"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EC%B9%B4%ED%8E%98%EB%A7%88%EB%A7%88%EC%8A%A4+IFC%EB%AA%B0"
+        ]
+      ]
+    },
+    "parc": {
+      "name": "Parc · 韩式家常饭",
+      "kind": "正餐",
+      "what": "家常韩餐与时令小菜，适合想坐下好好吃饭的时候。",
+      "place": "Parc, 26-5 Itaewon-ro 55ga-gil, Seoul",
+      "naverQuery": "파르크 한남",
+      "note": "靠近 Leeum；常规有午后休息，别把它放在 16:00 当正餐。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/restaurants/ParcSeoul/ENP16sl14"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%ED%8C%8C%EB%A5%B4%ED%81%AC+%ED%95%9C%EB%82%A8"
+        ]
+      ]
+    },
+    "ilhosik": {
+      "name": "Ilhosik · 一好食",
+      "kind": "正餐",
+      "what": "SOUNDS Hannam 内的时令饭菜和套餐，和逛店合并最顺。",
+      "place": "Ilhosik SOUNDS Hannam Seoul",
+      "naverQuery": "일호식 사운즈한남",
+      "note": "先看当天菜单和订位，不必额外跨区。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EC%9D%BC%ED%98%B8%EC%8B%9D+%EC%82%AC%EC%9A%B4%EC%A6%88%ED%95%9C%EB%82%A8"
+        ]
+      ]
+    },
+    "our": {
+      "name": "OUR Bakery · 汉南店",
+      "kind": "咖啡甜点",
+      "what": "面包、可颂与咖啡，购物前后都能顺路。",
+      "place": "OUR Bakery Gourmet 494 Hannam Seoul",
+      "naverQuery": "아우어베이커리 나인원한남",
+      "note": "Gourmet 494 Hannam 一带；想久坐先看有没有座位。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/editorspicks/Hallyu-Hannam/ENNgyk0ja"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EC%95%84%EC%9A%B0%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC+%EB%82%98%EC%9D%B8%EC%9B%90%ED%95%9C%EB%82%A8"
+        ]
+      ]
+    },
+    "blue": {
+      "name": "Blue Bottle · 汉南店",
+      "kind": "咖啡甜点",
+      "what": "手冲、拿铁或小甜点，留一个相对简单的咖啡选择。",
+      "place": "Blue Bottle Hannam Seoul",
+      "naverQuery": "블루보틀 한남",
+      "note": "汉南店；热门时段座位可能紧张。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/editorspicks/Hallyu-Hannam/ENNgyk0ja"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80+%ED%95%9C%EB%82%A8"
+        ]
+      ]
+    },
+    "anthracite": {
+      "name": "Anthracite · 汉南店",
+      "kind": "咖啡甜点",
+      "what": "偏咖啡本身的选择，喜欢深烘和慢慢坐的人可比较。",
+      "place": "Anthracite Coffee Hannam Seoul",
+      "naverQuery": "앤트러사이트 한남",
+      "note": "独立选作这一带的咖啡备选，别为了咖啡重复绕路。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EC%95%A4%ED%8A%B8%EB%9F%AC%EC%82%AC%EC%9D%B4%ED%8A%B8+%ED%95%9C%EB%82%A8"
+        ]
+      ]
+    },
+    "gamja": {
+      "name": "传闻中的圣水土豆排骨汤",
+      "kind": "正餐",
+      "what": "热汤、猪骨和土豆；两个人可以看菜单选锅或单人汤饭。",
+      "place": "Somunnan Seongsu Gamjatang, 45 Yeonmujang-gil, Seoul",
+      "naverQuery": "소문난성수감자탕",
+      "note": "官网目录也提醒常排队，等太久就换家常饭。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/restaurants/SeongsuGamjatang/ENPlceoxk"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EC%86%8C%EB%AC%B8%EB%82%9C%EC%84%B1%EC%88%98%EA%B0%90%EC%9E%90%ED%83%95"
+        ]
+      ]
+    },
+    "grandma": {
+      "name": "Grandma Recipe · 奶奶的食谱",
+      "kind": "正餐",
+      "what": "韩式家常套餐，想吃得清淡一些可以比较这家。",
+      "place": "Grandma Recipe Seongsu Seoul",
+      "naverQuery": "할머니의레시피 성수",
+      "note": "在首尔林方向；从圣水主街要额外走一段，看体力再去。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%EB%A0%88%EC%8B%9C%ED%94%BC+%EC%84%B1%EC%88%98"
+        ]
+      ]
+    },
+    "cite": {
+      "name": "CaféCité · 圣水咖啡",
+      "kind": "咖啡甜点",
+      "what": "拿铁、咖啡与糕点，适合以坐下来聊天开始这一天。",
+      "place": "Cafe Cite, 71 Seongsui-ro, Seoul",
+      "naverQuery": "카페시테 성수",
+      "note": "这就是主路线第一站，不必再为了它绕路。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://english.visitseoul.net/editorspicks/2026-Seongsu/ENNky3epf"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%EC%B9%B4%ED%8E%98%EC%8B%9C%ED%85%8C+%EC%84%B1%EC%88%98"
+        ]
+      ]
+    },
+    "center": {
+      "name": "Center Coffee · 首尔林店",
+      "kind": "咖啡甜点",
+      "what": "手冲咖啡，适合作为 Gentle Monster 后的备选休息点。",
+      "place": "Center Coffee, 28-11 Seoul Forest 2-gil, Seoul",
+      "naverQuery": "센터커피 서울숲점",
+      "note": "位置在首尔林方向；天冷或脚累时，选主街附近那家就好。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EC%84%BC%ED%84%B0%EC%BB%A4%ED%94%BC+%EC%84%9C%EC%9A%B8%EC%88%B2%EC%A0%90"
+        ]
+      ]
+    },
+    "jungang": {
+      "name": "中央解酲 · Jungang Haejang",
+      "kind": "正餐",
+      "what": "牛肉解酒汤或内脏热锅，适合想吃一顿热乎韩餐。",
+      "place": "Jungang Haejang Samseong Seoul",
+      "naverQuery": "중앙해장 삼성역",
+      "note": "三星站外；不喜欢内脏就选商场内餐厅，别勉强跟风。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EC%A4%91%EC%95%99%ED%95%B4%EC%9E%A5+%EC%82%BC%EC%84%B1%EC%97%AD"
+        ]
+      ]
+    },
+    "paul-coex": {
+      "name": "Paul Bassett · COEX 店",
+      "kind": "咖啡甜点",
+      "what": "拿铁、咖啡与轻甜点，室内逛街中间休息用。",
+      "place": "Paul Bassett COEX Mall Seoul",
+      "naverQuery": "폴바셋 코엑스몰점",
+      "note": "商场内就近选择，不需要专门离开路线追咖啡。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://www.starfield.co.kr/coexmall/cafeDining/cafe.do"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%ED%8F%B4%EB%B0%94%EC%85%8B+%EC%BD%94%EC%97%91%EC%8A%A4%EB%AA%B0%EC%A0%90"
+        ]
+      ]
+    },
+    "terarosa-coex": {
+      "name": "TERAROSA · COEX 店",
+      "kind": "咖啡甜点",
+      "what": "偏烘焙咖啡和面包的备选，适合歇一小时再继续逛。",
+      "place": "Terarosa Coffee COEX Mall Seoul",
+      "naverQuery": "테라로사 코엑스점",
+      "note": "按商场目录和地图确认所在区域。",
+      "links": [
+        [
+          "介绍 / 店家资料",
+          "https://www.starfield.co.kr/coexmall/cafeDining/cafe.do"
+        ],
+        [
+          "本地检索",
+          "https://search.naver.com/search.naver?query=%ED%85%8C%EB%9D%BC%EB%A1%9C%EC%82%AC+%EC%BD%94%EC%97%91%EC%8A%A4%EC%A0%90"
+        ]
+      ]
+    },
+    "isaac": {
+      "name": "Isaac Toast · 明洞店",
+      "kind": "快速早餐",
+      "what": "热吐司带走，适合只想快速垫一下肚子的早晨。",
+      "place": "Isaac Toast Myeongdong Seoul",
+      "naverQuery": "이삭토스트 명동",
+      "note": "不同分店开门时间不同；没确认早开、排队长，就直接吃酒店早餐。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EC%9D%B4%EC%82%AD%ED%86%A0%EC%8A%A4%ED%8A%B8+%EB%AA%85%EB%8F%99"
+        ]
+      ]
+    },
+    "taeguk": {
+      "name": "太极堂 · 首尔站店",
+      "kind": "快速早餐",
+      "what": "面包、牛奶冰饼；面包可带走，冰品冬天看自己喜好。",
+      "place": "Taegukdang Seoul Station Seoul",
+      "naverQuery": "태극당 서울역점",
+      "note": "看站内店或广场店的地图，别为伴手礼绕远。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%ED%83%9C%EA%B7%B9%EB%8B%B9+%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%90"
+        ]
+      ]
+    },
+    "dunkin": {
+      "name": "Dunkin Wonders · 首尔站店",
+      "kind": "快速早餐",
+      "what": "咖啡和甜甜圈，转机场铁路前快速买一点。",
+      "place": "Dunkin Wonders Seoul Station Seoul",
+      "naverQuery": "던킨 원더스 서울역점",
+      "note": "站内选择，营业确认后再买；返程早班不留排队预算。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EB%8D%98%ED%82%A8+%EC%9B%90%EB%8D%94%EC%8A%A4+%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%90"
+        ]
+      ]
+    },
+    "yongsangamja": {
+      "name": "龙山元祖土豆排骨汤",
+      "kind": "正餐",
+      "what": "首尔站西侧的热汤饭 / 排骨锅，适合晚班回程当天午饭。",
+      "place": "Yongsan Wonjo Gamjatang, 393 Cheongpa-ro, Seoul",
+      "naverQuery": "용산원조감자탕 서울역",
+      "note": "在站外；只有行李方便、时间充裕才去，不安排在早班赶机路线。",
+      "links": [
+        [
+          "本地店铺与口碑",
+          "https://search.naver.com/search.naver?query=%EC%9A%A9%EC%82%B0%EC%9B%90%EC%A1%B0%EA%B0%90%EC%9E%90%ED%83%95+%EC%84%9C%EC%9A%B8%EC%97%AD"
+        ]
+      ]
+    },
+    "soondubu-coex": {
+      "name": "北仓洞嫩豆腐 · COEX",
+      "kind": "正餐",
+      "what": "韩式嫩豆腐热锅与汤饭，天气冷时的商场内正餐选择。",
+      "place": "Bukchangdong Soondubu COEX Seoul",
+      "naverQuery": "북창동순두부 코엑스",
+      "note": "在都心机场塔美食街区域，按商场地图走；辣度和当天菜单先问。",
+      "links": [
+        [
+          "商场餐饮目录",
+          "https://www.starfield.co.kr/coexmall/cafeDining/foodStreet.do"
+        ]
+      ]
+    }
+  },
+  "nightlife": [
+    {
+      "id": "faust",
+      "name": "FAUST · 想跳舞的一晚",
+      "area": "梨泰院 · 音乐 / 舞池",
+      "kind": "夜店关注",
+      "fit": "更偏电子音乐现场，先看当天 DJ 和音乐风格再决定。",
+      "text": "适合把整晚留给音乐的人。别和市中心敲钟硬拼成两场；入场证件、购票与店内拍照规则按场地方说明。",
+      "status": "今年跨年场次待核实",
+      "place": "Faust Seoul",
+      "links": [
+        [
+          "场地方 Instagram",
+          "https://www.instagram.com/faustseoul/"
+        ],
+        [
+          "本地档期检索",
+          "https://search.naver.com/search.naver?query=%ED%8C%8C%EC%9A%B0%EC%8A%A4%ED%8A%B8+%EC%84%9C%EC%9A%B8+2026+12%EC%9B%9431%EC%9D%BC+%ED%8C%8C%ED%8B%B0"
+        ]
+      ]
+    },
+    {
+      "id": "cakeshop",
+      "name": "Cakeshop · 看当晚节目再选",
+      "area": "梨泰院 · DJ / 夜店",
+      "kind": "夜店关注",
+      "fit": "不同场次风格变化大，优先试听艺人、看阵容。",
+      "text": "常规夜店备选，关注年末 DJ 派对和预售。现有场地资料不代表 12/31 已开票，现场票也不能默认一定有。",
+      "status": "今年跨年场次待核实",
+      "place": "Cakeshop Itaewon Seoul",
+      "links": [
+        [
+          "场地与票务档期",
+          "https://ra.co/clubs/70614"
+        ],
+        [
+          "本地档期检索",
+          "https://search.naver.com/search.naver?query=%EC%BC%80%EC%9D%B4%ED%81%AC%EC%83%B5+%EC%84%9C%EC%9A%B8+2026+12%EC%9B%9431%EC%9D%BC+%ED%8C%8C%ED%8B%B0"
+        ]
+      ]
+    },
+    {
+      "id": "charlesh",
+      "name": "Charles H. · 坐下来喝鸡尾酒",
+      "area": "光化门 · 酒吧",
+      "kind": "小酌备选",
+      "fit": "不想跳舞，但想过一个有气氛的晚上，可以选这种。",
+      "text": "四季酒店地下酒吧。先问座位、订位和跨年套餐；这是常规酒吧推荐，午夜节目与营业安排仍需当届公告确认。",
+      "status": "常规去处 · 跨年活动待核实",
+      "place": "Charles H Four Seasons Seoul",
+      "links": [
+        [
+          "酒吧介绍",
+          "https://english.visitseoul.net/restaurants/CharlesHseoul/ENP8f9it6"
+        ],
+        [
+          "预约与节日检索",
+          "https://search.naver.com/search.naver?query=%EC%B0%B0%EC%8A%A4H+%EC%84%9C%EC%9A%B8+2026+%EC%97%B0%EB%A7%90+%EC%83%88%ED%95%B4+%EC%98%88%EC%95%BD"
+        ]
+      ]
+    },
+    {
+      "id": "jeanfrigo",
+      "name": "Jean Frigo · 水果风味小酌",
+      "area": "东大门 · 隐蔽式酒吧",
+      "kind": "小酌备选",
+      "fit": "和 DDP 路线更顺，想坐着聊天可以留一晚给它。",
+      "text": "水果风味鸡尾酒与小食。预订前问清座位、营业和节日菜单；不把普通订位页面当作跨年派对官宣。",
+      "status": "常规去处 · 跨年活动待核实",
+      "place": "Jean Frigo Seoul",
+      "links": [
+        [
+          "店铺与预订检索",
+          "https://search.naver.com/search.naver?query=%EC%9E%A5%ED%94%84%EB%A6%AC%EA%B3%A0+%EB%8F%99%EB%8C%80%EB%AC%B8+%EC%98%88%EC%95%BD+%EC%97%B0%EB%A7%90"
+        ]
+      ]
     }
   ]
 }

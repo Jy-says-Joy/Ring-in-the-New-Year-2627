@@ -1,7 +1,7 @@
 {
-  "status": "ok",
-  "lastAttempt": "2026-10-13T09:17:25+00:00",
-  "lastSuccess": "2026-10-13T09:17:25+00:00",
+  "status": "partial",
+  "lastAttempt": "2026-10-13T10:24:09+00:00",
+  "lastSuccess": "2026-10-13T10:24:09+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
@@ -149,6 +149,14 @@
       "status": "unverified"
     },
     {
+      "title": "韓國音樂劇《Maybe Happy Ending》2027年8月再演！ 預計2027年8月中旬至11月中旬在首爾的斗山藝術中心 (두산아트센터) 演出，現正全角色甄選演員。 《Maybe Happy Ending》(어쩌면 해피엔딩) 故事發生在近未來的首爾，講述被人類遺棄的機器人Oliver與Claire - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lak9saVRpNjJEcGxldXNOSnFYTEduaWJTNGMzVm5iMkJtdFhQcnpEbHZPeTZjSHFocDR3SnJ5M0tDa2V5NHRaLUR4eVRiUnRlNWw3RHB4eThlYXdsS3BfRlVB?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-06-30T02:29:01+00:00",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
       "title": "빛으로 물드는 서울, 서울윈터페스타 - 서울사랑",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yWXBEczRqZkx6blFfUkRNV0NEZXE3Skh3Mnh6akNWcjFUemgtaWpqWm9IdHpJZFAyMDhtc0taMk8yeGJKQVJpckk1NGJPSmQ2?oc=5",
       "source": "서울사랑",
@@ -157,11 +165,59 @@
       "status": "unverified"
     },
     {
+      "title": "‘𝗻𝘂𝗺𝗯 𝗻𝘂𝗺𝗯’ 1M views🎉 Thank you so much💞 🔗https://youtu.be/ba7YbGO2aq4 - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4b19kMnJMaWc1djZVMG1Jc29KRl9EN19jUmJxNlNnVmM0dUt3QklDcndsT1BQVk5kc3NrcXdsUkJsejVWTjF2VVJ3LWdvMDlMd1E?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-06-04T07:00:00+00:00",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "↠ 台灣跨領域科技藝術團隊 #何理互動（WHYIXD），應韓國當代藝廊LEE & BAE之邀於 #釜山 呈獻個展《風景的解析度》；全展著眼「共振」理念，兼透過現地創作與環境資料轉譯，化當地地形、氣候及城市節奏為可被感知的動態機械和光影裝置。 團隊長期發展系列及單件 - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGUE16ZUpaM21mSWwzb1FHajNYeU12c0JhRU9OYlAwUFFoQi1LZW52RDdmTTlaM2N5bFd5RU1LWWU3cEwtWG9fdjhDTGxHYkhRZWc?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-05-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
       "title": "서울빛초롱축제·광화문마켓 '이벤트엑스 어워즈' 금상 등 3관왕 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qYVZMTGRsQWNfTUpTcnFjLUVOd0hrOEt5Tl9CN1htVXNmRHRXVUxTWV9UcFZBZ010RHp2N2R2MFRBTzlhc2treEZ1RllMcm9FRUxCVVE3eW9PTGfSAWBBVV95cUxNN1EwOWRTYzJQYlk4WkVyRGdwRlljUzg1dEY4YnZRRTBuak9jQW9HY01WWEl5NDlKa1I3aXJtckJpYjdzT0ZMNW54YVBFelFKUVJQanIybHJfRHZDbXZiaUc?oc=5",
       "source": "연합뉴스",
       "publishedAt": "2026-05-26T07:00:00+00:00",
       "discoveredAt": "2026-10-13T09:17:25+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "2026년 3월 2일(월), 홍콩한인상공회는 주홍콩대한민국총영사관 강당에서 제50회 정기총회 및 무역의 날 표창장 수여식을 개최하였다. 이날 총회에는 약 30여 명의 회원사들과 상공회 임원 및 역대 명예회장들이 참석하였으며, 무역의 날 표창장 수여식에서 천성환 총 - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GRjZreGhzU3hJaGRwQmVlOV80SEJaQ3dxU0pWbW9QeUVfTWxTdnVaVGRsWTNfcFAyRF81a0lCaENOSE10eTBDUGNkYjBVYkkzYXc?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-04-08T07:00:00+00:00",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "Seoul Living Design Fair 2026 在首爾的設計展裡， 許多品牌 以不同方式回應生活與空間 燈具、家具、材質與色彩的運用， 都在細節之中 描繪對日常的想像 設計不只是形式， 而是讓空間與生活 產生更好的關係 這趟首爾 也帶回許多新的觀察與靈感 Design Trip Seoul - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05dXlnTF9JLXY5eUduMGN0M0tacmxDLTVsSWdxREtXZ21rRDRIVUF2NXYzekJnQkpUSGN2NHZDRldDWC00TnhjT1ZDVlpMNHpUZjFPV2F3?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-03-10T07:00:00+00:00",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "#ArtBasel SunGallery presents Chungji Lee: at Art Basel Hong Kong’s Insights sector, featuring key works from the 1990s. As the only female artist associated with Korean monochrome painting, Chungji Lee explores the performative act of painting through re - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92Qk9DazJ4X1BEaUZqWXFrRUJud2Y0WUdkSk9zQTJYS1FrQkVXMlB0NnY5a19UMUVIREFkMk5Gc0o0eXp4SUtDc0NMU3lwMzFNWHk3SndR?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-03-06T08:00:00+00:00",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "(한국어/中文)Blackpink’s Rosé @roses_are_rosie has started a surprise scavenger hunt event to celebrate her birthday by hiding gifts for fans all over Seoul. 🎁 She hid products from Saint Laurent and Puma, brands for which she is a model, in various location - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pRWRDS3p5Nmg2VWgwbWU1ZUhCWmJTcmRsVFBGNmtUQUp0U3lBc3phZUlTTVJvY2tENFN3eXU2U2xVcmZvUndIcm5nTUVsXzF3TWc?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-02-10T08:00:00+00:00",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
       "status": "unverified"
     },
     {
@@ -229,6 +285,14 @@
       "status": "unverified"
     },
     {
+      "title": "[📮from.Roy] 𝑅𝑂𝑌𝑅𝑂𝑆𝐸, 𝐻𝐴𝑃𝑃𝑌 𝑁𝐸𝑊 𝑌𝐸𝐴𝑅 ☃︎ #로이킴 #ROYKIM - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YX1NidVhETlpQTzVkdVZodV9pYUFOVl9SWGRObU5TblpNZk94d1JkRDlZcGVfTVBYSnZoaW03aWRkTTM2eExLU3dtckFBOUdNWWc?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2025-12-31T08:00:00+00:00",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
       "title": "병오년 새해맞이, 광화문에서! 2026 카운트다운쇼 연다 - 서울특별시",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91ZXhKaVpWdUVyUFpObWRXdTZ1ZWZYeC1ldlNWQnY4cmhuX2VkVWpockdEdDg1TF9NMjJBeTF4bXBnT3U0VWZVSjhjaFdSYWlLQmJMd2w4Tlo?oc=5",
       "source": "서울특별시",
@@ -257,70 +321,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSdTh3aXJtRUlibnpwWlVCVFM4N1h2ZlF0UDZrOENZX0VIRkgzTmF3X1BYd185MDJnZExNZHV4YmJqSzlRYklfZGo5R2s0T09fNDQwWk5kNFg?oc=5",
       "source": "서울특별시",
       "publishedAt": "2025-12-26T08:00:00+00:00",
-      "discoveredAt": "2026-10-13T09:17:25+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "겨울 광화문 밝힌 '빛'과 '멋'! 서울라이트·크리스마스마켓 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EMS1xM0d0U1BPOFNKUmJtc1hZOHR4X2NmcVpvNUY1NXJremE2UHRfQjctRmxXeVpHdXp2aWZ1OFY3QU0xa1A5QmNUZllsLU5iX2JJZHJacnA?oc=5",
-      "source": "서울특별시",
-      "publishedAt": "2025-12-23T08:00:00+00:00",
-      "discoveredAt": "2026-10-13T09:17:25+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "빛으로 만나는 겨울의 마법! '서울빛초롱축제'가 시작됐어요 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zWW9QWjctWTJNNjJRR3FKa24ta0NTRWhwUVV4VGtkc1FfZFA2cTBkOFRCeEd2VHRVRF9vcFB2a3lCOVZHWEV4LUFFUVluaVlDbmI3OWZ5a2M?oc=5",
-      "source": "서울특별시",
-      "publishedAt": "2025-12-23T08:00:00+00:00",
-      "discoveredAt": "2026-10-13T09:17:25+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "빛과 K-컬처로 물든 광화문 일대! '2025 서울윈터페스타' 개막 현장 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsVE45MmN1SFdabFpiWkVqY01ORWk4N2lZUmowMHg5ZTYzTU1TWVotMzNva1Z3eURTSmg3QWhVa3pmOVg3ZHNXSVRpdzNsb3N3MEFZQlFXcEo?oc=5",
-      "source": "서울특별시",
-      "publishedAt": "2025-12-18T08:00:00+00:00",
-      "discoveredAt": "2026-10-13T09:17:25+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "빛으로 걷는 겨울밤의 낭만 산책, '서울빛초롱축제' - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TQW5CYi13emR4ZUFmS3RKUklNSC1WZUpNWjNaWUJ2MGNQclJMTl9QTEVJMTlneWVuMGwyLVBHME9nMlJHaG9KQjZNZTZBOWtVWjRRQXFYTjA?oc=5",
-      "source": "서울특별시",
-      "publishedAt": "2025-12-18T08:00:00+00:00",
-      "discoveredAt": "2026-10-13T09:17:25+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "청계천부터 광화문까지, 빛과 설렘으로 채운 '서울윈터페스타'의 밤 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYmkyZXo4dHlicjl5NDdvNEJFN1h5LUI3ZXZxQzJMUlBOY2dBUV96V0hSUmZrRTBOLTUwYUlmdWMzUzNwRWN2N1BFSEx3R00tcy03RmhxQmc?oc=5",
-      "source": "서울특별시",
-      "publishedAt": "2025-12-17T08:00:00+00:00",
-      "discoveredAt": "2026-10-13T09:17:25+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "'크리스마스'부터 '100마리 잉어킹'까지! 남녀노소 사로잡은 '서울빛초롱축제' - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GMjRqTmFFUlBQTmVDcjVhYXp3aElBRHd6Zmt4S2RVOVJ3czVKVzBPOTk0MUQ2YklXVG1vWWMyZHlrVVNwYWRMb0drUGRuS0M1VVprZmNjRDY?oc=5",
-      "source": "서울특별시",
-      "publishedAt": "2025-12-17T08:00:00+00:00",
-      "discoveredAt": "2026-10-13T09:17:25+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "환상적인 빛과 즐거움이 가득! 겨울밤 '판타지아 서울'로 초대합니다 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjNlJJMHJES003VTc1ZWxnMTZWdUFyN2pTMDZQSlkwR0NUWF9HMWZibjZULUc0aktKclFNVkdQVW1GNHRLNzNBMk9nMnE3bk8tdzMzRDVkU0I?oc=5",
-      "source": "서울특별시",
-      "publishedAt": "2025-12-16T08:00:00+00:00",
-      "discoveredAt": "2026-10-13T09:17:25+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "연말하면 '빛초롱축제'지! 황금 잉어킹을 찾아라 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jZzhkRW9heU12M2dBY1cyb3B2bWowTEVVLWtydlFmVDY1MGs4YUJxZWJFZFV1TmhkZFZ1bDFJeENFZkNuaFhHUVRGR1I1dFAxeWJpbXRPWlo?oc=5",
-      "source": "서울특별시",
-      "publishedAt": "2025-12-16T08:00:00+00:00",
       "discoveredAt": "2026-10-13T09:17:25+00:00",
       "status": "unverified"
     }
@@ -357,6 +357,24 @@
       "count": 10
     },
     {
+      "name": "首尔夜店 / 酒吧年末派对",
+      "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8+%ED%81%B4%EB%9F%BD+%EB%B0%94+NYE+%ED%8C%8C%ED%8B%B0+%222026%22+%222027%22&hl=ko&gl=KR&ceid=KR%3Ako",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "name": "首尔年末小型演出",
+      "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8+%ED%99%8D%EB%8C%80+%EC%86%A1%EB%85%84+%EA%B3%B5%EC%97%B0+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
+      "status": "ok",
+      "count": 2
+    },
+    {
+      "name": "公开社交跨年线索",
+      "url": "https://news.google.com/rss/search?q=%E9%A6%96%E5%B0%94+%E8%B7%A8%E5%B9%B4+2026+2027+%28site%3Axiaohongshu.com+OR+site%3Ainstagram.com%29&hl=ko&gl=KR&ceid=KR%3Ako",
+      "status": "ok",
+      "count": 33
+    },
+    {
       "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 已记录页面指纹",
       "url": "https://www.mintpaper.co.kr/",
       "status": "ok",
@@ -382,81 +400,170 @@
       "errors": []
     },
     {
-      "name": "Trip.com 所选日期酒店双床房列表快照（非订单确认）",
-      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "status": "ok",
-      "count": 2
+      "name": "韩网 / 公开社交 / 夜生活活动核实",
+      "url": "https://search.naver.com/",
+      "status": "partial",
+      "count": 0,
+      "channels": [
+        {
+          "name": "Naver · 韩网年末派对与酒吧",
+          "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8+2026+12%EC%9B%94+31%EC%9D%BC+2027+%ED%81%B4%EB%9F%BD+%EB%B0%94+%ED%8C%8C%ED%8B%B0",
+          "status": "ok",
+          "count": 0
+        },
+        {
+          "name": "Naver · 公开社交跨年线索",
+          "url": "https://search.naver.com/search.naver?query=site%3Ainstagram.com+%EC%84%9C%EC%9A%B8+NYE+2026+2027",
+          "status": "ok",
+          "count": 0
+        },
+        {
+          "name": "Naver · 韩网演出与售票",
+          "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8+2026+12%EC%9B%9431%EC%9D%BC+%EC%86%A1%EB%85%84+%EA%B3%B5%EC%97%B0+%EC%98%88%EB%A7%A4",
+          "status": "ok",
+          "count": 0
+        },
+        {
+          "name": "RA 首尔跨年夜档期",
+          "url": "https://ra.co/events/kr/seoul?startDate=2026-12-31&endDate=2027-01-01",
+          "status": "error",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "name": "Cakeshop 场地方公告",
+          "url": "https://cakeshopseoul.com/",
+          "status": "error",
+          "error": "The read operation timed out"
+        },
+        {
+          "name": "FAUST 公开社交公告",
+          "url": "https://www.instagram.com/faustseoul/",
+          "status": "error",
+          "count": 0,
+          "error": "公开页面未提供可读取的活动帖子；不绕过登录验证"
+        },
+        {
+          "name": "Cakeshop 公开社交公告",
+          "url": "https://www.instagram.com/cakeshopseoul/",
+          "status": "error",
+          "count": 0,
+          "error": "公开页面未提供可读取的活动帖子；不绕过登录验证"
+        },
+        {
+          "name": "主办方 / 票务正文",
+          "url": "https://ticket.yes24.com/Perf/56613",
+          "status": "ok",
+          "count": 0
+        },
+        {
+          "name": "主办方 / 票务正文",
+          "url": "https://ticket.yes24.com/Perf/60108",
+          "status": "ok",
+          "count": 0
+        }
+      ]
     }
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "aed853c3649780f34beecf5111b45ef6b2a634a1d9d27ed39c7ca94189b31b77",
-      "checkedAt": "2026-10-13T09:17:25+00:00",
+      "sha256": "766398859874d559d1833ce85802b0ebfe1800dcce1907dd053aac973e923f48",
+      "checkedAt": "2026-10-13T10:24:09+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
       "sha256": "d7e6cfe2cf42b2433e6ea306e928e937cef538aa6b0a3e68bce5de7048dd3f66",
-      "checkedAt": "2026-10-13T09:17:25+00:00",
+      "checkedAt": "2026-10-13T10:24:09+00:00",
       "changed": false
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "2a9c3c37efc05385faa412ee1604ab65bdb598463a2fce3c3259d4e31e2682cc",
-      "checkedAt": "2026-10-13T09:17:25+00:00",
+      "sha256": "f33f9a48aadea732ab792e734533fb12051797ff18572879690fefce7c3d1914",
+      "checkedAt": "2026-10-13T10:24:09+00:00",
       "changed": true
     }
   },
   "eventBriefs": [],
   "officialStatus": "ok",
-  "lastOfficialSuccess": "2026-10-13T09:17:25+00:00",
-  "observedHotelRates": [
+  "lastOfficialSuccess": "2026-10-13T10:24:09+00:00",
+  "nightlifeStatus": "partial",
+  "lastNightlifeSuccess": "2026-10-13T10:24:09+00:00",
+  "socialLeads": [
     {
-      "name": "Myeongdong Merlin Hotel",
-      "room": "Deluxe Twin Loft Room",
-      "totalPrice": "CNY 2,840",
-      "averageNightly": 946.67,
-      "currency": "CNY",
-      "conditions": "列表显示 Free Cancellation；截止日期和完整条款待订单页核实",
-      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "checkedAt": "2026-10-13T09:17:25+00:00",
-      "dates": [
-        "2026-12-31",
-        "2027-01-03"
-      ],
-      "adults": 2,
-      "rooms": 1,
-      "status": "listing_observation",
-      "withinBudget": true
+      "url": "https://ticket.yes24.com/Perf/60108",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
     },
     {
-      "name": "NINE TREE BY PARNAS SEOUL MYEONGDONG 2",
-      "room": "Standard Twin Room",
-      "totalPrice": "CNY 5,810",
-      "averageNightly": 1936.67,
-      "currency": "CNY",
-      "conditions": "列表显示 Free Cancellation；截止日期和完整条款待订单页核实",
-      "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "checkedAt": "2026-10-13T09:17:25+00:00",
-      "dates": [
-        "2026-12-31",
-        "2027-01-03"
-      ],
-      "adults": 2,
-      "rooms": 1,
-      "status": "listing_observation",
-      "withinBudget": true
+      "url": "https://ticket.yes24.com/Perf/56613",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/sfran7",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/playingsimple",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/lovesome_1216",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/curie0803/224200493563",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/rosejam1",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/hunimoya",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/tjsdudrhadl",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/curie0803",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/79mo",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/1129wonhwi",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-13T10:24:09+00:00",
+      "status": "unverified"
     }
   ],
-  "priceMonitoring": {
-    "status": "hotel_list_observation_only",
+  "monitoringScope": {
+    "activities": "city_and_nightlife",
     "flights": "disabled_by_user",
-    "hotels": "ok",
-    "hotelDates": [
-      "2026-12-31",
-      "2027-01-03"
-    ],
-    "adults": 2,
-    "rooms": 1,
-    "hotelNightlyBudgetCNY": 2000
+    "hotelPrices": "disabled_by_user"
   },
-  "note": "活动页只展示有本季完整日期的首尔官方公告中文卡片；原始检索线索不在页面列出。酒店只观察三晚双床房列表含税总价；机票按用户截图整理，停止联网查价。来源失败时保留原时间的已有信息。"
+  "note": "每日搜索韩网和公开社交跨年线索，只有当届官方正文或主办方 / 票务活动记录核实了日期与首尔场地，才生成中文已公布卡片。场地常规推荐、搜索摘要和无法读取的帖子不当作官宣。机票按截图整理，住宿价格不显示、不采集。失败保留原核查时间的已确认信息。"
 }

@@ -6,6 +6,7 @@ import hashlib
 import json
 import pathlib
 import re
+import sys
 import html
 from html.parser import HTMLParser
 import urllib.error
@@ -15,17 +16,21 @@ import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / 'scripts'))
+from activity_sources import collect_nightlife, PRIMARY_PATHS
 SOURCES = [
     ('普信阁与首尔城市跨年', '서울 보신각 제야의 종 "2026" "2027"'),
     ('光化门灯光与市集', '서울라이트 광화문 마켓 "2026" "12월"'),
     ('DDP 跨年与 SEOULCon', 'DDP 서울콘 카운트다운 "2026" "2027"'),
     ('清溪川冬季灯节', '서울빛초롱축제 "2026" "12월"'),
     ('高阳 CDF 周边备选', 'COUNTDOWN FANTASY "2026-2027"'),
+    ('首尔夜店 / 酒吧年末派对', '서울 클럽 바 NYE 파티 "2026" "2027"'),
+    ('首尔年末小型演出', '서울 홍대 송년 공연 "2026" "12월"'),
+    ('公开社交跨年线索', '首尔 跨年 2026 2027 (site:xiaohongshu.com OR site:instagram.com)'),
 ]
 OFFICIAL = [('MINT PAPER 主办方首页变化（不等于当届公告）', 'https://www.mintpaper.co.kr/'),
             ('首尔市英文首页变化（不等于跨年公告）', 'https://english.seoul.go.kr/'),
             ('NOL 当届票务页变化（可能含倒计时等动态变化）', 'https://nol.yanolja.com/ticket/products/26014480')]
-HOTEL_URL = 'https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY'
 OFFICIAL_FEED = 'https://english.seoul.go.kr/feed/'
 OFFICIAL_SEARCH = 'https://search.naver.com/search.naver?' + urllib.parse.urlencode({
     'query': 'site:english.seoul.go.kr "2026" "December" "2027" festival countdown'})
@@ -171,41 +176,15 @@ def official_candidates(fetch= None):
         raise ValueError('; '.join(errors))
     return articles, errors
 
-def hotel_rates(body, checked_at, url=HOTEL_URL):
-    """Only visible twin-room, three-night totals; never use headline nightly teaser prices."""
-    page = body.decode('utf-8', 'replace')
-    if not all(value in page for value in ['20261231', '20270103', '1 room', '3 nights']):
-        raise ValueError('Hotel response did not confirm selected full dates and occupancy')
-    rates = []
-    for fragment in re.split(r'<span class="hotelName">', page)[1:]:
-        name = html.unescape(fragment.split('<', 1)[0])
-        room = re.search(r'<div class="room-name">([^<]+)</div>', fragment)
-        price = re.search(r'<span class="price-highlight">([^<]+)</span>\s*1 room × 3 nights incl\. taxes &amp; fees', fragment)
-        if not room or not price or 'twin' not in room.group(1).lower():
-            continue
-        amount = html.unescape(price.group(1)).strip()
-        if not re.fullmatch(r'(CNY\s*|US\$)[\d,]+(?:\.\d+)?', amount):
-            continue
-        currency = 'CNY' if amount.startswith('CNY') else 'USD'
-        total = float(re.sub(r'[^\d.]', '', amount))
-        text = Text(); text.feed(fragment.split('Check Availability', 1)[0])
-        raw = '\n'.join(text.parts)
-        cancel = '列表显示 Free Cancellation；截止日期和完整条款待订单页核实' if 'Free Cancellation' in raw else '列表显示 4-hour Cancellation Window；不能视为入住前可免费取消' if '4-hour Cancellation Window' in raw else '取消与付款条款待订单页核实'
-        rates.append({'name': name, 'room': html.unescape(room.group(1)), 'totalPrice': amount,
-                      'averageNightly': round(total / 3, 2), 'currency': currency,
-                      'conditions': cancel, 'url': url, 'checkedAt': checked_at,
-                      'dates': ['2026-12-31', '2027-01-03'], 'adults': 2, 'rooms': 1,
-                      'status': 'listing_observation', 'withinBudget': total <= 6000 if currency == 'CNY' else None})
-    return rates
-
 def now():
     return dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds')
 
 def read(url):
     req = urllib.request.Request(url, headers={'User-Agent': 'SeoulNewYearGuide/1.0 (+public news monitoring)', 'Accept': 'application/rss+xml,text/html;q=0.8'})
-    with urllib.request.urlopen(req, timeout=25) as response:
+    with urllib.request.urlopen(req, timeout=12) as response:
         final = urllib.parse.urlsplit(response.url)
-        if urllib.parse.urlsplit(url).hostname == 'english.seoul.go.kr' and (final.scheme != 'https' or final.hostname != 'english.seoul.go.kr'):
+        origin = urllib.parse.urlsplit(url)
+        if (origin.hostname == 'english.seoul.go.kr' or origin.hostname in PRIMARY_PATHS) and (final.scheme != 'https' or final.hostname != origin.hostname):
             raise ValueError('Official source redirected outside the verified city origin')
         body = response.read(2_000_001)
         if len(body) > 2_000_000:
@@ -228,8 +207,9 @@ def collect(output, fixture=None):
     items = {entry['url']: entry for entry in prior.get('items', [])}
     source_results = []
     official_pages = dict(prior.get('officialPages', {}))
-    observed_rates = prior.get('observedHotelRates', [])
-    hotel_status = 'not_started'
+    nightlife_status = 'not_started'
+    last_nightlife_success = prior.get('lastNightlifeSuccess')
+    social_leads = prior.get('socialLeads', [])
     briefs = {entry['id']: entry for entry in prior.get('eventBriefs', [])}
     official_status = 'not_started'
     last_official_success = prior.get('lastOfficialSuccess')
@@ -284,13 +264,21 @@ def collect(output, fixture=None):
             source_results.append({'name': '首尔官方活动中文简报', 'url': OFFICIAL_FEED,
                                    'status': 'error', 'error': str(exc)[:220]})
         try:
-            observed_rates = hotel_rates(read(HOTEL_URL), attempted)
-            hotel_status = 'ok'
-            successes += 1
-            source_results.append({'name': 'Trip.com 所选日期酒店双床房列表快照（非订单确认）', 'url': HOTEL_URL, 'status': 'ok', 'count': len(observed_rates)})
-        except (urllib.error.URLError, OSError, ValueError) as exc:
-            hotel_status = 'error'
-            source_results.append({'name': 'Trip.com 所选日期酒店双床房列表快照', 'url': HOTEL_URL, 'status': 'error', 'error': str(exc)[:220]})
+            new_cards, new_leads, nightlife_sources = collect_nightlife(read, attempted, list(briefs.values()))
+            for entry in new_cards:
+                briefs[entry['id']] = entry
+            if new_leads:
+                social_leads = new_leads
+            good = sum(source['status'] == 'ok' for source in nightlife_sources)
+            nightlife_status = 'ok' if good == len(nightlife_sources) else 'partial' if good else 'error'
+            if good:
+                successes += 1
+                last_nightlife_success = attempted
+            source_results.append({'name': '韩网 / 公开社交 / 夜生活活动核实', 'url': 'https://search.naver.com/', 'status': nightlife_status,
+                                   'count': len(new_cards), 'channels': nightlife_sources})
+        except (OSError, ValueError) as exc:
+            nightlife_status = 'error'
+            source_results.append({'name': '韩网 / 夜生活活动核实', 'url': 'https://search.naver.com/', 'status': 'error', 'error': str(exc)[:220]})
     total = len(SOURCES) + (0 if fixture else len(OFFICIAL) + 2)
     result = {
         'status': 'ok' if successes == total and all(s['status'] == 'ok' for s in source_results) else 'partial' if successes else 'error',
@@ -300,17 +288,17 @@ def collect(output, fixture=None):
         'sources': source_results, 'officialPages': official_pages,
         'eventBriefs': list(briefs.values()), 'officialStatus': official_status,
         'lastOfficialSuccess': last_official_success,
-        'observedHotelRates': observed_rates,
-        'priceMonitoring': {'status': 'hotel_list_observation_only', 'flights': 'disabled_by_user', 'hotels': hotel_status,
-                            'hotelDates': ['2026-12-31', '2027-01-03'], 'adults': 2, 'rooms': 1,
-                            'hotelNightlyBudgetCNY': 2000},
-        'note': '活动页只展示有本季完整日期的首尔官方公告中文卡片；原始检索线索不在页面列出。酒店只观察三晚双床房列表含税总价；机票按用户截图整理，停止联网查价。来源失败时保留原时间的已有信息。'
+        'nightlifeStatus': nightlife_status, 'lastNightlifeSuccess': last_nightlife_success,
+        'socialLeads': social_leads,
+        'monitoringScope': {'activities': 'city_and_nightlife', 'flights': 'disabled_by_user', 'hotelPrices': 'disabled_by_user'},
+        'note': '每日搜索韩网和公开社交跨年线索，只有当届官方正文或主办方 / 票务活动记录核实了日期与首尔场地，才生成中文已公布卡片。场地常规推荐、搜索摘要和无法读取的帖子不当作官宣。机票按截图整理，住宿价格不显示、不采集。失败保留原核查时间的已确认信息。'
     }
     output.parent.mkdir(parents=True, exist_ok=True)
     temporary = output.with_suffix('.tmp')
     temporary.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n')
     temporary.replace(output)
-    print(f'Monitor: {result["status"]}; {successes}/{total} sources; {len(result["items"])} retained leads')
+    failed_channels = sum(channel['status'] == 'error' for source in source_results for channel in source.get('channels', []))
+    print(f'Monitor: {result["status"]}; {successes}/{total} source groups yielded data; {failed_channels} nightlife channels unavailable; {len(result["items"])} retained leads')
     return 0 if successes else 1
 
 if __name__ == '__main__':

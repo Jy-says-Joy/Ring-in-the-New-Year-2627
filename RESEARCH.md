@@ -81,3 +81,34 @@ Naver 已搜索当前 2026 年末与 2027 跨年、各场馆往届活动、公�
 公开生产网站经保留 TLS 验证的 Chromium 新匿名上下文返回 200；Python 默认 User-Agent 被网站返回 403 / 1010，不能再误报为云环境域名 CONNECT 拦截。沿用用户此前授权的代理根证书信任，授予已有 NSS 数据库写权限后 Chromium 正常验证 HTTPS，未禁用证书校验。
 
 本次实时监测 10 / 10 来源成功，酒店返回 2 条双床列表参考。首尔官方英文 RSS 与 Naver 官方站点正文没有满足本季完整日期条件的已确认活动，`eventBriefs` 为空，六项保持往年分类。网页不会直接展示 RSS 标题。原始线索保留在数据供进一步研究；中文简报只自动识别已有六个市内项目，新项目仍需人工审核整理。源失败保留旧简报和原核查日期，取消 / 调整通知单独显示。
+
+## 2026-10-13 第三版：沿线吃喝与夜生活关注
+
+用户要求移除住宿价格文字，给每种路线补具体吃喝选择，并扩大每日韩网 / 社交跨年检索。本版从 HTML、人工资料及自动数据移除住宿预算、历史价格与酒店价监测，酒店章节仅保留片区、双床和取消条件。机票仍不联网查价。
+
+### 具体店铺选择
+
+9 条路线合计 40 条选择，涉及 35 家店铺。选择位于主街区或有明确绕路说明的店，以正餐、咖啡甜点、小酌和快速早餐分类；选择不会自动增加必去站点。步行是规划估计，不是地图 API 实测。元旦 / 周末营业及预约仍按商家当天信息，早班返程不追排队店。
+
+已读取韩国 Naver 本地检索 / 公开口碑索引，以及以下官方或商家正文：
+
+- [明洞饺子](https://english.visitseoul.net/restaurants/Myeongdong-Kyoja-EN/ENP008570)：旅游局介绍鸡汤刀切面，页面有 2026 年近期游客评论；不照抄评论中的“米其林星级”误称。
+- [光化门美进](https://english.visitseoul.net/restaurants/Mijin1/ENP010868)：荞麦面招牌，提醒冬天不把凉面当热汤选择。
+- [清进屋](https://english.visitseoul.net/restaurants/Cheongjinok/ENP004537)：牛骨、内脏与血豆腐汤。旅游目录地址与本地地图索引出现不一致，未照抄可能错误地址，使用明确的光化门店名地图检索。
+- [MOLTO 等浓缩咖啡馆](https://english.visitseoul.net/editorspicks/Seoul-Espresso-Bar/ENNch89g2)：明洞咖啡备选；露台看天气，不当成冬季久坐或午夜营业保障。
+- [现代百货 The Hyundai Seoul 餐厅菜单与楼层](https://www.ehyundai.com/newPortal/DP/DN/DN000000_V.do?branchCd=B00140000)：6F Na Ui Gaya 的热锅、Sangchunjae 海鲜套餐、Eataly 意餐已查商场正文；B1 Cafe Layered 和 Richemont 另有旅游局资料。
+- [IFC On The Border 重装开业公告](https://www.ifcmallseoul.com/kr/now/view/20000000742)、[IFC 餐饮目录](https://www.ifcmallseoul.com/kr/tenant/fnb)：2026 年重装开业及 L3 分店信息，Cafe Mamas 在目录可读。未把 1–2 月促销写为跨年优惠。
+- [Parc 韩式家常菜](https://english.visitseoul.net/restaurants/ParcSeoul/ENP16sl14)：靠近 Leeum，常规午后休息时间使其不适合安排 16:00 正餐；与 SOUNDS 的 Ilhosik、Gourmet 494 的 OUR Bakery / Blue Bottle 形成汉南选择。
+- [圣水土豆排骨汤](https://english.visitseoul.net/restaurants/SeongsuGamjatang/ENPlceoxk)：延武场街位置、排队信息。CaféCité 由此前已读取的圣水官方路线支持；奶奶的食谱、Center Coffee 首尔林店补充本地检索入口并说明绕路。
+- [COEX 正餐目录](https://www.starfield.co.kr/coexmall/cafeDining/restaurant.do)、[美食街目录](https://www.starfield.co.kr/coexmall/cafeDining/foodStreet.do)、[咖啡目录](https://www.starfield.co.kr/coexmall/cafeDining/cafe.do)：北仓洞嫩豆腐、Paul Bassett 等店可查；没有仅凭记忆加入未在当前目录确认的 COEX On The Border。
+- 首尔站早餐 / 带走选择使用近期 Naver 店铺及公开评论索引：Isaac Toast 明洞、太极堂首尔站、Dunkin Wonders 首尔站。早班若没确认早开或需等待，仍优先酒店早餐 / 机场。晚班返程可选站西侧龙山元祖土豆排骨汤，但明确带行李与绕路取舍。
+
+部分独立店资料来自本地检索索引，不能声称已读每一篇博客正文或确认元旦开放。小红书此次搜索仍返回页面壳，未取得笔记正文。大林仓库检索还出现改造后的 MUSINSA 零售资料，因此没有未经核对就把同名零售仓库当作咖啡馆推荐。
+
+### 夜生活与每日检索
+
+FAUST、Cakeshop 的场地及音乐线索来自韩国公开检索与场地 / 票务入口；[Cakeshop RA 场地页](https://ra.co/clubs/70614) 的 Naver 索引明确为首尔梨泰院。未错用检索结果中其他俱乐部的 RA ID。[Charles H. 旅游局目录](https://english.visitseoul.net/restaurants/CharlesHseoul/ENP8f9it6)支持其四季酒店地下鸡尾酒吧位置；Jean Frigo 本地索引描述水果鸡尾酒和隐蔽式入口。全部列为“常规去处 / 今年跨年场次待核实”，不是已公布派对。
+
+监测扩大为 8 个公开新闻检索入口组、首尔官方正文核实，以及每日 Naver 韩网 / 公开社交 / 售票检索。主办方或票务 Event 记录核实实际年份、日期、时区和首尔场地后可自动补充新夜店、酒吧或小型演出，不再只识别六个市内项目。普通午夜前后音乐场次会写为年末现场，不凭空保证有倒计时。过去年份、只存在页脚日期、非首尔场地、虚拟活动、搜索摘要不确认；取消 / 改期回退和来源故障保留原核查时间已覆盖测试。
+
+本次实时采集为 `partial`：入口组均有数据，但 RA 目录、Cakeshop 主页及部分 Instagram 公告受到 403 / 522、登录或公开内容缺失限制。当前没有核实到可加入今年分类的新夜生活 Event 记录，`eventBriefs` 仍为空。此状态不等于“今年没有派对”，也不承诺能读取私密账号、所有海报或任意社交帖。没有绕过验证或编造公告。
