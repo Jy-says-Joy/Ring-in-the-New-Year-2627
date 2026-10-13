@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "lastAttempt": "2026-10-12T06:55:05+00:00",
-  "lastSuccess": "2026-10-12T06:55:05+00:00",
+  "lastAttempt": "2026-10-13T07:19:33+00:00",
+  "lastSuccess": "2026-10-13T07:19:33+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
@@ -224,7 +224,7 @@
       "name": "카운트다운 판타지",
       "url": "https://news.google.com/rss/search?q=%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4+%ED%8C%90%ED%83%80%EC%A7%80+%282026+OR+2027%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 36
+      "count": 34
     },
     {
       "name": "首尔官方跨年线索",
@@ -233,7 +233,7 @@
       "count": 4
     },
     {
-      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 页面有变化，请人工核实",
+      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 已记录页面指纹",
       "url": "https://www.mintpaper.co.kr/",
       "status": "ok",
       "count": 0
@@ -259,18 +259,18 @@
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "fe666077a4f979e9ef66f4fd1082655b8b3f6631fa6888ae82e71f28b5bf7f22",
-      "checkedAt": "2026-10-12T06:55:05+00:00",
+      "sha256": "7c499332931677a6a0a8f849872caee2b6e44c2647f5d2c17a1cdb58e71f0994",
+      "checkedAt": "2026-10-13T07:19:33+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
       "sha256": "d7e6cfe2cf42b2433e6ea306e928e937cef538aa6b0a3e68bce5de7048dd3f66",
-      "checkedAt": "2026-10-12T06:55:05+00:00",
-      "changed": true
+      "checkedAt": "2026-10-13T07:19:33+00:00",
+      "changed": false
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "62b92d0a6769b4083fe83dd76d7d4ed13e71dda9b78966099af841935538fea2",
-      "checkedAt": "2026-10-12T06:55:05+00:00",
+      "sha256": "54bb7ca06c7c35ec8e7fcab10682ff59e284d3abd81988cf32da480641a3f810",
+      "checkedAt": "2026-10-13T07:19:33+00:00",
       "changed": true
     }
   },
@@ -278,12 +278,12 @@
     {
       "name": "Myeongdong Merlin Hotel",
       "room": "Deluxe Twin Loft Room",
-      "totalPrice": "CNY 2,912",
-      "averageNightly": 970.67,
+      "totalPrice": "CNY 2,896",
+      "averageNightly": 965.33,
       "currency": "CNY",
       "conditions": "列表显示 Free Cancellation；截止日期和完整条款待订单页核实",
       "url": "https://www.trip.com/hotels/list?city=274&checkin=2026-12-31&checkout=2027-01-03&adult=2&crn=1&curr=CNY",
-      "checkedAt": "2026-10-12T06:55:05+00:00",
+      "checkedAt": "2026-10-13T07:19:33+00:00",
       "dates": [
         "2026-12-31",
         "2027-01-03"
