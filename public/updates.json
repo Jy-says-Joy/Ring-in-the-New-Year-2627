@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "lastAttempt": "2026-10-17T05:17:18+00:00",
-  "lastSuccess": "2026-10-17T05:17:18+00:00",
+  "lastAttempt": "2026-10-18T05:23:19+00:00",
+  "lastSuccess": "2026-10-18T05:23:19+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
@@ -93,6 +93,14 @@
       "status": "unverified"
     },
     {
+      "title": "혁오·실리카겔·FTISLAND 등 라인업...2026년 마지막 페스티벌 '카운트다운 판타지' - SBS연예뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVZFlYTmRfMWhwaGFJbHYtdUpYVnQtLW10MFBmRlBraG5odGZvOUJFbUZVR3MwSFNCWEFDQzZRUmtLYWJ1a3Nxam5uWGoxWE94MGJsUVJReDBQY1FnSTA1aEVfNEFCR05oeHg4R3Z30gFsQVVfeXFMT0xBUTB3X2ZXQXZsNkVrZ2MtNTJrQ3BBb2pQNzhhcEZHRWx5M1pkaW1NX0l0U2ViTTA4WDJSZ2toZ0pxc0paZzRxWEtIQmtyUG11aWFydERNMDh1a3RfNUVPeFpSYmF1cF82amY0?oc=5",
+      "source": "SBS연예뉴스",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "discoveredAt": "2026-10-10T06:39:35+00:00",
+      "status": "unverified"
+    },
+    {
       "title": "'CDF 2026~2027' 1차 라인업 공개…혁오·실리카겔·FT아일랜드 출격 - 뉴스컬처",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vbkxNckhfNEZrSnRyNHZLeTFidURBZTU0elV0RXBidVBiRUxfWU5weURRTUNMTEdIYnNBZ0Q1MmY4a3U4Smc1eTdwWkRiTXhPOV8yZDNiWm1QTU5LN0d0R0hiMEVOZw?oc=5",
       "source": "뉴스컬처",
@@ -106,14 +114,6 @@
       "source": "SBS연예뉴스",
       "publishedAt": "2026-10-07T03:53:51+00:00",
       "discoveredAt": "2026-10-08T15:41:03+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "혁오·실리카겔·FTISLAND 등 라인업...2026년 마지막 페스티벌 '카운트다운 판타지' - SBS연예뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVZFlYTmRfMWhwaGFJbHYtdUpYVnQtLW10MFBmRlBraG5odGZvOUJFbUZVR3MwSFNCWEFDQzZRUmtLYWJ1a3Nxam5uWGoxWE94MGJsUVJReDBQY1FnSTA1aEVfNEFCR05oeHg4R3Z30gFsQVVfeXFMT0xBUTB3X2ZXQXZsNkVrZ2MtNTJrQ3BBb2pQNzhhcEZHRWx5M1pkaW1NX0l0U2ViTTA4WDJSZ2toZ0pxc0paZzRxWEtIQmtyUG11aWFydERNMDh1a3RfNUVPeFpSYmF1cF82amY0?oc=5",
-      "source": "SBS연예뉴스",
-      "publishedAt": "2026-10-07T03:53:51+00:00",
-      "discoveredAt": "2026-10-10T06:39:35+00:00",
       "status": "unverified"
     },
     {
@@ -336,7 +336,7 @@
       "name": "光化门灯光与市集",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EB%9D%BC%EC%9D%B4%ED%8A%B8+%EA%B4%91%ED%99%94%EB%AC%B8+%EB%A7%88%EC%BC%93+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 24
+      "count": 23
     },
     {
       "name": "DDP 跨年与 SEOULCon",
@@ -348,7 +348,7 @@
       "name": "清溪川冬季灯节",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EB%B9%9B%EC%B4%88%EB%A1%B1%EC%B6%95%EC%A0%9C+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 47
+      "count": 48
     },
     {
       "name": "高阳 CDF 周边备选",
@@ -372,7 +372,7 @@
       "name": "公开社交跨年线索",
       "url": "https://news.google.com/rss/search?q=%E9%A6%96%E5%B0%94+%E8%B7%A8%E5%B9%B4+2026+2027+%28site%3Axiaohongshu.com+OR+site%3Ainstagram.com%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 36
+      "count": 35
     },
     {
       "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 页面有变化，请人工核实",
@@ -395,33 +395,35 @@
     {
       "name": "首尔官方活动中文简报",
       "url": "https://english.seoul.go.kr/feed/",
-      "status": "ok",
+      "status": "partial",
       "count": 0,
-      "errors": []
+      "errors": [
+        "HTTP Error 403: Forbidden"
+      ]
     },
     {
       "name": "韩网 / 公开社交 / 夜生活活动核实",
       "url": "https://search.naver.com/",
-      "status": "partial",
+      "status": "error",
       "count": 0,
       "channels": [
         {
           "name": "Naver · 韩网年末派对与酒吧",
           "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8+2026+12%EC%9B%94+31%EC%9D%BC+2027+%ED%81%B4%EB%9F%BD+%EB%B0%94+%ED%8C%8C%ED%8B%B0",
-          "status": "ok",
-          "count": 0
+          "status": "error",
+          "error": "HTTP Error 403: Forbidden"
         },
         {
           "name": "Naver · 公开社交跨年线索",
           "url": "https://search.naver.com/search.naver?query=site%3Ainstagram.com+%EC%84%9C%EC%9A%B8+NYE+2026+2027",
-          "status": "ok",
-          "count": 0
+          "status": "error",
+          "error": "HTTP Error 403: Forbidden"
         },
         {
           "name": "Naver · 韩网演出与售票",
           "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8+2026+12%EC%9B%9431%EC%9D%BC+%EC%86%A1%EB%85%84+%EA%B3%B5%EC%97%B0+%EC%98%88%EB%A7%A4",
-          "status": "ok",
-          "count": 0
+          "status": "error",
+          "error": "HTTP Error 403: Forbidden"
         },
         {
           "name": "RA 首尔跨年夜档期",
@@ -439,46 +441,38 @@
           "name": "FAUST 公开社交公告",
           "url": "https://www.instagram.com/faustseoul/",
           "status": "error",
-          "count": 0,
-          "error": "公开页面未提供可读取的活动帖子；不绕过登录验证"
+          "error": "HTTP Error 429: Too Many Requests"
         },
         {
           "name": "Cakeshop 公开社交公告",
           "url": "https://www.instagram.com/cakeshopseoul/",
           "status": "error",
-          "count": 0,
-          "error": "公开页面未提供可读取的活动帖子；不绕过登录验证"
-        },
-        {
-          "name": "主办方 / 票务正文",
-          "url": "https://ticket.yes24.com/Perf/60108",
-          "status": "error",
-          "error": "Official source redirected outside the verified city origin"
+          "error": "HTTP Error 429: Too Many Requests"
         }
       ]
     }
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "ebbde76f875cc4f82701f19a86e1c047d67d8f1ceaab1e770bba41b9bf83e268",
-      "checkedAt": "2026-10-17T05:17:18+00:00",
+      "sha256": "86a23fda8cc6766de26faf3a6380061cc20289c8b64f52a21a771d0cb1ec36da",
+      "checkedAt": "2026-10-18T05:23:19+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
-      "sha256": "d6480c55f7cec5cd082442fee1ec2fc90b87e6cbd4da02ce74496026bd9e6325",
-      "checkedAt": "2026-10-17T05:17:18+00:00",
+      "sha256": "1cb137ba7ccd9528ebcf0d4572db4143dc33f5b9c4b5d151dfe3e862ec8c881f",
+      "checkedAt": "2026-10-18T05:23:19+00:00",
       "changed": true
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "b44af7ebdc8b72c6fa989cadd7fd3bc2806634327b3d5daabb792e5410ac5b61",
-      "checkedAt": "2026-10-17T05:17:18+00:00",
+      "sha256": "883400e9dd4c6d6c7f9dc69629b37b78eff59f42f921dcc6ecc823682cad0d7f",
+      "checkedAt": "2026-10-18T05:23:19+00:00",
       "changed": true
     }
   },
   "eventBriefs": [],
-  "officialStatus": "ok",
-  "lastOfficialSuccess": "2026-10-17T05:17:18+00:00",
-  "nightlifeStatus": "partial",
+  "officialStatus": "partial",
+  "lastOfficialSuccess": "2026-10-18T05:23:19+00:00",
+  "nightlifeStatus": "error",
   "lastNightlifeSuccess": "2026-10-17T05:17:18+00:00",
   "socialLeads": [
     {
