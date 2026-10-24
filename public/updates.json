@@ -1,9 +1,17 @@
 {
   "status": "partial",
-  "lastAttempt": "2026-10-23T05:42:20+00:00",
-  "lastSuccess": "2026-10-23T05:42:20+00:00",
+  "lastAttempt": "2026-10-24T05:21:05+00:00",
+  "lastSuccess": "2026-10-24T05:21:05+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
+    {
+      "title": "2026 Sol Lewitt 南韓首爾個展 @amorepacificmuseum — 話說這次10月放空月，飛到首爾意外撿到一個特展 來自美國極簡主義藝術家Sol LeWitt在07年去世後，重新回到韓國策展 這次展覽的特色是，裡面的作品反而不是藝術家所創作，而是南韓藝術系學生按照LeWitt - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52NjVZTkZEZ0Y0RGh3WUxEMnJ6UnRkUXpWbnA1NWhkNUtzNFBKcjZhaGhIdlJ4anVZNFVCcWFSdm9ERVg2QVJaWjZESzZjbnMzcVE?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-10-22T17:57:41+00:00",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
+      "status": "unverified"
+    },
     {
       "title": "斯坦福大学商学院MBA/MSx首尔招生说明会 - 韩国通(KoreaTalk.cn) 🐰 “本次活动将介绍斯坦福MBA项目和Stanford MSx项目，为有意申请者详细讲解项目概况，并提供实用的申请建议。” ︎👉 查看详细内容 : https://www.koreatalk.cn/topic/2083 🔍 韩国通(KoreaTalk)韩 - Instagram",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtSXRSRnBFejVTdlVPZ3ZHSnFGVHR6Yjh6WXNqNi14alU5ZUNKVU0xWU55cjNYczRXY2NvX2JfVXk5U1piajVJc29OZkRneUFkQXc?oc=5",
@@ -74,6 +82,14 @@
       "source": "TopStarNews",
       "publishedAt": "2026-10-08T07:00:00+00:00",
       "discoveredAt": "2026-10-08T15:41:03+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "‘FNC 신인 밴드’ AxMxP, 2년 연속 ‘카운트다운 판타지 2026-2027’ 출격.. 페스티벌 신흥 강자 존재감 ‘신예 밴드’ - 전북제일신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UGFISXFJaC0xUTVmSUMweVFNR2VzcG5Gb1pvSjR0SVhHVUpTVVFrZ1hoMkhfTVRiTFZfOWxUd1czTDNsYXJPd3lzMXhTcEt4TENCVUdxd2w3SVFoNUs3RmdCZDYtWEI3U2c?oc=5",
+      "source": "전북제일신문",
+      "publishedAt": "2026-10-08T07:00:00+00:00",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
       "status": "unverified"
     },
     {
@@ -307,22 +323,6 @@
       "publishedAt": "2026-03-26T07:00:00+00:00",
       "discoveredAt": "2026-10-17T05:17:18+00:00",
       "status": "unverified"
-    },
-    {
-      "title": "#Burberry #JYP #時尚 那個最強 C 位殺手，這次要用「經典」跟後輩們爭寵嗎？ – 大家都在猜，卸下 JYP 內部董事職務後的朴軫永要去做什麼。他的第一個登場的合作是與 Burberry 合作品牌 170 週年慶祝活動。 昨日 Burberry 正式發布 170 週年全球廣告《The Trench, - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RVTZSYzNoRkFVVU5QOE9mQVZpdnFvY0pLT3NsWk1xeF9fZ3VNRndka2ZkRmZnMTl5M1RCQVlYTjcweHNzV0I1b1VZZmlmWTVLNXc?oc=5",
-      "source": "Instagram",
-      "publishedAt": "2026-03-11T07:00:00+00:00",
-      "discoveredAt": "2026-10-19T05:40:21+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "Seoul Living Design Fair 2026 在首爾的設計展裡， 許多品牌 以不同方式回應生活與空間 燈具、家具、材質與色彩的運用， 都在細節之中 描繪對日常的想像 設計不只是形式， 而是讓空間與生活 產生更好的關係 這趟首爾 也帶回許多新的觀察與靈感 Design Trip Seoul - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05dXlnTF9JLXY5eUduMGN0M0tacmxDLTVsSWdxREtXZ21rRDRIVUF2NXYzekJnQkpUSGN2NHZDRldDWC00TnhjT1ZDVlpMNHpUZjFPV2F3?oc=5",
-      "source": "Instagram",
-      "publishedAt": "2026-03-10T07:00:00+00:00",
-      "discoveredAt": "2026-10-13T10:24:09+00:00",
-      "status": "unverified"
     }
   ],
   "sources": [
@@ -336,7 +336,7 @@
       "name": "光化门灯光与市集",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EB%9D%BC%EC%9D%B4%ED%8A%B8+%EA%B4%91%ED%99%94%EB%AC%B8+%EB%A7%88%EC%BC%93+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 31
+      "count": 32
     },
     {
       "name": "DDP 跨年与 SEOULCon",
@@ -348,13 +348,13 @@
       "name": "清溪川冬季灯节",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EB%B9%9B%EC%B4%88%EB%A1%B1%EC%B6%95%EC%A0%9C+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 50
+      "count": 55
     },
     {
       "name": "高阳 CDF 周边备选",
       "url": "https://news.google.com/rss/search?q=COUNTDOWN+FANTASY+%222026-2027%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     {
       "name": "首尔夜店 / 酒吧年末派对",
@@ -375,7 +375,7 @@
       "count": 26
     },
     {
-      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 已记录页面指纹",
+      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 页面有变化，请人工核实",
       "url": "https://www.mintpaper.co.kr/",
       "status": "ok",
       "count": 0
@@ -460,103 +460,103 @@
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "11a37aefd4b926ef88d8a6b93aa5347ae7143c4a1012fd5228cf2e5ccf682f40",
-      "checkedAt": "2026-10-23T05:42:20+00:00",
+      "sha256": "04221d4a47cc6c818dfcc681d485ee8d8b47a60de911c94eae5c5a1e0d483509",
+      "checkedAt": "2026-10-24T05:21:05+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
-      "sha256": "57fdace0a9d33b5e4af8dc536dea16ef3d0e812ad51952e7445339644ee052f4",
-      "checkedAt": "2026-10-23T05:42:20+00:00",
-      "changed": false
+      "sha256": "7baed00c656474fa670b6c8c3a11414ef7944fdc9f602e74156a091227de7727",
+      "checkedAt": "2026-10-24T05:21:05+00:00",
+      "changed": true
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "23ff5b021a68dd8324121478a95ff2b653376c948524680ecee926a6ddf076df",
-      "checkedAt": "2026-10-23T05:42:20+00:00",
+      "sha256": "89019d142634111feebc52f6f05d81c215742ea2db9ceba0e32f5de57acd3f31",
+      "checkedAt": "2026-10-24T05:21:05+00:00",
       "changed": true
     }
   },
   "eventBriefs": [],
   "officialStatus": "ok",
-  "lastOfficialSuccess": "2026-10-23T05:42:20+00:00",
+  "lastOfficialSuccess": "2026-10-24T05:21:05+00:00",
   "nightlifeStatus": "partial",
-  "lastNightlifeSuccess": "2026-10-23T05:42:20+00:00",
+  "lastNightlifeSuccess": "2026-10-24T05:21:05+00:00",
   "socialLeads": [
-    {
-      "url": "https://blog.naver.com/tjsdudrhadl",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/irumi211",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/1129wonhwi",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/rosejam1",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/playingsimple",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/curie0803",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
-      "status": "unverified"
-    },
     {
       "url": "https://blog.naver.com/79mo",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
       "status": "unverified"
     },
     {
-      "url": "https://blog.naver.com/curie0803/224200493563",
+      "url": "https://blog.naver.com/tjsdudrhadl",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/lovesome_1216",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
       "status": "unverified"
     },
     {
       "url": "https://ticket.yes24.com/Perf/60108",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/curie0803",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/sfran7",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/irumi211",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/curie0803/224200493563",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/playingsimple",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/rosejam1",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/1129wonhwi",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
       "status": "unverified"
     },
     {
       "url": "https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fwww.instagram.com%2Ffaustseoul%2F",
       "source": "FAUST 公开社交公告",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
       "status": "unverified"
     },
     {
       "url": "https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fwww.instagram.com%2Fcakeshopseoul%2F",
       "source": "Cakeshop 公开社交公告",
-      "discoveredAt": "2026-10-23T05:42:20+00:00",
+      "discoveredAt": "2026-10-24T05:21:05+00:00",
       "status": "unverified"
     }
   ],
