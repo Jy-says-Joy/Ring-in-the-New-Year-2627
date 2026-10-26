@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "lastAttempt": "2026-10-25T05:38:07+00:00",
-  "lastSuccess": "2026-10-25T05:38:07+00:00",
+  "lastAttempt": "2026-10-26T05:44:40+00:00",
+  "lastSuccess": "2026-10-26T05:44:40+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
@@ -264,7 +264,7 @@
       "title": "韩国政府正式公布全新 K-Culture 项目「Fanomenon（패노메논）」，由总统直属大众文化交流委员会主导，并联合 HYBE、SM Entertainment、JYP Entertainment 及 YG Entertainment 四大娱乐公司共同出资成立合资公司，希望透过全新的粉丝经济模式，把韩国打造成为 - Instagram",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xUVB0OGVHLW5kaUhLOTVvaVdpRTI0aEVLcEs5Rzgxdll0aGFjNFZzS3p2RHZvQjZ0T1ZKTnctSUFTTEx3UXBZZWtHb0VwX21NdFE?oc=5",
       "source": "Instagram",
-      "publishedAt": "2026-07-26T07:00:00+00:00",
+      "publishedAt": "2026-07-27T07:00:00+00:00",
       "discoveredAt": "2026-10-14T05:45:51+00:00",
       "status": "unverified"
     },
@@ -330,13 +330,13 @@
       "name": "普信阁与首尔城市跨年",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8+%EB%B3%B4%EC%8B%A0%EA%B0%81+%EC%A0%9C%EC%95%BC%EC%9D%98+%EC%A2%85+%222026%22+%222027%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     {
       "name": "光化门灯光与市集",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EB%9D%BC%EC%9D%B4%ED%8A%B8+%EA%B4%91%ED%99%94%EB%AC%B8+%EB%A7%88%EC%BC%93+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 29
+      "count": 32
     },
     {
       "name": "DDP 跨年与 SEOULCon",
@@ -348,7 +348,7 @@
       "name": "清溪川冬季灯节",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EB%B9%9B%EC%B4%88%EB%A1%B1%EC%B6%95%EC%A0%9C+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 57
+      "count": 55
     },
     {
       "name": "高阳 CDF 周边备选",
@@ -366,16 +366,16 @@
       "name": "首尔年末小型演出",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8+%ED%99%8D%EB%8C%80+%EC%86%A1%EB%85%84+%EA%B3%B5%EC%97%B0+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 3
+      "count": 1
     },
     {
       "name": "公开社交跨年线索",
       "url": "https://news.google.com/rss/search?q=%E9%A6%96%E5%B0%94+%E8%B7%A8%E5%B9%B4+2026+2027+%28site%3Axiaohongshu.com+OR+site%3Ainstagram.com%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 28
+      "count": 32
     },
     {
-      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 已记录页面指纹",
+      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 页面有变化，请人工核实",
       "url": "https://www.mintpaper.co.kr/",
       "status": "ok",
       "count": 0
@@ -398,32 +398,32 @@
       "status": "partial",
       "count": 0,
       "errors": [
-        "The read operation timed out"
+        "HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "韩网 / 公开社交 / 夜生活活动核实",
       "url": "https://search.naver.com/",
-      "status": "partial",
+      "status": "error",
       "count": 0,
       "channels": [
         {
           "name": "Naver · 韩网年末派对与酒吧",
           "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8+2026+12%EC%9B%94+31%EC%9D%BC+2027+%ED%81%B4%EB%9F%BD+%EB%B0%94+%ED%8C%8C%ED%8B%B0",
-          "status": "ok",
-          "count": 0
+          "status": "error",
+          "error": "HTTP Error 403: Forbidden"
         },
         {
           "name": "Naver · 公开社交跨年线索",
           "url": "https://search.naver.com/search.naver?query=site%3Ainstagram.com+%EC%84%9C%EC%9A%B8+NYE+2026+2027",
-          "status": "ok",
-          "count": 0
+          "status": "error",
+          "error": "HTTP Error 403: Forbidden"
         },
         {
           "name": "Naver · 韩网演出与售票",
           "url": "https://search.naver.com/search.naver?query=%EC%84%9C%EC%9A%B8+2026+12%EC%9B%9431%EC%9D%BC+%EC%86%A1%EB%85%84+%EA%B3%B5%EC%97%B0+%EC%98%88%EB%A7%A4",
-          "status": "ok",
-          "count": 0
+          "status": "error",
+          "error": "HTTP Error 403: Forbidden"
         },
         {
           "name": "RA 首尔跨年夜档期",
@@ -448,37 +448,31 @@
           "url": "https://www.instagram.com/cakeshopseoul/",
           "status": "error",
           "error": "HTTP Error 429: Too Many Requests"
-        },
-        {
-          "name": "主办方 / 票务正文",
-          "url": "https://ticket.yes24.com/Perf/60108",
-          "status": "error",
-          "error": "Official source redirected outside the verified city origin"
         }
       ]
     }
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "e6efb58b63f2d7fa753614aab7151318630e7c133b45133c4def98883aefb438",
-      "checkedAt": "2026-10-25T05:38:07+00:00",
+      "sha256": "e49dae0fd7426c85946d52b2b2b707c892fe57417c736014a8ffaa1a972a630b",
+      "checkedAt": "2026-10-26T05:44:40+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
-      "sha256": "7baed00c656474fa670b6c8c3a11414ef7944fdc9f602e74156a091227de7727",
-      "checkedAt": "2026-10-25T05:38:07+00:00",
-      "changed": false
+      "sha256": "773a968a4d3cd77cb4ce74dfc10ccd05a3a2f80c16c37f8e9bc2ea6aad024057",
+      "checkedAt": "2026-10-26T05:44:40+00:00",
+      "changed": true
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "5aea209ceb4d9d1e4835d6edde90d5da410ed71750ae9a162bd3b53de5a59ac2",
-      "checkedAt": "2026-10-25T05:38:07+00:00",
+      "sha256": "9fe14c6537862d31102b8103a7ab0cc29822e2854434abdb66f885b8a6915132",
+      "checkedAt": "2026-10-26T05:44:40+00:00",
       "changed": true
     }
   },
   "eventBriefs": [],
   "officialStatus": "partial",
-  "lastOfficialSuccess": "2026-10-25T05:38:07+00:00",
-  "nightlifeStatus": "partial",
+  "lastOfficialSuccess": "2026-10-26T05:44:40+00:00",
+  "nightlifeStatus": "error",
   "lastNightlifeSuccess": "2026-10-25T05:38:07+00:00",
   "socialLeads": [
     {
