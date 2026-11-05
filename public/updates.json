@@ -1,9 +1,41 @@
 {
   "status": "partial",
-  "lastAttempt": "2026-11-04T07:12:54+00:00",
-  "lastSuccess": "2026-11-04T07:12:54+00:00",
+  "lastAttempt": "2026-11-05T07:40:16+00:00",
+  "lastSuccess": "2026-11-05T07:40:16+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
+    {
+      "title": "‘카운트다운 판타지’ 터치드-씨엔블루-드래곤포니 등 2차 라인업 공개…12월 31일 개최 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OSUZkcEVqb0JCbEtZX2xKaHpiZ3M3NHh5V2laQU51OXZBMURpVDJNVTAzSUNQREM1Nk9FOFBianczZUtKVmh6cmk1emZleVp5dFFzaWhSWGlCZ0ZFNFc5dTVoTy02aXJnTVgzd0xlQWRKUQ?oc=5",
+      "source": "톱스타뉴스",
+      "publishedAt": "2026-11-04T09:07:44+00:00",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "밴드 사운드로 가득! '카운트다운 판타지' 2차 라인업 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaWTZuOUQ1N1BScWxwUUxEMVljZllkNnMybzFEZ3BPdEs1VnBZbEhJQmZyNHYyTGRKT2IzQW03cTNVcVctN21yaXpLNXpCUQ?oc=5",
+      "source": "전자신문",
+      "publishedAt": "2026-11-04T08:19:56+00:00",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "'카운트다운 판타지', 터치드·씨엔블루 등 8팀 추가 공개 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Gd0dYSUhxQ0lZVlpDSldsYkdZbVdoMmNIdEVBUS02NkVhbjlNNXBwcUUzUXVxanBudXNCMDJuVDJqaFd5Z0JBM3B3eVN5dUZYcEZoY3R2MFNGbVF10gFXQVVfeXFMT0oyQ3AtWmRxekk0dHRNbEVfSFNjQURLZlZyLTdmOGctdVE1YVdBUDNFa1JFUnhTSTQzUXhYQjZkYlpETkp6eC1OZWs1RmhtSWc0Zk1JQ253?oc=5",
+      "source": "더팩트",
+      "publishedAt": "2026-11-04T07:40:37+00:00",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "'카운트다운 판타지 2026-2027', 2차 라인업 공개…8팀 추가 합류 - www.xportsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtSTh1ZkNlNDNlQ1BkdGpnSG1DZ2QzbWRkOWZFZHdka0xDNkZxU1hNUkx2MnlfVWJtVmVTUXNrT2U1dnphNC1JSUZncWxKOTBZUE1fTg?oc=5",
+      "source": "www.xportsnews.com",
+      "publishedAt": "2026-11-04T07:18:20+00:00",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
     {
       "title": "올해를 빛낸 이웃, 새해를 여는 주인공으로…서울시,‘제야의 종’타종인사 찾는다 - 국민기자뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZcEpvOG53OFVuTDJnNFNrQ2d1azBuMElRc0tNZ3BXWUxjQlpUMUxRTHZjcGxxWktjUVhxaUpOT0RndDFCLUlWOFVqM2xfMjBkQl96TmZmZkRNSEkzdWYzZC1DTWRZU0nSAWdBVV95cUxOWXBKbzhudzhVbkwyZzRTa0NndWswbjBJUXNLTWdwV1lMY0JaVDFMUUx2Y3BscVpLY1FYcWlKTk9EZ3QxQi1JVjhVajNsXzIwZEJfek5mZmZETUhJM3VmM2QtQ01kWVNJ?oc=5",
@@ -291,38 +323,6 @@
       "publishedAt": "2026-10-07T07:00:00+00:00",
       "discoveredAt": "2026-10-08T15:41:03+00:00",
       "status": "unverified"
-    },
-    {
-      "title": "민트페이퍼, '카운트다운 판타지 2026-2027' 1차 라인업 발표…혁오·FT아일랜드 등 12팀 확정 - 국제뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CS2xVYzI5RFBIX3BQdTZRLVk1dmhTRTJ3VzJxekdONGdtODEyNjNTdUFDUkdYaVVzS0FMcm8zbWlMTEZiZjhpRFZrMTNVX1Q3b2JOelR3T0k0Y0lDejB6cHFodnBxTnVmeXlNOHpn?oc=5",
-      "source": "국제뉴스",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "discoveredAt": "2026-10-08T15:41:03+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "'CDF 2026~2027' 1차 라인업 공개…혁오·실리카겔·FT아일랜드 출격 - 뉴스컬처",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vbkxNckhfNEZrSnRyNHZLeTFidURBZTU0elV0RXBidVBiRUxfWU5weURRTUNMTEdIYnNBZ0Q1MmY4a3U4Smc1eTdwWkRiTXhPOV8yZDNiWm1QTU5LN0d0R0hiMEVOZw?oc=5",
-      "source": "뉴스컬처",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "discoveredAt": "2026-10-08T15:41:03+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "올해 마지막 페스티벌, 새해 맞이하는 ‘카운트다운 판타지 2026-2027’ 1차 라인업 공개 - 스포츠경향",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90dFUxUGZjbDJKMFVKYmVleGNPYUJuWUdyc2JULTdVeEZ5UElNV0VKM1l0YlU1dDFVWTZIZHIyMW1CY3lHZlZhVFVJQTAtc01qbGpBX1NiYUM0anpndVHSAWNBVV95cUxNR0ZBeDNIblkwM2xKbW1jZGNtdndBUmU0MlU1ekJUdGhUVnh1Mkd0QnFTamkxclA5X2JOZjZhWGtsS1phUzhfTFVpSUlEYWg3d2NydklYemFLQ1RzWUViTjBqRlE?oc=5",
-      "source": "스포츠경향",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "discoveredAt": "2026-10-08T15:41:03+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "혁오·실리카겔·FT아일랜드...'카운트다운 판타지 2026-2027' 1차 라인업 공개 - 라온신문",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zNUlRVTNCMzJ3LXoxLTk1bUFuNjdTNFlrN1BVWmhyaEZNRjZRcGQ1eEE2LXlwVS1Ra2lqRmU1ZzdOa3Q2UU82bS0zTU01aEZBaWVfVFh2UFh0TUJONmc?oc=5",
-      "source": "라온신문",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "discoveredAt": "2026-10-29T06:43:43+00:00",
-      "status": "unverified"
     }
   ],
   "sources": [
@@ -348,13 +348,13 @@
       "name": "清溪川冬季灯节",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EB%B9%9B%EC%B4%88%EB%A1%B1%EC%B6%95%EC%A0%9C+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 61
+      "count": 33
     },
     {
       "name": "高阳 CDF 周边备选",
       "url": "https://news.google.com/rss/search?q=COUNTDOWN+FANTASY+%222026-2027%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 11
+      "count": 15
     },
     {
       "name": "首尔夜店 / 酒吧年末派对",
@@ -375,7 +375,7 @@
       "count": 38
     },
     {
-      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 页面有变化，请人工核实",
+      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 已记录页面指纹",
       "url": "https://www.mintpaper.co.kr/",
       "status": "ok",
       "count": 0
@@ -439,8 +439,7 @@
           "name": "FAUST 公开社交公告",
           "url": "https://www.instagram.com/faustseoul/",
           "status": "error",
-          "count": 0,
-          "error": "公开页面未提供可读取的活动帖子；不绕过登录验证"
+          "error": "HTTP Error 429: Too Many Requests"
         },
         {
           "name": "Cakeshop 公开社交公告",
@@ -451,7 +450,7 @@
         },
         {
           "name": "主办方 / 票务正文",
-          "url": "https://ticket.yes24.com/Perf/59859",
+          "url": "https://ticket.yes24.com/Perf/60661",
           "status": "error",
           "error": "Official source redirected outside the verified city origin"
         }
@@ -460,103 +459,115 @@
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "b2d8ff04ad457bad6161bf2f62b4bea594303f44c5e7d834bac357466c984553",
-      "checkedAt": "2026-11-04T07:12:54+00:00",
+      "sha256": "025d1a7babd3b41b01779788a96c1c80b1fc840b8eede965faba735926916cb5",
+      "checkedAt": "2026-11-05T07:40:16+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
       "sha256": "cd2c9af9b43b047bb5c654c8b49337d0f0fa1ac4b53456642f7ec5280a972cc6",
-      "checkedAt": "2026-11-04T07:12:54+00:00",
-      "changed": true
+      "checkedAt": "2026-11-05T07:40:16+00:00",
+      "changed": false
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "3e3abbef86f78f4be4c9f0a80cd9cf8025b3833eabf7a310ccd09e231e702b63",
-      "checkedAt": "2026-11-04T07:12:54+00:00",
+      "sha256": "ca2068c27f19bb25399d1db06ababb8bd700d2138ee5110f0add99228d1bfbd7",
+      "checkedAt": "2026-11-05T07:40:16+00:00",
       "changed": true
     }
   },
   "eventBriefs": [],
   "officialStatus": "ok",
-  "lastOfficialSuccess": "2026-11-04T07:12:54+00:00",
+  "lastOfficialSuccess": "2026-11-05T07:40:16+00:00",
   "nightlifeStatus": "partial",
-  "lastNightlifeSuccess": "2026-11-04T07:12:54+00:00",
+  "lastNightlifeSuccess": "2026-11-05T07:40:16+00:00",
   "socialLeads": [
     {
       "url": "https://blog.naver.com/ferrarin_",
       "source": "Naver · 韩网年末派对与酒吧",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/ferrarin_/224098302026",
       "source": "Naver · 韩网年末派对与酒吧",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/rosejam1",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/avrildefiant0304",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/curie0803/224200493563",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://ticket.yes24.com/Perf/59859",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/79mo",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/playingsimple",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/chsh1216",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/curie0803",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/100museum",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/sfran7",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/rosejam1",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/79mo",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/kheritage",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/playingsimple",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/iloveraining",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/100museum",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/iloveraining/224465832062",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/chsh1216",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/jmi200",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-04T07:12:54+00:00",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/curie0803/224200493563",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://ticket.yes24.com/Perf/60661",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-05T07:40:16+00:00",
       "status": "unverified"
     }
   ],
