@@ -1,7 +1,7 @@
 {
   "status": "partial",
-  "lastAttempt": "2026-11-08T06:54:04+00:00",
-  "lastSuccess": "2026-11-08T06:54:04+00:00",
+  "lastAttempt": "2026-11-09T07:36:45+00:00",
+  "lastSuccess": "2026-11-09T07:36:45+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
@@ -42,6 +42,14 @@
       "source": "더팩트",
       "publishedAt": "2026-11-04T07:40:37+00:00",
       "discoveredAt": "2026-11-05T07:40:16+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "'카운트다운 판타지', 터치드·씨엔블루 등 8팀 추가 공개 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KMkNwLVpkcXpJNHR0TWxFX0hTY0FES2ZWci03ZjhnLXVRNWFXQVAzRWtSRVJ4U0k0M1F4WEI2ZGJaRE5KengtTmVrNUZobUlnNGZNSUNud9IBV0FVX3lxTE9KMkNwLVpkcXpJNHR0TWxFX0hTY0FES2ZWci03ZjhnLXVRNWFXQVAzRWtSRVJ4U0k0M1F4WEI2ZGJaRE5KengtTmVrNUZobUlnNGZNSUNudw?oc=5",
+      "source": "더팩트",
+      "publishedAt": "2026-11-04T07:40:00+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
@@ -315,14 +323,6 @@
       "publishedAt": "2026-10-08T07:00:00+00:00",
       "discoveredAt": "2026-10-24T05:21:05+00:00",
       "status": "unverified"
-    },
-    {
-      "title": "📢BangBanMal 第3集將於節目將於10／10 本周六播出！ 這次由 izna 成員方智玟主持的《BangBanMal（방지민의 방금 만났는데 반말부터 하라고요？）》迎來 ALLDAY PROJECT 榮書當來賓。 兩隻貓咪再次相遇，會有什麼有趣故事已經太好奇了🐱🎀 追蹤 @bellayoon_ - Instagram",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUX2ktejhZcll3YndYSjNJelBfVzdyLUotVjJkUnI0TkVpeGNJOEFqbHpKQWV3UXFFS0tOZG52ckxGWWZSZzE0anZwM1JxTzdJcmc?oc=5",
-      "source": "Instagram",
-      "publishedAt": "2026-10-08T07:00:00+00:00",
-      "discoveredAt": "2026-10-29T06:43:43+00:00",
-      "status": "unverified"
     }
   ],
   "sources": [
@@ -342,7 +342,7 @@
       "name": "DDP 跨年与 SEOULCon",
       "url": "https://news.google.com/rss/search?q=DDP+%EC%84%9C%EC%9A%B8%EC%BD%98+%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4+%222026%22+%222027%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     {
       "name": "清溪川冬季灯节",
@@ -366,16 +366,16 @@
       "name": "首尔年末小型演出",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8+%ED%99%8D%EB%8C%80+%EC%86%A1%EB%85%84+%EA%B3%B5%EC%97%B0+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     {
       "name": "公开社交跨年线索",
       "url": "https://news.google.com/rss/search?q=%E9%A6%96%E5%B0%94+%E8%B7%A8%E5%B9%B4+2026+2027+%28site%3Axiaohongshu.com+OR+site%3Ainstagram.com%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 37
+      "count": 34
     },
     {
-      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 已记录页面指纹",
+      "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 页面有变化，请人工核实",
       "url": "https://www.mintpaper.co.kr/",
       "status": "ok",
       "count": 0
@@ -449,7 +449,7 @@
         },
         {
           "name": "主办方 / 票务正文",
-          "url": "https://ticket.yes24.com/Perf/60661",
+          "url": "https://ticket.yes24.com/Perf/59859",
           "status": "error",
           "error": "Official source redirected outside the verified city origin"
         }
@@ -458,127 +458,151 @@
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "0c43cab789b2152ed3c4b36ca2933849e142ba5e70529f211f19f2bfbe96dbf6",
-      "checkedAt": "2026-11-08T06:54:04+00:00",
+      "sha256": "c4055a2427e7d801e146883ad0a223a94d2f84bf1969b794708517f14e91c2ad",
+      "checkedAt": "2026-11-09T07:36:45+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
-      "sha256": "cd2c9af9b43b047bb5c654c8b49337d0f0fa1ac4b53456642f7ec5280a972cc6",
-      "checkedAt": "2026-11-08T06:54:04+00:00",
-      "changed": false
+      "sha256": "7e5e711de6551be0656251a7399f57fcdcac8dd0e00a0906526cda326e20017d",
+      "checkedAt": "2026-11-09T07:36:45+00:00",
+      "changed": true
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "0daf6105a4ebd84adef952bd8932fb7c17182e43ace22d10837a9ccce296efa5",
-      "checkedAt": "2026-11-08T06:54:04+00:00",
+      "sha256": "ceb62305a86dd2019a831cbfd3d7fb2814466d04d72e132de951d891ee878857",
+      "checkedAt": "2026-11-09T07:36:45+00:00",
       "changed": true
     }
   },
   "eventBriefs": [],
   "officialStatus": "ok",
-  "lastOfficialSuccess": "2026-11-08T06:54:04+00:00",
+  "lastOfficialSuccess": "2026-11-09T07:36:45+00:00",
   "nightlifeStatus": "partial",
-  "lastNightlifeSuccess": "2026-11-08T06:54:04+00:00",
+  "lastNightlifeSuccess": "2026-11-09T07:36:45+00:00",
   "socialLeads": [
     {
-      "url": "https://blog.naver.com/ferrarin_/224098302026",
+      "url": "https://blog.naver.com/ji_raffe",
       "source": "Naver · 韩网年末派对与酒吧",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/ferrarin_",
       "source": "Naver · 韩网年末派对与酒吧",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
-      "url": "https://blog.naver.com/jmi200",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "url": "https://blog.naver.com/ferrarin_/224098302026",
+      "source": "Naver · 韩网年末派对与酒吧",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
-      "url": "https://blog.naver.com/joo1609",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/chsh1216",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://ticket.yes24.com/Perf/60661",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/79mo",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/curie0803/224200493563",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "url": "https://blog.naver.com/ji_raffe/224127213142",
+      "source": "Naver · 韩网年末派对与酒吧",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/iloveraining/224465832062",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
-      "url": "https://blog.naver.com/playingsimple",
+      "url": "https://blog.naver.com/kissbkl",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
-      "url": "https://blog.naver.com/mialove89/224468152091",
+      "url": "https://blog.naver.com/a4b4",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/rosejam1",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/mialove89",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
-      "url": "https://blog.naver.com/curie0803",
+      "url": "https://blog.naver.com/mialove89/224468152091",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
-      "url": "https://blog.naver.com/avrildefiant0304",
+      "url": "https://blog.naver.com/joo1609",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/ehebd123",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/ehebd123/224469449769",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/jmi200",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/playingsimple",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/79mo",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/rosejam1",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/kissbkl/224450513746",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/iloveraining",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://ticket.yes24.com/Perf/59859",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/sfran7",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-08T06:54:04+00:00",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/chsh1216",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-09T07:36:45+00:00",
       "status": "unverified"
     }
   ],
