@@ -1,15 +1,15 @@
 {
   "status": "partial",
-  "lastAttempt": "2026-11-27T09:23:59+00:00",
-  "lastSuccess": "2026-11-27T09:23:59+00:00",
+  "lastAttempt": "2026-11-28T08:39:08+00:00",
+  "lastSuccess": "2026-11-28T08:39:08+00:00",
   "schedule": "每日北京时间 09:00 / 首尔 10:00（GitHub Actions 可能延迟）",
   "items": [
     {
-      "title": "누가 돌아왔게? 52일간의 설렘, 서울윈터페스티벌 - 서울특별시",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSWFc0ZGM5TVNMMUJ2Y1dVYTlWanFRVmdKaF80b0R2T3ZJUHVHTVFzUnJKV3ZjbmVOOWhwX2hxelM1ZFZzR0VYbzVrWWtrS0xIVE1ySEFwLTU?oc=5",
-      "source": "서울특별시",
-      "publishedAt": "2026-11-27T04:08:37+00:00",
-      "discoveredAt": "2026-11-25T09:30:00+00:00",
+      "title": "서울 청계천 빛초롱축제 12월 11일 개막… 일정과 점등시간은? - 파이트타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRlJXMDdaZEdyeFdILTY1OHVWaXIwdFRQSTBNanpGSngxaXdRejJtYkFHcTdHMHdUZnVFVGJQa2RoLUppR0xHYU1CRUxsRzhGS3hfZFhBMDZKRUc5VVdkeVktUUVHdw?oc=5",
+      "source": "파이트타임즈",
+      "publishedAt": "2026-11-27T15:15:29+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
       "status": "unverified"
     },
     {
@@ -21,11 +21,35 @@
       "status": "unverified"
     },
     {
+      "title": "[라이프 한컷] ‘2026 서울윈터페스티벌’ 12월11일 막올라 - 대한전문건설신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CdEZ1YjJZZkxWWEl6VjZ0UktyUzhrWmE5cnJyZHB0X3NRWVMwMDV0NjZ6bS1MOGQzaGZGbG0zX2hEVUhJby1vV3d6V0EtNURUbDR2dS1iT08xckFNWlNHNUU2RlhVaEVS0gFsQVVfeXFMTWhlRHlBeG43U09uUWpZOHEwOXA1LVZFc1FXNTl5OHBvWjM3TzB1aWw5RTNuZXBtV0tqMG02ZlBQNVBsSGxiVlRjNE56dndUTnhLTmxXbTlyUlVtOTFkNjJVSHI0eWpVTkpJOVhx?oc=5",
+      "source": "대한전문건설신문",
+      "publishedAt": "2026-11-26T23:00:00+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
       "title": "2026 서울빛초롱축제 12월 11일 청계천서 개막 - www.culturegb.com",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WTnJydm9QUFhQWmRpcTFVM2dxZ0R4eTN1SGRoRUlDSU12XzhOV1lDUzBlYUx4UVVRNzZKNmhJc2hwai1BSV9iVWhDUE90R0JzVmFValRkbldUTHBi?oc=5",
       "source": "www.culturegb.com",
       "publishedAt": "2026-11-26T16:44:00+00:00",
       "discoveredAt": "2026-11-27T09:23:59+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "2026 서울빛초롱축제 12월 11일 청계천서 개막 - culturegb.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zcG9LeGhKUHdDMk5rWGtkWE83a1lBSHMwdXg0REtNTVlRQVNrd3NMTHhJUkV1eW9XNlJFeTZqeUlidDZoOVhpNHNPZWI2TkpYZFEw?oc=5",
+      "source": "culturegb.com",
+      "publishedAt": "2026-11-26T16:44:00+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "누가 돌아왔게? 52일간의 설렘, 서울윈터페스티벌 2 - 국민기자뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FSGsyZTlnekJMdkR1T2ExSmtjekR1REtRVHhSYm9yNGw2cG96ZURSX2xiWTl1WThUS1FlZDY2UnAyYXdkem1SU1o4VXU3NDVlaG51Z3hRd2VlMlM5T0hQRkFMdnJtSFHSAWdBVV95cUxNRUhrMmU5Z3pCTHZEdU9hMUprY3pEdURLUVR4UmJvcjRsNnBvemVEUl9sYlk5dVk4VEtRZWQ2NlJwMmF3ZHptUlNaOFV1NzQ1ZWhudWd4UXdlZTJTOU9IUEZBTHZybUhR?oc=5",
+      "source": "국민기자뉴스",
+      "publishedAt": "2026-11-26T12:22:32+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
       "status": "unverified"
     },
     {
@@ -81,6 +105,14 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZTkFSNHhPb3pyZHZ4RTd5Y2U1TUtEM2FQZ01zTW9MMzJrYTF5VmEta1g4Q0lQajl5WG94enEzSnhLMkprTGFSOXFJY1RqdjFReVBkYXlrbzM2TGZWZXlTV3Q4RFJrM2M4S2c?oc=5",
       "source": "천지일보",
       "publishedAt": "2026-11-25T09:03:43+00:00",
+      "discoveredAt": "2026-11-25T09:30:00+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "누가 돌아왔게? 52일간의 설렘, 서울윈터페스티벌 - 서울시청",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSWFc0ZGM5TVNMMUJ2Y1dVYTlWanFRVmdKaF80b0R2T3ZJUHVHTVFzUnJKV3ZjbmVOOWhwX2hxelM1ZFZzR0VYbzVrWWtrS0xIVE1ySEFwLTU?oc=5",
+      "source": "서울시청",
+      "publishedAt": "2026-11-25T08:20:35+00:00",
       "discoveredAt": "2026-11-25T09:30:00+00:00",
       "status": "unverified"
     },
@@ -197,6 +229,14 @@
       "status": "unverified"
     },
     {
+      "title": "서울윈터페스티벌 내달 11일 개막…도심·한강서 겨울 축제 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fbW1oWHBxak1mbFFWZGN1c3ozeWdreDdFZEgtbUlQenhrdjlUalEtWEtlWVFMOTdDdW96RHVhY1VZZnVqbUs3Q1hOZXYteUl5c0p6Wlk0Zk40YU3SAWBBVV95cUxQejVqb0owbHEwTGZ3WkZpWW9TNmY3MkpLZjNpcmlHWFJGSHdtS2J5WXVydXRaN0hkWi0yR1dLNmFta3ltbkhJUkJWWmp5WUFiQU5vcHdtcEhoOGtDeE03OWc?oc=5",
+      "source": "연합뉴스",
+      "publishedAt": "2026-11-25T01:00:02+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
       "title": "도심 넘어 한강까지…서울윈터페스티벌, 12월11일 개막 - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMb2V0Q2M4MzNraGNKZ2NlYjR4eENCcGZsXzdDb1Nzc2xMSjd1ZGFZV2RySUZPMTJtai0xWHg4Q2JDRktsRjhWUm9BcVNqXzRUVGRVSi05VnhwNHFfZ2R3cnV6d2ZjbXVrQVhlZ0F2S1VRNXJZV183UdIBeEFVX3lxTFBMb2V0Q2M4MzNraGNKZ2NlYjR4eENCcGZsXzdDb1Nzc2xMSjd1ZGFZV2RySUZPMTJtai0xWHg4Q2JDRktsRjhWUm9BcVNqXzRUVGRVSi05VnhwNHFfZ2R3cnV6d2ZjbXVrQVhlZ0F2S1VRNXJZV183UQ?oc=5",
       "source": "뉴시스",
@@ -218,6 +258,22 @@
       "source": "더팩트",
       "publishedAt": "2026-11-25T01:00:00+00:00",
       "discoveredAt": "2026-11-26T09:08:07+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "도심 넘어 한강까지…서울윈터페스티벌, 12월11일 개막 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02TkFCSnpDN0VmSlYzWmQ3eHA0Y1llUmhoNE13WFc3UlRUQVphQ0F0WkZzUXdRTW5rc1pmQ2VsVzZIWVEtT2hvZm04Xzc2SEFDR3I4aVA0Z0E2YjVLbUYzZdIBeEFVX3lxTFBMb2V0Q2M4MzNraGNKZ2NlYjR4eENCcGZsXzdDb1Nzc2xMSjd1ZGFZV2RySUZPMTJtai0xWHg4Q2JDRktsRjhWUm9BcVNqXzRUVGRVSi05VnhwNHFfZ2R3cnV6d2ZjbXVrQVhlZ0F2S1VRNXJZV183UQ?oc=5",
+      "source": "뉴시스",
+      "publishedAt": "2026-11-25T01:00:00+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "title": "‘서울윈터페스티벌’ 더 오래, 더 많은 곳에서 겨울밤 밝힌다 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfOVFJTkhBZHM3U3p3THhUUFRQTFFKcEw4c0Vxd3FXdlhvV0Jhdm5ZZXRSWDVmR1dfY1NLQXRiTnpCYUV3SzFYd0hIVGZ0VEVlbVBPUUZJV2tfWEVpT0pJ0gFfQVVfeXFMUF85UUlOSEFkczdTendMeFRQVFBMUUpwTDhzRXF3cVd2WG9XQmF2bllldFJYNWZHV19jU0tBdGJOekJhRXdLMVh3SEhUZnRURWVtUE9RRklXa19YRWlPSkk?oc=5",
+      "source": "경향신문",
+      "publishedAt": "2026-11-25T01:00:00+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
       "status": "unverified"
     },
     {
@@ -267,62 +323,6 @@
       "publishedAt": "2026-11-24T01:26:22+00:00",
       "discoveredAt": "2026-11-24T10:39:28+00:00",
       "status": "unverified"
-    },
-    {
-      "title": "빛으로 물드는 서울의 겨울밤 - 여성조선",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xMFM3UF94YmN2WmNIcXFVLUg0Zi16aW9tNEExcURLUHdCektTRFIzV2szczY5aXh2Y2RlS0MtN2IzSTk5U1N6VHhueVdZRXFGNURQeFNvZ0NHSlB2NVVXdlZTVnhxa2pvS1p30gFuQVVfeXFMTlYtSmFLbTFIY2VYVG5sQm1rYWZMU2JCMG1remI5VS02a254S3JSVWdIRFh3WUhCYkl3Z3dDQUFadjlrV3ZsVmZBeURDNld0X0t4YWQ0OGpWODFfbjkzREVDY3BaYUlSSklUYWxISWc?oc=5",
-      "source": "여성조선",
-      "publishedAt": "2026-11-24T00:56:09+00:00",
-      "discoveredAt": "2026-11-26T09:08:07+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "글로벌 크리에이터 서울 집결… ‘2026 서울콘’ 12월 29일 DDP 개막 - 한국공공정책신문",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBtTkhMSFdZZFhzYnpwcjVvcmtOaDBSZi1zdzY3T2tIamJhZXNiX0xPMmRHMjNmcUVtWGk4cklqWFk4aHM?oc=5",
-      "source": "한국공공정책신문",
-      "publishedAt": "2026-11-20T05:56:42+00:00",
-      "discoveredAt": "2026-11-20T08:01:49+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "글로벌 크리에이터 서울 집결… ‘2026 서울콘’ 12월 29일 DDP 개막 - 한국IT산업뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WeEdnRW0wdFFuLWctc0hSenlYTDZzcjZiZzcwZVJLS0NaZ2x4VHNsY05yTHJOYzdNV2paVVN1NWY5dXRJR05rUmZDUEU?oc=5",
-      "source": "한국IT산업뉴스",
-      "publishedAt": "2026-11-20T05:56:42+00:00",
-      "discoveredAt": "2026-11-21T07:56:58+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "글로벌 크리에이터 서울 집결… ‘2026 서울콘’ 12월 29일 DDP 개막 - 유스연합",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51aDhCcWMyQkk0UFRkZWZoZjl4LXZaRk1sOHRuUURmbDdhcHExYTIxTHV1a2tJaTRSRlg1QzU3dFJ0YnhVQTBNSzZCM2pXRXdIb1Bj?oc=5",
-      "source": "유스연합",
-      "publishedAt": "2026-11-20T05:56:42+00:00",
-      "discoveredAt": "2026-11-22T07:43:54+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "신인 보이 밴드 AxMxP, 내년 1월 킨텍스 출격…페스티벌 행보 이어간다 - 스페셜타임스",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLdXZnNllmZDFfZ0g4MGdqT0VVM0hkZnJvX2duZzNLak1Fdm5IVUMxbFF0S2xnOFRGeDBneUtqMXhvaTBibWEyV0NfQWNmdVFlT3ltVVJkRzlHZmxGQUs5SmJZOW83VW94MTladnotRHRxdjA?oc=5",
-      "source": "스페셜타임스",
-      "publishedAt": "2026-11-20T00:38:32+00:00",
-      "discoveredAt": "2026-11-20T08:01:49+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "산타도 몰래 들를 12월 서울 연말 축제·전시 BEST 7 - 시크릿 서울",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tUG5rd0VFYWFKb2dvdXNXa3NUZlFoTi02WFQ1bE1icGp0QUVHZnVSVzNsZTU1RmFXc3g0MU12b0gxVTBCN1RVZlFRR1JYc3BMVXc?oc=5",
-      "source": "시크릿 서울",
-      "publishedAt": "2026-11-19T09:42:01+00:00",
-      "discoveredAt": "2026-11-20T08:01:49+00:00",
-      "status": "unverified"
-    },
-    {
-      "title": "서울빛초롱축제 12월 11일 개막…청계천에 빛의 교향곡 - 여행픽",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40UXpmQXlrUmJfSVU5YmNRSUdUTHVzQnI0LUxCWHhHU3p1VWgtdE5wQUNfZkl5NUdINTZlenRrMzBRN2VZUzQyekdHaTl2dFVXV3laeVd3MjZJaXB0NWJmRnZGWU9KTTBhaHQ4aw?oc=5",
-      "source": "여행픽",
-      "publishedAt": "2026-11-18T07:00:00+00:00",
-      "discoveredAt": "2026-11-18T08:10:42+00:00",
-      "status": "unverified"
     }
   ],
   "sources": [
@@ -330,13 +330,13 @@
       "name": "普信阁与首尔城市跨年",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8+%EB%B3%B4%EC%8B%A0%EA%B0%81+%EC%A0%9C%EC%95%BC%EC%9D%98+%EC%A2%85+%222026%22+%222027%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 8
+      "count": 10
     },
     {
       "name": "光化门灯光与市集",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EB%9D%BC%EC%9D%B4%ED%8A%B8+%EA%B4%91%ED%99%94%EB%AC%B8+%EB%A7%88%EC%BC%93+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 21
+      "count": 24
     },
     {
       "name": "DDP 跨年与 SEOULCon",
@@ -348,13 +348,13 @@
       "name": "清溪川冬季灯节",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8%EB%B9%9B%EC%B4%88%EB%A1%B1%EC%B6%95%EC%A0%9C+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 44
+      "count": 97
     },
     {
       "name": "高阳 CDF 周边备选",
       "url": "https://news.google.com/rss/search?q=COUNTDOWN+FANTASY+%222026-2027%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 15
+      "count": 33
     },
     {
       "name": "首尔夜店 / 酒吧年末派对",
@@ -366,13 +366,13 @@
       "name": "首尔年末小型演出",
       "url": "https://news.google.com/rss/search?q=%EC%84%9C%EC%9A%B8+%ED%99%8D%EB%8C%80+%EC%86%A1%EB%85%84+%EA%B3%B5%EC%97%B0+%222026%22+%2212%EC%9B%94%22&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     {
       "name": "公开社交跨年线索",
       "url": "https://news.google.com/rss/search?q=%E9%A6%96%E5%B0%94+%E8%B7%A8%E5%B9%B4+2026+2027+%28site%3Axiaohongshu.com+OR+site%3Ainstagram.com%29&hl=ko&gl=KR&ceid=KR%3Ako",
       "status": "ok",
-      "count": 75
+      "count": 52
     },
     {
       "name": "MINT PAPER 主办方首页变化（不等于当届公告） · 已记录页面指纹",
@@ -439,31 +439,33 @@
           "name": "FAUST 公开社交公告",
           "url": "https://www.instagram.com/faustseoul/",
           "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
+          "count": 0,
+          "error": "公开页面未提供可读取的活动帖子；不绕过登录验证"
         },
         {
           "name": "Cakeshop 公开社交公告",
           "url": "https://www.instagram.com/cakeshopseoul/",
           "status": "error",
-          "error": "HTTP Error 429: Too Many Requests"
+          "count": 0,
+          "error": "公开页面未提供可读取的活动帖子；不绕过登录验证"
         }
       ]
     }
   ],
   "officialPages": {
     "https://english.seoul.go.kr/": {
-      "sha256": "13245339f6f6ed94fd69896ba7a47fcd530b31b6d031ca8e59de1b0b25cac290",
-      "checkedAt": "2026-11-27T09:23:59+00:00",
+      "sha256": "e558ba4bd8a26eedadc48f1c432c2022027e853b25eb890dedd79f89bddf1dfd",
+      "checkedAt": "2026-11-28T08:39:08+00:00",
       "changed": true
     },
     "https://www.mintpaper.co.kr/": {
       "sha256": "69caacef67a094c66d06c230146cbd44f8ad766a30fc6b71f8e37e2d64c68ad5",
-      "checkedAt": "2026-11-27T09:23:59+00:00",
+      "checkedAt": "2026-11-28T08:39:08+00:00",
       "changed": false
     },
     "https://nol.yanolja.com/ticket/products/26014480": {
-      "sha256": "0910d27aaf933ec46e214b5a58fcdcaba09281917e16e4296fa82e37d269c10e",
-      "checkedAt": "2026-11-27T09:23:59+00:00",
+      "sha256": "423fa7fe86d872cdc79f8fceb521e4d0944409d1c10d1d0527acfe34ddc0a918",
+      "checkedAt": "2026-11-28T08:39:08+00:00",
       "changed": true
     }
   },
@@ -490,7 +492,7 @@
           "https://english.seoul.go.kr/seoul-winter-festival-a-festival-that-attracts-10-million-visitors-to-expand-beyond-downtown-seoul-to-the-hangang-river-this-year/"
         ]
       ],
-      "checkedAt": "2026-11-27T09:23:59+00:00",
+      "checkedAt": "2026-11-28T08:39:08+00:00",
       "publishedAt": "2026-11-27T07:23:17+00:00"
     },
     {
@@ -515,7 +517,7 @@
           "https://english.seoul.go.kr/seoul-winter-festival-a-festival-that-attracts-10-million-visitors-to-expand-beyond-downtown-seoul-to-the-hangang-river-this-year/"
         ]
       ],
-      "checkedAt": "2026-11-27T09:23:59+00:00",
+      "checkedAt": "2026-11-28T08:39:08+00:00",
       "publishedAt": "2026-11-27T07:23:17+00:00"
     },
     {
@@ -540,7 +542,7 @@
           "https://english.seoul.go.kr/seoul-winter-festival-a-festival-that-attracts-10-million-visitors-to-expand-beyond-downtown-seoul-to-the-hangang-river-this-year/"
         ]
       ],
-      "checkedAt": "2026-11-27T09:23:59+00:00",
+      "checkedAt": "2026-11-28T08:39:08+00:00",
       "publishedAt": "2026-11-27T07:23:17+00:00"
     },
     {
@@ -565,7 +567,7 @@
           "https://english.seoul.go.kr/seoul-winter-festival-a-festival-that-attracts-10-million-visitors-to-expand-beyond-downtown-seoul-to-the-hangang-river-this-year/"
         ]
       ],
-      "checkedAt": "2026-11-27T09:23:59+00:00",
+      "checkedAt": "2026-11-28T08:39:08+00:00",
       "publishedAt": "2026-11-27T07:23:17+00:00"
     },
     {
@@ -590,7 +592,7 @@
           "https://english.seoul.go.kr/seoul-winter-festival-a-festival-that-attracts-10-million-visitors-to-expand-beyond-downtown-seoul-to-the-hangang-river-this-year/"
         ]
       ],
-      "checkedAt": "2026-11-27T09:23:59+00:00",
+      "checkedAt": "2026-11-28T08:39:08+00:00",
       "publishedAt": "2026-11-27T07:23:17+00:00"
     },
     {
@@ -615,211 +617,211 @@
           "https://english.seoul.go.kr/seoul-winter-festival-a-festival-that-attracts-10-million-visitors-to-expand-beyond-downtown-seoul-to-the-hangang-river-this-year/"
         ]
       ],
-      "checkedAt": "2026-11-27T09:23:59+00:00",
+      "checkedAt": "2026-11-28T08:39:08+00:00",
       "publishedAt": "2026-11-27T07:23:17+00:00"
     }
   ],
   "officialStatus": "ok",
-  "lastOfficialSuccess": "2026-11-27T09:23:59+00:00",
+  "lastOfficialSuccess": "2026-11-28T08:39:08+00:00",
   "nightlifeStatus": "partial",
-  "lastNightlifeSuccess": "2026-11-27T09:23:59+00:00",
+  "lastNightlifeSuccess": "2026-11-28T08:39:08+00:00",
   "socialLeads": [
     {
-      "url": "https://blog.naver.com/kkbc2018/224492988773",
+      "url": "https://blog.naver.com/feelmyself-/224493224867",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
       "status": "unverified"
     },
     {
-      "url": "https://blog.naver.com/myhyeonjjang",
+      "url": "https://blog.naver.com/dandy9389/224495872796",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/kissbkl",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/ajisi/224493639179",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/uiui000",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/starissueroom/224490487873",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/ajisi",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/kkbc2018",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/blackfox113/224488613917",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/uiui000/224486834745",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/soratick",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/soratick/224490721961",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/royal_vip/224473448003",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/royal_vip",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/jung121793",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/hansong5155",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/jung121793/224490595558",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/qwert280",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/onsale7979/224491255103",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/myhyeonjjang/224473757748",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/qwert280/224481020099",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/kissbkl/224483150750",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/starissueroom",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/onsale7979/224483558592",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/dhrhfrhf2",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/feelmyself-",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/aldonlife/224418617549",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/aldonlife",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/onsale7979",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
-      "status": "unverified"
-    },
-    {
-      "url": "https://blog.naver.com/dhrhfrhf2/224469365521",
-      "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/blackfox113",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/kissbkl/224483150750",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/soratick/224490721961",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/blackfox113/224488613917",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/onsale7979/224483558592",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/royal_vip",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/qwert280",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/qwert280/224481020099",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/royal_vip/224473448003",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/myhyeonjjang",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/aldonlife",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/aldonlife/224418617549",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/kkbc2018",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/kissbkl",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
       "status": "unverified"
     },
     {
       "url": "https://blog.naver.com/hansong5155/224493647696",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
       "status": "unverified"
     },
     {
-      "url": "https://blog.naver.com/feelmyself-/224493224867",
+      "url": "https://blog.naver.com/starissueroom/224490487873",
       "source": "Naver · 韩网演出与售票",
-      "discoveredAt": "2026-11-27T09:23:59+00:00",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/dhrhfrhf2/224469365521",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/hansong5155",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/dandy9389",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/ajisi",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/onsale7979/224491255103",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/feelmyself-",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/dhrhfrhf2",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/soratick",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/myhyeonjjang/224473757748",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/kkbc2018/224492988773",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/ajisi/224493639179",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/starissueroom",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://blog.naver.com/onsale7979",
+      "source": "Naver · 韩网演出与售票",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fwww.instagram.com%2Ffaustseoul%2F",
+      "source": "FAUST 公开社交公告",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
+      "status": "unverified"
+    },
+    {
+      "url": "https://www.instagram.com/accounts/password/reset/?next=https%3A%2F%2Fwww.instagram.com%2Fcakeshopseoul%2F",
+      "source": "Cakeshop 公开社交公告",
+      "discoveredAt": "2026-11-28T08:39:08+00:00",
       "status": "unverified"
     }
   ],
